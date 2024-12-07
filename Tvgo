@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡🌈™",T-sport
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245901.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡🌈™",Gazi TV
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245901.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BD General", ATN NEWS
+https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
