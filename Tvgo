@@ -1,10 +1,65 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡🌈™",T-sport
-http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245901.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡🌈™",Gazi TV
-http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245901.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BD General", ATN NEWS
-https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
+
+[
+
+
+
+    {
+        "id": "1","url":"https://live4wap.neocities.org/TV/HOTSTAR/ipl",
+        "team1": {
+            "name": "Punjab King",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png"
+        },
+        "team2": {
+            "name": "Royal Challengers Bengaluru",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_tmLHzrFxaVY53sJv9muWsCkgEhGDs4Bl0Imf0nSxQDdh2qmxCMpH7U&s=10"
+        },
+        "matchTime": "2025-06-11T19:30",
+        "endTime": "1970-01-01T00:00"
+    },
+    
+    
+    
+    {
+        "id": "2","url":"https://live4wap.neocities.org/TV/HOTSTAR/ipl", 
+        "team1": {
+            "name": "Gujarat Titans",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Gujarat_Titans_Logo.svg/1200px-Gujarat_Titans_Logo.svg.png"
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png"
+        },
+        "matchTime": "2025-05-30T19:30",
+        "endTime": "1970-01-01T00:00"
+    },
+    
+    
+    
+    
+    {"id": "3","url":"", 
+        "team1": {
+            "name": "NAME1",
+            "logo": "LOGO1"},
+        "team2": {
+            "name": "NAME2",
+            "logo": "LOGO2"},
+        "matchTime": "2025-04-31T19:30",
+        "endTime": "1970-01-01T00:00"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
