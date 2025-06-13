@@ -8,7 +8,7 @@
     },
     {
         "id": "hot",
-        "m3u8": "https://server.dccodes.me/hls/IPL/index.m3u8"
+        "mpd": "https://server.dccodes.me/hls/IPL/index.m3u8","key":"tv4wap.xyz"
     },
     {
         "id": "eng",
