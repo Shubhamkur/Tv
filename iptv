@@ -8,12 +8,12 @@
 
 [
 {"name":"SONY SPORTS 3 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten3hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_263.png"}, 
-{"id":"SONY SPORTS 3","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten3","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_263.png"}, 
-{"id":"SONY SPORTS 5","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten5","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}, 
-{"id":"SONY SPORTS 1 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
-{"id":"SONY SPORTS 1","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
-{"id":"SONY SPORTS 2 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
-{"id":"SONY SPORTS 2","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"name":"SONY SPORTS 3","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten3","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_263.png"}, 
+{"name":"SONY SPORTS 5","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten5","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}, 
+{"name":"SONY SPORTS 1 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"name":"SONY SPORTS 1","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"name":"SONY SPORTS 2 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"name":"SONY SPORTS 2","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
 {"name":"SONY TEN 1","m3u8":"https://stream.yflix.top/play.html?channel_id=5648f225e8","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
 {"name":"SONY TEN 2","m3u8":"https://stream.yflix.top/play.html?channel_id=c40348b8d2","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
 {"name":"SONY TEN 5","m3u8":"https://stream.yflix.top/play.html?channel_id=68b0cc2534","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}, 
