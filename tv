@@ -6,8 +6,8 @@
 "m3u8": "https://stream.yflix.top/play.html?channel_id=5648f225e8"},
 {"id": "sony2",
 "m3u8": "https://stream.yflix.top/play.html?channel_id=5648f225e8"},
-{"id": "ws",
- "sony5": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
+{"id": "sony5",
+ "sony5":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 
 
