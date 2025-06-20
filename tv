@@ -2,138 +2,28 @@
 
 
 [
-    {
-        "id": "ss1",
-        "m3u8": "https://embed.madplay.site/stream/crichd/master.m3u8/?id=star1in"
-    },
-    {
-        "id": "hot",
-        "mpd": "https://server.dccodes.me/hls/IPL/index.m3u8","key":"tv4wap.xyz"
-    },
-    {
-        "id": "eng",
-        "m3u8": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2117030/inallow-ipl-2025/eng/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master.m3u8"
-    },
-    {
-        "id": "fox",
-        "mpd": "https://pstvplaylive.online/mpd/fox2/ps_manifest.mpd",
-        "key": "a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66"
-    },
-    {
-        "id": "willow2",
-        "m3u8": "https://jio.ironmancreation.workers.dev/m3u8?v=willowextra"
-    },
-    {
-        "id": "willow-sp",
-        "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
-    },
-    {
-        "id": "telugu",
-        "m3u8": "https://001.fclplayer.online/live/csstream4/chunklist.m3u8?vidictid=201809658228&id=1003"
-    },
-    {
-        "id": "ten",
-        "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
-        "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"
-    },
-    {
-        "id": "ten1",
-        "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"
-    },
-    {
-        "id": "hindi",
-        "m3u8": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://247tv.top/CricBD/m3u8.php/starhindi.m3u8"
-    },
-    {
-        "id": "sp2",
-        "m3u8": "https://m-six-pi.vercel.app/sp2_hn.m3u8?id=sp2"
-    },
-    {
-        "id": "sp2_ios",
-        "m3u8": "https://m-six-pi.vercel.app/sp2_hn.m3u8?id=sp2_ios"
-    },
-    {
-        "id": "astro",
-        "mpd": "https://streamdog.site/proxy/noob/stream.php/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
-        "key": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
-    },
-    {
-        "id": "astr",
-        "m3u8": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1163674&extension=m3u8&play_token=4hjjWijMxe"
-    },
-    {
-        "id": "sky-nz",
-        "m3u8": "https://cors-anywhere.ammoapps.com/https://1a-1791.com/live/t5qc33px/slot-97/eeuz-402w_1080p/chunklist.m3u8"
-    },
-    {
-        "id": "tsports",
-        "m3u8": "https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.109.86.40&e=1794985409&h=1bd779f6c79b0f4909848dd023aff83d"
-    },
-    {
-        "id": "ss1hin",
-        "mpd": "https://psplay.site/ps_star/sshindi/ps_manifest.mpd",
-        "key": "fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
-    },
-    {
-        "id": "ss1hd",
-        "mpd": "https://psplay.site/ps_star/sshd1/ps_manifest.mpd",
-        "key": "fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
-    },
-  {
-    "id": "601",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=hin"
-  },
-  {
-    "id": "602",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=eng"
-  },
-  {
-    "id": "603",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=tam"
-  },
-  {
-    "id": "604",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=kan"
-  },
-  {
-    "id": "605",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=bho"
-  },
-  {
-    "id": "606",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=tel"
-  },
-  {
-    "id": "607",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=guj"
-  },
-  {
-    "id": "608",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=har"
-  },
-  {
-    "id": "609",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=mal"
-  },
-  {
-    "id": "610",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=ben"
-  },
-  {
-    "id": "701",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=batter_cam"
-  },
-  {
-    "id": "702",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=hero_cam"
-  },
-  {
-    "id": "703",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=stump_cam"
-  },
-  {
-    "id": "704",
-    "m3u8": "https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=field_view_cam"
-  }
+{"id": "sony1",
+"m3u8": "https://stream.yflix.top/play.html?channel_id=5648f225e8"},
+{"id": "sony2",
+"m3u8": "https://stream.yflix.top/play.html?channel_id=5648f225e8"},
+{"id": "sony5",
+"m3u8": "https://stream.yflix.top/play.html?channel_id=68b0cc2534"},
+
+
+
+{"id": "ws",
+ "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+ "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
+
+
+
+{ "id": "tenc",
+"mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
+"key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"},
+    {"id": "tenc1",
+"m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"}
+    
+        
+    
+    
 ]
