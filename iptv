@@ -7,45 +7,20 @@
 
 
 [
-
-{"id":"p17","url":"https://nijineh-lalajo.hf.space/proxy?url=/https://starsportshindiii.pages.dev/index.m3u8","logo":"https://wapka-img.zuna.id/7145dac7.png","name":"STAR SPORTS HINDI "}, 
-
-{"id":"p2","url":"smart.bengaldigital.live/star-sports-1/embed.html?token=2db4ef5ddba5bf7694297856bfbb82ed86f25d3c-4c5fef115b20a620f4315476a939c267-1748363176-1748352376","logo":"https://wapka-img.zuna.id/858ef840.jpeg","name":"STAR SPORTS1"}, 
-
-{"id":"p2","url":"live4wap.neocities.org/APPTV/crichd?id=star1in","logo":"https://wapka-img.zuna.id/858ef840.jpeg","name":"STAR SPORTS1 HD"}, 
-
-{"id":"p14","url":"c=https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd&c1=9872e439f21f4a299cab249c6554daa3&c2=0cdfcfe0d0f1fbe100554ce3ef4c4665","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s","name":"STAR SPORTS 2"}, 
-
-{"id":"p16","url":"https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/WILLOWTV/index.m3u8","logo":"https://wapka-img.zuna.id/29308878.jpeg","name":"WILLOW TV ENG"}, 
-
-{"id":"p16","url":"https://toffee.xenolive.xyz/live.php?id=f4189bfa64f3f801495ad7a973334724&e=.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwoQVZVaf98Yqo6IUOinX7B-DtvN1zI2BMSszV20GiqWJufuM2DhzPZmf&s=10","name":"TOFFEE IPL LIVE"}, 
-
-
-{"id":"p2","url":"live4wap.neocities.org/APPTV/crichd?id=skyscric","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg", "name" :"SKY CRICKET" }, 
-
-{"id":"p16","url":"https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/TSports/index.m3u8","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png","name":"T SPORTS"}, 
-
-
-{"id":"p17","url":"https://nijineh-lalajo.hf.space/proxy?url=https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.109.86.40&e=1794985409&h=1bd779f6c79b0f4909848dd023aff83d","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png","name":"T SPORTS (S2)"}, 
-
-
-
-{"id":"p14","url":"c=https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd&c1=1779c27b9d077a3ba0c9cc1bb9a94b9f&c2=cc5cf3b7928fb9e0a1ee6a8b566f0a8e","logo":"https://mms.businesswire.com/media/20241011098963/en/2269728/4/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg","name":"WILLOW SPORTS"}, 
-
-{"id":"p16","url":"https://cors-anywhere.ammoapps.com/125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8","logo":"https://wapka-img.zuna.id/da49b044.jpeg","name":"TEN SPORTS"}, 
-
-{"id":"p14","url":"c=https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd&c1=9872e439f21f4a299cab249c6554daa3&c2=0cdfcfe0d0f1fbe100554ce3ef4c4665","logo":"https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png","name":"TEN CRICKET"}, 
-
-
-{"id":"p16","url":"https://cors-anywhere.ammoapps.com/38.96.178.201/live/PTVSports/index.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sao4QMrW4QCorCZq1Su0lV-C8jN7IXwJbCAt7VfwFIFUajCdlvq5aQJj&s=10","name":"P TV SPORTS"}, 
-
-
-
-
-
-{"id":"p16","url":"https://cors-anywhere.ammoapps.com/38.96.178.201/live/ASports/index.m3u8","logo":"https://wapka-img.zuna.id/e3d690f1.png","name":"A SPORTS"}, 
-
-{"id":"p14","url":"c=https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd&c1=7641daa5bacfbb61936c40a221c9e78e&c2=5732dd242f28338e909dc06cb1a1e5a2","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10","name":"GEO SUPER"}]
+{"name":"SONY SPORTS 3 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten3hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_263.png"}, 
+{"id":"SONY SPORTS 3","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten3","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_263.png"}, 
+{"id":"SONY SPORTS 5","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten5","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}, 
+{"id":"SONY SPORTS 1 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"id":"SONY SPORTS 1","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten1","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"id":"SONY SPORTS 2 HD","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2hd","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"id":"SONY SPORTS 2","m3u8":"https://re.fredflix.fun/tata/play.php?id=sony_ten2","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"name":"SONY TEN 1","m3u8":"https://stream.yflix.top/play.html?channel_id=5648f225e8","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"name":"SONY TEN 2","m3u8":"https://stream.yflix.top/play.html?channel_id=c40348b8d2","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"name":"SONY TEN 5","m3u8":"https://stream.yflix.top/play.html?channel_id=68b0cc2534","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}, 
+{"name":"SONY SPORTS 1","m3u8":"https://xfireflix.fun/test/player.php?play=43dcec1011e7","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"}, 
+{"name":"SONY SPORTS 2","m3u8":"https://xfireflix.fun/test/player.php?play=abc6677968ef","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png"}, 
+{"name":"SONY SPORTS 5","m3u8":"https://xfireflix.fun/test/player.php?play=fd6de8bd1666","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png"}
+]
 
 
 
