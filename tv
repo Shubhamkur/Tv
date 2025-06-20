@@ -17,7 +17,7 @@
 {"id": "fox1",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "ts",
-"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
+"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/TSports/index.m3u8"}, 
 {"id": "wt",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 
