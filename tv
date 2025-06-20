@@ -16,9 +16,10 @@
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8"}, 
 {"id": "fox1",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
-
+{"id": "ts",
+"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 {"id": "wt",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
+"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 
 {"id": "ws",
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
