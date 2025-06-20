@@ -14,6 +14,8 @@
 
 {"id": "fox",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8"}, 
+{"id": "fox1",
+"m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 
 {"id": "wt",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
