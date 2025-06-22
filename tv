@@ -25,6 +25,10 @@
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
 
+{"id": "wx",
+"m3u8": "https://tvlive.wapka.xyz/p13?https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8"}, 
+{"id": "sk",
+"m3u8": "https://tvlive.wapka.xyz/p17?https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"}, 
 
 
 { "id": "tenc",
