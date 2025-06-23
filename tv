@@ -10,31 +10,45 @@
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 
-
+{"id": "as",
+"m3u8": "https://idx.gdplayertv.to/embed/astro-cricket/"}
+        
 
 {"id": "fox",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8"}, 
 {"id": "fox1",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
+{"id": "fox2",
+"m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}
+        
+
+
 {"id": "ts",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/TSports/index.m3u8"}, 
-{"id": "wt",
-"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 
+        
+{"id": "wt",
+"m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
+{"id": "wt1",
+"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}
 {"id": "ws",
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
-
 {"id": "wx",
 "m3u8": "https://tvlive.wapka.xyz/p13?https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8"}, 
+
+
+
 {"id": "sk",
 "m3u8": "https://tvlive.wapka.xyz/p17?https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"}, 
+{"id": "sk1",
+"m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
 
 
 { "id": "tenc",
 "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
 "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"},
-    {"id": "tenc1",
+ {"id": "tenc1",
 "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"}, 
 
 {"id": "sts1",
@@ -47,6 +61,9 @@
   {"id": "tnt1",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
+
+
+
 {"id": "ds",
 "m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
   {"id": "ds1",
