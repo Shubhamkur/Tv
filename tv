@@ -53,6 +53,13 @@
  {"id": "tenc1",
 "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"}, 
 
+
+
+{"id": "sts1h",
+"m3u8": "https://live4wap.neocities.org/APPTV/jiohd?id=173"},
+
+{"id": "sts2h",
+"m3u8": "https://live4wap.neocities.org/APPTV/jiohd?id=1984"},
 {"id": "sts1",
 "m3u8": "https://smart.bengaldigital.live/star-sports-1/index.m3u8"}, 
 {"id": "sts2",
