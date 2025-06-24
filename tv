@@ -11,7 +11,7 @@
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 
 {"id": "as",
-"m3u8": "https://idx.gdplayertv.to/embed/astro-cricket/"}
+"m3u8": "https://idx.gdplayertv.to/embed/astro-cricket/"}, 
         
 
 {"id": "fox",
@@ -19,7 +19,7 @@
 {"id": "fox1",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "fox2",
-"m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}
+"m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
         
 
 
@@ -30,7 +30,7 @@
 {"id": "wt",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 {"id": "wt1",
-"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}
+"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
 {"id": "ws",
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
