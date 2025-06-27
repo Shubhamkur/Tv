@@ -68,6 +68,8 @@
 "m3u8": "https://smart.bengaldigital.live/star-sports-1/index.m3u8"}, 
 {"id": "sts11",
 "m3u8": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8"},
+{"id": "sts12",
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=41.205.93.154/STARSPORTS1/index.m3u8"},
 {"id": "sts2",
 "m3u8": "https://smart.bengaldigital.live/star-sports-2/index.m3u8"}, 
 {"id": "sts21",
