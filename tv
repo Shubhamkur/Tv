@@ -45,6 +45,11 @@
 "m3u8": "https://tvlive.wapka.xyz/p17?https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"}, 
 {"id": "sk1",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
+{"id": "sk2",
+"m3u8": "https://kleanembed.online/embed/j5ru6icHofROsespidec64w0s7lgo8ot/?embed=1&autoplay=1&mute=0"}, 
+
+
+
 
 
 { "id": "tenc",
