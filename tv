@@ -1,7 +1,7 @@
 
-
-
 [
+
+
 {"id": "sony1",
 "m3u8": "https://tvlive.wapka.xyz/p10?https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
 {"id": "sony3",
@@ -10,9 +10,21 @@
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 
+
+
+
+
+
+
 {"id": "as",
 "m3u8": "https://idx.gdplayertv.to/embed/astro-cricket/"}, 
         
+
+
+
+
+
+
 
 {"id": "fox",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8"}, 
@@ -23,10 +35,17 @@
         
 
 
+
+
+
+
+
+
 {"id": "ts",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/TSports/index.m3u8"}, 
 {"id": "gt",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/GaziTV/index.m3u8"}, 
+
 
 
 
@@ -43,11 +62,16 @@
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
 {"id": "wt2",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist.m3u8"}, 
-
 {"id": "wx",
 "m3u8": "https://tvlive.wapka.xyz/p13?https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8"}, 
 {"id": "wx1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
+
+
+
+
+
+
 
 
 
@@ -62,11 +86,20 @@
 
 
 
+
+
+
+
 { "id": "tenc",
 "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
 "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"},
  {"id": "tenc1",
 "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"}, 
+
+
+
+
+
 
 
 
@@ -84,6 +117,12 @@
 "m3u8": "https://smart.bengaldigital.live/star-sports-2/index.m3u8"}, 
 {"id": "sts21",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/index.m3u8"}, 
+
+
+
+
+
+
 
   {"id": "tnt1",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
@@ -104,10 +143,16 @@
 {"id": "pt",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/PTVSports/index.m3u8"}, 
 
-{"id": "as",
+
+
+
+
+
+{"id": "asp",
 "m3u8": "https://www.livereacting.com/tools/hls-player-embed?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/ASports/index.m3u8"}, 
 
-
+{"id": "asp1",
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
 
 
 
