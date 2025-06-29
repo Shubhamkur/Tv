@@ -3,9 +3,9 @@
 
 
 {"id": "sony1",
-"m3u8": "https://tvlive.wapka.xyz/p10?https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
+"m3u8": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
 {"id": "sony3",
-"m3u8": "https://tvlive.wapka.xyz/p10?https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
+"m3u8": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
 {"id": "sony5",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
@@ -76,7 +76,7 @@
 
 
 {"id": "sk",
-"m3u8": "https://tvlive.wapka.xyz/p17?https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8"}, 
 {"id": "sk1",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
 {"id": "sk2",
