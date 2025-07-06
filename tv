@@ -3,9 +3,9 @@
 
 
 {"id": "sony1",
-"m3u8": "https://tvlive.wapka.xyz/p10?https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
+"m3u8": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
 {"id": "sony3",
-"m3u8": "https://tvlive.wapka.xyz/p10?https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
+"m3u8": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
 {"id": "sony5",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
@@ -42,9 +42,9 @@
 
 
 {"id": "ts",
-"m3u8": "https://tv4wap.github.io/p1/?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/TSports/index.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/TSports/index.m3u8"}, 
 {"id": "gt",
-"m3u8": "https://tv4wap.github.io/p1/?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/GaziTV/index.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/GaziTV/index.m3u8"}, 
 
 
 
@@ -54,7 +54,7 @@
 
         
 {"id": "wt",
-"m3u8": "https://tv4wap.github.io/p1/?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 {"id": "wt1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
 {"id": "ws",
@@ -63,7 +63,7 @@
 {"id": "wt2",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist.m3u8"}, 
 {"id": "wx",
-"m3u8": "https://tv4wap.github.io/p13/?url=https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8"}, 
+"m3u8": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Zjg2MjY4Y2YzNzE4LTNkMTktOTYzNC1hNjg4LWRhMDVjMDVm/master.m3u8"}, 
 {"id": "wx1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
 
@@ -141,7 +141,7 @@
 
 
 {"id": "pt",
-"m3u8": "https://tv4wap.github.io/p1/?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/PTVSports/index.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/PTVSports/index.m3u8"}, 
 
 
 
@@ -149,7 +149,7 @@
 
 
 {"id": "asp",
-"m3u8": "https://tv4wap.github.io/p1/?url=https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/ASports/index.m3u8"}, 
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/ASports/index.m3u8"}, 
 
 {"id": "asp1",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
