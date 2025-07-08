@@ -1,6 +1,4 @@
-[{
-
-  "sony-ten-1": {
+[ {
 
     "id": "sony-ten-1",
 
@@ -16,7 +14,7 @@
 
   },
 
-  "sony-ten-2": {
+  {
 
     "id": "sony-ten-2",
 
@@ -32,7 +30,7 @@
 
   },
 
-  "sony-ten-3": {
+   {
 
     "id": "sony-ten-3",
 
@@ -48,7 +46,7 @@
 
   },
 
-  "sony-ten-4": {
+   {
 
     "id": "sony-ten-4",
 
@@ -64,7 +62,7 @@
 
   },
 
-  "sony-ten-5": {
+   {
 
     "id": "sony-ten-5",
 
@@ -80,7 +78,7 @@
 
   },
 
-  "sony-ten-1-hd": {
+   {
 
     "id": "sony-ten-1-hd",
 
@@ -96,7 +94,7 @@
 
   },
 
-  "sony-ten-2-hd": {
+   {
 
     "id": "sony-ten-2-hd",
 
@@ -112,7 +110,7 @@
 
   },
 
-  "sony-ten-3-hd": {
+   {
 
     "id": "sony-ten-3-hd",
 
@@ -128,7 +126,7 @@
 
   },
 
-  "sony-ten-4-hd": {
+  {
 
     "id": "sony-ten-4-hd",
 
@@ -144,7 +142,7 @@
 
   },
 
-  "sony-ten-5-hd": {
+   {
 
     "id": "sony-ten-5-hd",
 
@@ -160,7 +158,7 @@
 
   },
 
-  "sony-hd": {
+   {
 
     "id": "sony-hd",
 
@@ -176,7 +174,7 @@
 
   },
 
-  "sony-sab-hd": {
+  {
 
     "id": "sony-sab-hd",
 
@@ -192,7 +190,7 @@
 
   },
 
-  "sony-marathi": {
+   {
 
     "id": "sony-marathi",
 
@@ -208,7 +206,7 @@
 
   },
 
-  "sony-pal": {
+  {
 
     "id": "sony-pal",
 
@@ -224,7 +222,7 @@
 
   },
 
-  "sony-kal": {
+  {
 
     "id": "sony-kal",
 
@@ -240,7 +238,7 @@
 
   },
 
-  "sony-aath": {
+  {
 
     "id": "sony-aath",
 
@@ -256,7 +254,7 @@
 
   },
 
-  "sony-yay": {
+   {
 
     "id": "sony-yay",
 
@@ -272,7 +270,7 @@
 
   },
 
-  "sony-max-hd": {
+  {
 
     "id": "sony-max-hd",
 
@@ -288,7 +286,7 @@
 
   },
 
-  "sony-max": {
+   {
 
     "id": "sony-max",
 
@@ -304,7 +302,7 @@
 
   },
 
-  "sony-max-2": {
+  {
 
     "id": "sony-max-2",
 
@@ -320,7 +318,7 @@
 
   },
 
-  "sony-wah": {
+  {
 
     "id": "sony-wah",
 
@@ -336,7 +334,7 @@
 
   },
 
-  "sony-pix-hd": {
+  {
 
     "id": "sony-pix-hd",
 
@@ -352,7 +350,7 @@
 
   },
 
-  "sony-bbc-earth-hd": {
+   {
 
     "id": "sony-bbc-earth-hd",
 
