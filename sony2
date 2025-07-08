@@ -1,0 +1,369 @@
+[{
+
+  "sony-ten-1": {
+
+    "id": "sony-ten-1",
+
+    "title": "Sony Sports Ten 1",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8"
+
+  },
+
+  "sony-ten-2": {
+
+    "id": "sony-ten-2",
+
+    "title": "Sony Sports Ten 2",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8"
+
+  },
+
+  "sony-ten-3": {
+
+    "id": "sony-ten-3",
+
+    "title": "Sony Sports Ten 3",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8"
+
+  },
+
+  "sony-ten-4": {
+
+    "id": "sony-ten-4",
+
+    "title": "Sony Sports Ten 4",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8"
+
+  },
+
+  "sony-ten-5": {
+
+    "id": "sony-ten-5",
+
+    "title": "Sony Sports Ten 5",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8"
+
+  },
+
+  "sony-ten-1-hd": {
+
+    "id": "sony-ten-1-hd",
+
+    "title": "Sony Sports Ten 1 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8"
+
+  },
+
+  "sony-ten-2-hd": {
+
+    "id": "sony-ten-2-hd",
+
+    "title": "Sony Sports Ten 2 HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8"
+
+  },
+
+  "sony-ten-3-hd": {
+
+    "id": "sony-ten-3-hd",
+
+    "title": "Sony Sports Ten 3 HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8"
+
+  },
+
+  "sony-ten-4-hd": {
+
+    "id": "sony-ten-4-hd",
+
+    "title": "Sony Sports Ten 4 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8"
+
+  },
+
+  "sony-ten-5-hd": {
+
+    "id": "sony-ten-5-hd",
+
+    "title": "Sony Sports Ten 5 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8"
+
+  },
+
+  "sony-hd": {
+
+    "id": "sony-hd",
+
+    "title": "SET HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8"
+
+  },
+
+  "sony-sab-hd": {
+
+    "id": "sony-sab-hd",
+
+    "title": "Sony SAB HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8"
+
+  },
+
+  "sony-marathi": {
+
+    "id": "sony-marathi",
+
+    "title": "Sony Marathi",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+
+    "genre": "Entertainment",
+
+    "language": "Marathi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8"
+
+  },
+
+  "sony-pal": {
+
+    "id": "sony-pal",
+
+    "title": "Sony Pal",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8"
+
+  },
+
+  "sony-kal": {
+
+    "id": "sony-kal",
+
+    "title": "Sony Kal",
+
+    "logo": "https://i.ibb.co/JFrTDg2k/275853749-1027757541419082-8885487251764233689-n.jpg",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+
+  },
+
+  "sony-aath": {
+
+    "id": "sony-aath",
+
+    "title": "Sony Aath",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+
+    "genre": "Entertainment",
+
+    "language": "Bengali",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8"
+
+  },
+
+  "sony-yay": {
+
+    "id": "sony-yay",
+
+    "title": "Sony Yay",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+
+    "genre": "Kids",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8"
+
+  },
+
+  "sony-max-hd": {
+
+    "id": "sony-max-hd",
+
+    "title": "Sony MAX HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8"
+
+  },
+
+  "sony-max": {
+
+    "id": "sony-max",
+
+    "title": "Sony MAX",
+
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8"
+
+  },
+
+  "sony-max-2": {
+
+    "id": "sony-max-2",
+
+    "title": "Sony MAX 2",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8"
+
+  },
+
+  "sony-wah": {
+
+    "id": "sony-wah",
+
+    "title": "Sony WAH",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8"
+
+  },
+
+  "sony-pix-hd": {
+
+    "id": "sony-pix-hd",
+
+    "title": "Sony PIX HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+
+    "genre": "Movies",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8"
+
+  },
+
+  "sony-bbc-earth-hd": {
+
+    "id": "sony-bbc-earth-hd",
+
+    "title": "Sony BBC Earth HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+
+    "genre": "Infotainment",
+
+    "language": "English",
+
+    "m3u8": "https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8"
+
+  }] 
