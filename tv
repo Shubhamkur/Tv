@@ -40,8 +40,9 @@
 
 
 
-
 {"id": "ts",
+"m3u8": "https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"}, 
+{"id": "ts1",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/TSports/index.m3u8"}, 
 {"id": "gt",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/GaziTV/index.m3u8"}, 
