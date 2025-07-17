@@ -1,0 +1,289 @@
+[
+        {
+            "id": "Colors_SD",
+            "channel_name": "Colors SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_HD",
+            "channel_name": "Colors HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Sports18_1_HD",
+            "channel_name": "Sports18 1 HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Sports18_1_SD",
+            "channel_name": "Sports18 1 SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_SD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "StarSports2Telugu",
+            "channel_name": "StarSports2Telugu Transparent 5f794134-ddc1-457f-af2d-d4101d9f6711",
+            "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Tel_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "StarSports2Tamil",
+            "channel_name": "StarSports2Tamil",
+            "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Tam_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_SD",
+            "channel_name": "Colors SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_HD",
+            "channel_name": "Colors HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "MTV",
+            "channel_name": "MTV",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "MTV_HD_Plus",
+            "channel_name": "MTV HD Plus",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "MTV_Beats_SD",
+            "channel_name": "MTV Beats SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_Beats_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "MTV_Beats_HD",
+            "channel_name": "MTV Beats HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_Beats_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Sonic_Nickelodeon",
+            "channel_name": "Sonic Nickelodeon",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Nick_Hindi",
+            "channel_name": "Nick Hindi",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Nick_HD_Plus",
+            "channel_name": "Nick HD Plus",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Nick_Junior",
+            "channel_name": "Nick Junior",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Infinity_SD",
+            "channel_name": "Colors Infinity SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Infinity_HD",
+            "channel_name": "Colors Infinity HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Super",
+            "channel_name": "Colors Super",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Super_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Cineplex",
+            "channel_name": "Colors Cineplex",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Color_Cineplex_HD",
+            "channel_name": "Color Cineplex HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Rishtey_Cineplex",
+            "channel_name": "Rishtey Cineplex",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Cineplex_Bollywood",
+            "channel_name": "Colors Cineplex Bollywood",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Comedy_Central_SD",
+            "channel_name": "Comedy Central SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Comedy_Central_SD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Comedy_Central_HD",
+            "channel_name": "Comedy Central HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Comedy_Central_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Rishtey",
+            "channel_name": "Rishtey",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Rishtey_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Bangla_SD",
+            "channel_name": "Colors Bangla SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Bangla_HD",
+            "channel_name": "Colors Bangla HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Bangla_Cinema",
+            "channel_name": "Colors Bangla Cinema",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Kannada_SD",
+            "channel_name": "Colors Kannada SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Kannada_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Kannada_HD",
+            "channel_name": "Colors Kannada HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Kannada_Cinema",
+            "channel_name": "Colors Kannada Cinema",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Marathi_SD",
+            "channel_name": "Colors Marathi SD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Marathi_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Marathi_HD",
+            "channel_name": "Colors Marathi HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Oriya",
+            "channel_name": "Colors Oriya",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Oriya_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Tamil",
+            "channel_name": "Colors Tamil",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Tamil_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Tamil_HD",
+            "channel_name": "Colors Tamil HD",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Tamil_HD_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Gujarati",
+            "channel_name": "Colors Gujarati",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Colors_Gujarati_Cinema",
+            "channel_name": "Colors Gujarati Cinema",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "Clubbing_TV_logoWhiteCircle",
+            "channel_name": "Clubbing TV logoWhiteCircle",
+            "logo": "https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Clubbing_TV_voot_MOB/output03/index.m3u8?"
+        },
+        {
+            "id": "VH1",
+            "channel_name": "VH1",
+            "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",
+            "genre": "V18 | 07",
+            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/VH1_voot_MOB/output03/index.m3u8?"
+        }
+    ]
