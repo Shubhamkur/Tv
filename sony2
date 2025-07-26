@@ -1,0 +1,279 @@
+[ 
+
+   
+
+   
+   {
+
+    "id": "sony-ten-1-hd",
+
+    "title": "Sony Sports Ten 1 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300256.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-ten-2-hd",
+
+    "title": "Sony Sports Ten 2 HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300273.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-ten-3-hd",
+
+    "title": "Sony Sports Ten 3 HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300255.m3u8"
+
+  },
+  {
+
+    "id": "sony-ten-4",
+
+    "title": "Sony Sports Ten 4",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/301738.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-ten-4-hd",
+
+    "title": "Sony Sports Ten 4 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/301739.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-ten-5-hd",
+
+    "title": "Sony Sports Ten 5 HD",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+
+    "genre": "Sports",
+
+    "language": "English",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300258.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-hd",
+
+    "title": "SET HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300266.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-sab-hd",
+
+    "title": "Sony SAB HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300267.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-marathi",
+
+    "title": "Sony Marathi",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+
+    "genre": "Entertainment",
+
+    "language": "Marathi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300275.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-pal",
+
+    "title": "Sony Pal",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300268.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-kal",
+
+    "title": "Sony Kal",
+
+    "logo": "https://i.ibb.co/JFrTDg2k/275853749-1027757541419082-8885487251764233689-n.jpg",
+
+    "genre": "Entertainment",
+
+    "language": "Hindi",
+
+    "m3u8": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-aath",
+
+    "title": "Sony Aath",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+
+    "genre": "Entertainment",
+
+    "language": "Bengali",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300263.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-yay",
+
+    "title": "Sony Yay",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+
+    "genre": "Kids",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300270.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-max-hd",
+
+    "title": "Sony MAX HD",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300277.m3u8"
+
+  },
+
+   {
+
+    "id": "sony-max",
+
+    "title": "Sony MAX",
+
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/301558.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-max-2",
+
+    "title": "Sony MAX 2",
+
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/301559.m3u8"
+
+  },
+
+  {
+
+    "id": "sony-wah",
+
+    "title": "Sony WAH",
+
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+
+    "genre": "Movies",
+
+    "language": "Hindi",
+
+    "m3u8": "https://dtvxtream.com/sonyliv2/300269.m3u8"
+
+  }
+  ] 
+
+
+  
