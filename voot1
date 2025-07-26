@@ -15,32 +15,36 @@
         },
         {
             "id": "Sports18_1_HD",
-            "channel_name": "Sports18 1 HD",
+            "channel_name": "Star Sports 2 Hindi HD",
             "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
             "genre": "V18 | 07",
             "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?"
         },
         {
             "id": "Sports18_1_SD",
-            "channel_name": "Sports18 1 SD",
+            "channel_name": "Star Sports 2 Hindi SD",
             "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
             "genre": "V18 | 07",
             "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_SD_voot_MOB/output03/index.m3u8?"
         },
         {
-            "id": "StarSports2Telugu",
-            "channel_name": "StarSports2Telugu Transparent 5f794134-ddc1-457f-af2d-d4101d9f6711",
+            "id": "Sports18_2",
+            "channel_name": "Star Sports 2 Telugu",
             "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",
             "genre": "V18 | 07",
             "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Tel_voot_MOB/output03/index.m3u8?"
         },
         {
-            "id": "StarSports2Tamil",
-            "channel_name": "StarSports2Tamil",
+            "id": "Sports18_3",
+            "channel_name": "Star Sports 2 Tamil",
             "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",
             "genre": "V18 | 07",
             "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Tam_voot_MOB/output03/index.m3u8?"
         },
+
+{"id":"Sports18_Khel","channel_name": "Star Sports khel ",
+"logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png","genre": "V18 | 07",
+"url":"https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_Khel_voot_MOB/output03/index.m3u8?"} 
         {
             "id": "Colors_SD",
             "channel_name": "Colors SD",
