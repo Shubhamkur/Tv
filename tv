@@ -56,9 +56,9 @@
         
 {"id": "wt1",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
-{"id": "wt2",
-"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
 {"id": "wt",
+"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
+{"id": "wt2",
 "m3u8": "https://jio.ironmancreation.workers.dev/m3u8?v=willowuse"}, 
 
 
@@ -66,9 +66,9 @@
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
 
-{"id": "wx",
-"m3u8": "https://jio.ironmancreation.workers.dev/m3u8?v=willowextra"}, 
 {"id": "wx1",
+"m3u8": "https://jio.ironmancreation.workers.dev/m3u8?v=willowextra"}, 
+{"id": "wx",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
 
 
