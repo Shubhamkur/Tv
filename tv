@@ -54,14 +54,17 @@
 
 
         
-{"id": "wt1",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
+
 {"id": "wt",
 "m3u8": "https://fl3.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8"}, 
-{"id": "wt4",
-"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
+{"id": "wt1",
+"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/WILLOWTV/index.m3u8"}, 
 {"id": "wt2",
 "m3u8": "https://jio.ironmancreation.workers.dev/m3u8?v=willowuse"}, 
+{"id": "wt3",
+"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
+{"id": "wt4",
+"m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"}, 
 
 
 {"id": "ws",
@@ -110,7 +113,7 @@
 
 
 {"id": "sts1h",
-"m3u8": "https://live4wap.neocities.org/APPTV/jiohd?id=173"},
+"m3u8": "https://tvgo.neocities.org/APPTV/jiohd?id=173"},
 {"id": "sts2h",
 "m3u8": "https://live4wap.neocities.org/APPTV/jiohd?id=1984"},
 {"id": "sts1",
@@ -135,7 +138,8 @@
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
 {"id": "tnt11",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://45.58.164.234/sports/tnt-1/index.m3u8"}, 
-
+{"id": "tnt12",
+"m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"}, 
 
 {"id": "tens",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8"}, 
@@ -161,7 +165,8 @@
 
 {"id": "asp1",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
-
+{"id": "asp2",
+"m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
 
 
 
