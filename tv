@@ -167,17 +167,56 @@
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
 {"id": "asp2",
 "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
-
-
-
-
-
 {"id": "ds",
 "m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
   {"id": "ds1",
 "m3u8": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
+
+{"id":"rstv", 
+"m3u8":"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
+
+{"id":"euro1", 
+"m3u8":"http://185.189.225.157/EuroSport1/index.m3u8"},
+
+{"id":"euro2", 
+"m3u8":"http://185.189.225.157/EuroSport2/index.m3u8"},
+
         {"id":"ssc1", 
-"mpd":"https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd,"key":"d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"}
+"mpd":"https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd,"key":"d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"}, 
+
+{"id":"tsn1", 
+"m3u8":"http://fl5.moveonjoy.com/TSN_1/index.m3u8"},
+
+{"id":"tsn2", 
+"m3u8":"http://fl5.moveonjoy.com/TSN_2/index.m3u8"},
+
+{"id":"tsn3", 
+"m3u8":"http://fl5.moveonjoy.com/TSN_3/index.m3u8"},
+
+{"id":"tsn4", 
+"m3u8":"http://fl5.moveonjoy.com/TSN_4/index.m3u8"},
+
+{"id":"tsn5", 
+"m3u8":"http://fl5.moveonjoy.com/TSN_5/index.m3u8"}, 
+
+{"id":"redbull", 
+"m3u8":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"},
+
+{"id":"dubaisportshd", 
+"m3u8":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8"},
+
+{"id":"dubaisportshd5", 
+"m3u8":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8"}, 
+
+{"id":"tracesport", 
+"m3u8":"https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"},
+
+{"id":"tennischannel", 
+"m3u8":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"},
+
+{"id":"hnc", 
+"m3u8":"https://hncfree-samsungau.amagi.tv/playlist.m3u8"}
+
 
 
 ]
