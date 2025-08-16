@@ -1,4 +1,4 @@
-﻿{"id":"167567","logo":"https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", "name":"PK: PTV SPORTS","genre":"CRICKET"},
+[﻿{"id":"167567","logo":"https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", "name":"PK: PTV SPORTS","genre":"CRICKET"},
 {"id":"217968","logo":"https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", "name":"PK: PTV SPORTS HD","genre":"CRICKET"},
 {"id":"167568","logo":"https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png", "name":"PK | GEO SUPER HD","genre":"CRICKET"},
 {"id":"167569","logo":"https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg", "name":"PK: TEN SPORTS","genre":"CRICKET"},
@@ -11472,4 +11472,4 @@ URDU"","genre":"ISLAMIC"},
 {"id":"381302","logo":"http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png", "name":"IN-GUJ | VANDE GUJARAT 13","genre":"IND | GUJARATI"},
 {"id":"381303","logo":"http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png", "name":"IN-GUJ | VANDE GUJARAT 14","genre":"IND | GUJARATI"},
 {"id":"381304","logo":"http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png", "name":"IN-GUJ | VANDE GUJARAT 15","genre":"IND | GUJARATI"},
-{"id":"381305","logo":"http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png", "name":"IN-GUJ | VANDE GUJARAT 16","genre":"IND | GUJARATI"},
+{"id":"381305","logo":"http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png", "name":"IN-GUJ | VANDE GUJARAT 16","genre":"IND | GUJARATI"}] 
