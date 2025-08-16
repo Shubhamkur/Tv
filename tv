@@ -182,7 +182,7 @@
 "m3u8":"http://185.189.225.157/EuroSport2/index.m3u8"},
 
         {"id":"ssc1", 
-"mpd":"https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd,"key":"d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"}, 
+"mpd":"https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd","key":"d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"}, 
 
 {"id":"tsn1", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_1/index.m3u8"},
