@@ -1,5 +1,33 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Devotional",Shirdi Sai Baba
-#https://webiptv.updatesbyrahul.site/ts.php?id=840
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Spiritual",Somnath Temple
-#https://webiptv.updatesbyrahul.site/ts.php?id=842
+
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="cnbctv18prime" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/cnbctv18prime.png" group-title="Business",CNBC TV18 Prime
+https://live.dinesh29.com.np/stream/jiotv/cnbctv18prime/master.m3u8
+
+#EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png" group-title="Entertainment",Colors HD
+https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
+
+#EXTINF:-1 tvg-id="historytv18hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/historytv18hd.png" group-title="Infotainment",History TV18 HD
+https://live.dinesh29.com.np/stream/jiotv/historytv18hd/master.m3u8
+
+#EXTINF:-1 tvg-id="travelxphd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/travelxphd.png" group-title="Lifestyle",Travelxp HD
+https://live.dinesh29.com.np/stream/jiotv/travelxphd/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetworktelugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/cartoonnetworktelugu.png" group-title="Kids",Cartoon Network Telugu
+https://live.dinesh29.com.np/stream/jiotv/cartoonnetworktelugu/master.m3u8
+
+#EXTINF:-1 tvg-id="aajtak" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/aajtak.png" group-title="News",Aaj Tak
+https://live.dinesh29.com.np/stream/jiotv/aajtak/master.m3u8
+
+#EXTINF:-1 tvg-id="aastha" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/aastha.png" group-title="Devotional",Aastha
+https://live.dinesh29.com.np/stream/jiotv/aastha/master.m3u8
+
+#EXTINF:-1 tvg-id="abpnewsindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/abpnewsindia.png" group-title="News",ABP News India
+https://live.dinesh29.com.np/stream/jiotv/abpnewsindia/master.m3u8
+
+#EXTINF:-1 tvg-id="asianetnews" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/asianetnews.png" group-title="News",Asianet News
+https://live.dinesh29.com.np/stream/jiotv/asianetnews/master.m3u8
+
+#EXTINF:-1 tvg-id="b4umovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/b4umovies.png" group-title="Movies",B4U Movies
+https://live.dinesh29.com.np/stream/jiotv/b4umovies/master.m3u8
+
