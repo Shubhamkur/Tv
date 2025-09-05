@@ -1,9 +1,14 @@
 
 [
 
-
 {"id": "sony1",
 "m3u8": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
+{"id": "sony11",
+ "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
+ "key": "e36345ee8f2c44b3bfeecd8c8444ff96:da4cf1b9b4f4325477874b3f1b84d9b9" },
+{"id": "sony2",
+ "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd",
+ "key": "5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f" },
 {"id": "sony3",
 "m3u8": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
 {"id": "sony5",
