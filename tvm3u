@@ -1,15 +1,19 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD-1
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S1)
 https://tv4wap.github.io/ID13?id=sony1
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD-2
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S2)
 https://tv4wap.github.io/ID10?id=sony11
 
-#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/jiotv/cnbctv18prime.png" group-title="SONY TEN 2",SONY TEN 2(S1)
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY TEN 2",SONY TEN 2 (S1)
 https://tv4wap.github.io/ID10?id=sony2
 
-#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/jiotv/colorshd.png" group-title="SONY TEN 3",SONY TEN 3(S1)
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY TEN 3",SONY TEN 3 (S1)
 https://tv4wap.github.io/ID13?id=sony3
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY TEN 5",SONY TEN 5 (S1)
+https://tv4wap.github.io/ID11?id=sony5
+
 
