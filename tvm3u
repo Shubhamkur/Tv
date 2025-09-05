@@ -1,7 +1,5 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="ID13" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="SONY TEN 1",sony1 
-#https://tv4wap
-#EXTINF:-1 tvg-id="ID10" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="SONY TEN 1",sony11 
-#https://tv4wap
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Devotional",Shirdi Sai Baba
+#https://webiptv.updatesbyrahul.site/ts.php?id=840
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Spiritual",Somnath Temple
+#https://webiptv.updatesbyrahul.site/ts.php?id=842
