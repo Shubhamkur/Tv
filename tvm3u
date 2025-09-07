@@ -4,26 +4,64 @@
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S1)
 https://tv4wap.github.io/ID13?id=sony1
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S2)
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 SD (S2)
 https://tv4wap.github.io/ID13?id=sony11
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S3)
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S3)
 https://tv4wap.github.io/ID11?id=sony12
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S4)
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S4)
 https://tv4wap.github.io/ID1?id=sony13
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S1)
-https://tv4wap.github.io/ID13?id=sony1
+https://tv4wap.github.io/ID13?id=sony2
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S2)
-https://tv4wap.github.io/ID13?id=sony11
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 SD (S2)
+https://tv4wap.github.io/ID13?id=sony21
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S3)
-https://tv4wap.github.io/ID11?id=sony12
+https://tv4wap.github.io/ID11?id=sony22
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S4)
-https://tv4wap.github.io/ID1?id=sony13
+https://tv4wap.github.io/ID1?id=sony23
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 3",SONY TEN 3 HD (S1)
+https://tv4wap.github.io/ID13?id=sony3
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 3",SONY TEN 3 SD (S2)
+https://tv4wap.github.io/ID13?id=sony31
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 3",SONY TEN 3 HD (S4)
+https://tv4wap.github.io/ID1?id=sony32
+
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 4",SONY TEN 4 HD (S1)
+https://tv4wap.github.io/ID13?id=sony4
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 4",SONY TEN 4 SD (S2)
+https://tv4wap.github.io/ID13?id=sony41
+
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 4",SONY TEN 4 HD (S4)
+https://tv4wap.github.io/ID1?id=sony42
+
+
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 5",SONY TEN 5 HD (S1)
+https://tv4wap.github.io/ID13?id=sony5
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 5",SONY TEN 5 SD (S2)
+https://tv4wap.github.io/ID13?id=sony51
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 5",SONY TEN 5 HD (S3)
+https://tv4wap.github.io/ID11?id=sony52
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 5",SONY TEN 5 HD (S4)
+https://tv4wap.github.io/ID1?id=sony53
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_425_305" group-title="ASTRO CRICKET",ASTRO CRICKET (S1)
