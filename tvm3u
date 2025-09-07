@@ -5,19 +5,25 @@
 https://tv4wap.github.io/ID13?id=sony1
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S2)
-https://tv4wap.github.io/ID10?id=sony11
+https://tv4wap.github.io/ID13?id=sony11
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S3)
-https://tv4wap.github.io/ID10?id=sony12
+https://tv4wap.github.io/ID11?id=sony12
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY TEN 2",SONY TEN 2 (S1)
-https://tv4wap.github.io/ID10?id=sony2
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1HD (S4)
+https://tv4wap.github.io/ID1?id=sony13
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY TEN 3",SONY TEN 3 (S1)
-https://tv4wap.github.io/ID13?id=sony3
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S1)
+https://tv4wap.github.io/ID13?id=sony1
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY TEN 5",SONY TEN 5 (S1)
-https://tv4wap.github.io/ID11?id=sony5
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S2)
+https://tv4wap.github.io/ID13?id=sony11
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S3)
+https://tv4wap.github.io/ID11?id=sony12
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 2",SONY TEN 2 HD (S4)
+https://tv4wap.github.io/ID1?id=sony13
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_425_305" group-title="ASTRO CRICKET",ASTRO CRICKET (S1)
