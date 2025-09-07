@@ -63,8 +63,10 @@ https://tv4wap.github.io/ID11?id=sony52
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="SONY TEN 5",SONY TEN 5 HD (S4)
 https://tv4wap.github.io/ID1?id=sony53
 
-
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_425_305" group-title="ASTRO CRICKET",ASTRO CRICKET (S1)
+https://tv4wap.github.io/ID11?id=astrocricket
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_425_305" group-title="ASTRO CRICKET",ASTRO CRICKET (S2)
 https://tv4wap.github.io/ID11?id=astrocricket1
 
 
