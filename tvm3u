@@ -19,7 +19,8 @@ https://tv4wap.github.io/ID13/?id=willowtv4
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cbZhl0JdLHDDo38IWctjaAP1LfvbfNof3g&s" group-title="SONY TEN 1",SONY LIV HD (S1)
+https://tv4wap.github.io/ID11?id=sonyliv
 
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S1)
