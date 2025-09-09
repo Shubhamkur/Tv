@@ -1,6 +1,21 @@
 
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S1)
+https://tv4wap.github.io/ID13?id=willowtv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S2)
+willowtv1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S3)
+willowtv2
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/imagespublic/5/8/300256_1666880923045_l_medium.jpg" group-title="SONY TEN 1",SONY TEN 1 HD (S1)
 https://tv4wap.github.io/ID13?id=sony1
 
