@@ -224,6 +224,12 @@
 "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
 {"id": "ds",
 "m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
+
+
+
+{"id":"tamasha", 
+"m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
+
   {"id": "ds1",
 "m3u8": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
 
