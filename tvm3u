@@ -3,13 +3,19 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S1)
-https://tv4wap.github.io/ID16?id=willowtv
+https://tv4wap.github.io/ID16/?id=willowtv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S2)
-https://tv4wap.github.io/ID2?id=willowtv1
+https://tv4wap.github.io/ID11/?id=willowtv1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S3)
-https://tv4wap.github.io/ID16?id=willowtv2
+https://tv4wap.github.io/ID1/?id=willowtv2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S4)
+https://tv4wap.github.io/ID11/?id=willowtv3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="WILLOW TV CRICBUZZ",WILLOW TV (S5)
+https://tv4wap.github.io/ID13/?id=willowtv4
 
 
 
