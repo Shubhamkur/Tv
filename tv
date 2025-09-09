@@ -75,7 +75,7 @@
 
 
 {"id": "fox",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8"}, 
+"m3u8": "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8"}, 
 {"id": "fox1",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "fox2",
@@ -129,9 +129,10 @@
 "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"}, 
 
 
-
-
 {"id": "willowxtra",
+"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=willowextra"}, 
+
+{"id": "willowxtra1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
 
 
@@ -141,10 +142,11 @@
 
 
 
-
 {"id": "skycricket",
-"m3u8": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8"}, 
+"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=skyscric"}, 
 {"id": "skycricket1",
+"m3u8": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8"}, 
+{"id": "skycricket2",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
 
 
@@ -194,14 +196,14 @@
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
 {"id": "tnt11",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://45.58.164.234/sports/tnt-1/index.m3u8"}, 
+"m3u8": "https://cors-proxy.cooks.fyi/http://45.58.164.234/sports/tnt-1/index.m3u8"}, 
 {"id": "tnt12",
 "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"}, 
 
-{"id": "tens",
+{"id": "tensports",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8"}, 
-{"id": "tens1",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"}, 
+{"id": "tensports1",
+"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"}, 
 
 
 
@@ -218,15 +220,19 @@
 
 
 
-{"id": "asp",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=38.96.178.201/live/ASports/index.m3u8"}, 
 
-{"id": "asp1",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
-{"id": "asp2",
+{"id": "asports",
 "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
+{"id": "asports1",
+"m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
+
+
+
+
 {"id": "ds",
 "m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
+
+
 
 
 
