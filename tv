@@ -106,16 +106,11 @@
 
 {"id": "willowtv",
 "m3u8": "https://fl3.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8"}, 
-
-
 {"id": "willowtv1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
-
 {"id": "willowtv2",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=willowusa&key=WASITV"}, 
-
 {"id":"willowtv3","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowusa"}, 
-
 {"id":"willowtv4","m3u8":"https://bdixtv24.xyz/sports/m3u8.php/willowusa.m3u8"}, 
  
 
@@ -124,14 +119,12 @@
 {"id": "willowsports",
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
  "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
-
 {"id": "willowsports1",
 "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"}, 
 
 
 {"id": "willowxtra",
 "m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=willowextra"}, 
-
 {"id": "willowxtra1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
 
@@ -172,7 +165,7 @@
 
 
 
-  {"id": "tnt1",
+{"id": "tnt1",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
 {"id": "tnt11",
@@ -183,16 +176,13 @@
 {"id": "tnt13",
  "mpd": "https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
-
 {"id": "tnt2",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
  "key": "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" }, 
-
-  {"id": "tnt3",
+{"id": "tnt3",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
  "key": "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" }, 
-
-  {"id": "tnt4",
+{"id": "tnt4",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
  "key": "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }, 
 
@@ -230,27 +220,29 @@
 "m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
 
 
-
-
-
+{"id":"tamasha", 
+"m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
 
 
 {"id": "ds",
 "m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
-{"id":"tamasha", 
-"m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
-
   {"id": "ds1",
 "m3u8": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
+
+
+
+
+
+
 
 {"id":"rstv", 
 "m3u8":"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
 
 {"id":"euro1", 
-"m3u8":"http://185.189.225.157/EuroSport1/index.m3u8"},
+"m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8"},
 
 {"id":"euro2", 
-"m3u8":"http://185.189.225.157/EuroSport2/index.m3u8"},
+"m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8"},
 
 {"id":"bein1", 
 "mpd":"https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd","key":"f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381"}, 
