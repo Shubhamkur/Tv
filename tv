@@ -271,6 +271,15 @@
 "mpd":"https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd","key":"5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3"},
 {"id":"ssc5", 
 "mpd":"https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd","key":"c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888"}, 
+{"id":"sscextra1", 
+"mpd":https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd","key":"ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401"}, 
+{"id":"sscextra2", 
+"mpd":"https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd","key":"4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30"}, 
+
+{"id":"sscextra3", 
+"mpd":"https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd","key":"98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a"}, 
+
+
 
 {"id":"tsn1", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_1/index.m3u8"},
@@ -292,6 +301,13 @@
 "m3u8":"http://fl5.moveonjoy.com/TSN_5/index.m3u8"}, 
 {"id":"tsn51", 
 "mpd":"https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd","key":"8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e"}, 
+
+
+
+
+
+
+
 
 
 
