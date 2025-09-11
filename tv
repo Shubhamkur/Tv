@@ -217,6 +217,8 @@
 {"id": "asports1",
 "m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
 
+{"id":"geosuper", 
+"mpd":"https://live2.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd","key":"7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2"}, 
 
 {"id":"tamasha", 
 "m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
@@ -313,10 +315,15 @@
 
 
 
+{"id":"spotv", 
+"mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd","key":"c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c"}, 
+{"id":"spotv11", 
+"mpd":"https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd","key":"ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e"}, 
 
-
-
-
+{"id":"spotv2", 
+"mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd","key":"5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e"}, 
+{"id":"spotv21", 
+"mpd":"https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd","key":"7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"}, 
 
 
 
