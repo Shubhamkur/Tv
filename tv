@@ -238,9 +238,16 @@
 
 {"id":"euro1", 
 "m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8"},
-
+{"id":"euro11", 
+"mpd":"https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd","key":"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"}, 
 {"id":"euro2", 
 "m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8"},
+{"id":"euro21", 
+"mpd":"https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd","key":"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"}, 
+
+
+
+
 
 {"id":"bein1", 
 "mpd":"https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd","key":"f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381"}, 
