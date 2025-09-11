@@ -175,13 +175,29 @@
   {"id": "tnt1",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
-{"id": "tnt11",
-"m3u8": "https://cors-proxy.cooks.fyi/http://45.58.164.234/sports/tnt-1/index.m3u8"}, 
 {"id": "tnt12",
 "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"}, 
 
+  {"id": "tnt1",
+ "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+ "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
+
+{"id": "tnt2",
+ "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+ "key": "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" }, 
+
+  {"id": "tnt3",
+ "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+ "key": "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" }, 
+
+  {"id": "tnt4",
+ "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+ "key": "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }, 
 
 
+  {"id": "tnt5",
+ "mpd": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+ "key": "60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b" }, 
 
 
 
@@ -233,6 +249,15 @@
 
 {"id":"euro2", 
 "m3u8":"http://185.189.225.157/EuroSport2/index.m3u8"},
+
+{"id":"bein1", 
+"mpd":"https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd","key":"f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381"}, 
+
+{"id":"bein2", 
+"mpd":"https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd","key":"9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1"}, 
+
+{"id":"bein3", 
+"mpd":"https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd","key":"4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed"}, 
 
 {"id":"beinxtra","":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"}, 
 {"id":"ssc1", 
