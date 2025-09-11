@@ -175,11 +175,13 @@
   {"id": "tnt1",
  "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
-{"id": "tnt12",
+{"id": "tnt11",
 "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"}, 
-
-  {"id": "tnt1",
+{"id": "tnt12",
  "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+ "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
+{"id": "tnt13",
+ "mpd": "https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
  "key": "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" }, 
 
 {"id": "tnt2",
@@ -276,19 +278,24 @@
 
 {"id":"tsn1", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_1/index.m3u8"},
-
+{"id":"tsn11", 
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd","key":"7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc"}, 
 {"id":"tsn2", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_2/index.m3u8"},
-
+{"id":"tsn21", 
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd","key":"362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42"}, 
 {"id":"tsn3", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_3/index.m3u8"},
-
+{"id":"tsn31", 
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd","key":"d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8"}, 
 {"id":"tsn4", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_4/index.m3u8"},
-
+{"id":"tsn41", 
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd","key":"e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449"}, 
 {"id":"tsn5", 
 "m3u8":"http://fl5.moveonjoy.com/TSN_5/index.m3u8"}, 
-
+{"id":"tsn51", 
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd","key":"8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e"}, 
 
 
 
