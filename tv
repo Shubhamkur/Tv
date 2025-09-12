@@ -238,9 +238,12 @@
 {"id":"rstv", 
 "m3u8":"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
 
+
 {"id":"euro1", 
-"m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8"},
+"mpd":"https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd","key":"01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d"}, 
 {"id":"euro11", 
+"m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8"},
+{"id":"euro12", 
 "mpd":"https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd","key":"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"}, 
 {"id":"euro2", 
 "m3u8":"https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8"},
