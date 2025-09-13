@@ -268,7 +268,7 @@
 "mpd":"https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd","key":"4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed"}, 
 {"id":"bein31", 
 "mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd","key":"20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337"}, 
-{"id":"beinxtra","":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"}, 
+{"id":"beinxtra","m3u8":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"}, 
 
 
 
