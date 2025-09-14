@@ -9,6 +9,8 @@
 
 
 
+
+
 [
 
 {"id":"sonyliv","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cbZhl0JdLHDDo38IWctjaAP1LfvbfNof3g&s","name":"SONY LIV"}, 
@@ -26,6 +28,8 @@
 
 
 
+{"id":"tnt4","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
+
 
 
 {"id":"sony1","url":"ID13","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
@@ -40,19 +44,26 @@
 {"id":"willowsports","url":"ID11","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
 
 
-{"id":"willowtv4","url":"ID13","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
+{"id":"willowtv3","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
 
-{"id":"wx","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
+{"id":"willowextra","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
 
 
 
-{"id":"fox","url":"ID1","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+{"id":"fox","url":"ID7","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
 
 {"id":"skycricket","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
 
 
 {"id":"tens","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
+
+
+{"id":"asports","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
+
+
+
+{"id":"rstv","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki1lVvSWCeEEhSIejlq1un6MuEw3b6Js5M7ByWLTXOR1W4QL4jim8WyNR&s=10","name":"RTA SPORTS"}, 
 
 
 
@@ -81,8 +92,6 @@
 
 
 ] 
-
-
 
 
 
