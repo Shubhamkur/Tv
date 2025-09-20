@@ -94,9 +94,10 @@
 
 
 
-
-
 {"id": "tsport",
+"m3u8": "https://proxy.mydementiacompanion.com.au/http://203.18.159.115:8081/T_SPORTS/index.m3u8"}, 
+
+{"id": "tsport2",
 "m3u8": "https://tvsen5.aynaott.com/tsports/index.m3u8"}, 
 
 {"id": "tsport1",
