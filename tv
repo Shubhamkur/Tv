@@ -3,9 +3,9 @@
 
 
 {"id": "sony1",
-"m3u8": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
+"m3u8": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
 {"id":"sony11", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_1300.m3u8"},
+"m3u8":"https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_1300.m3u8"},
 {"id": "sony12",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
  "key": "e36345ee8f2c44b3bfeecd8c8444ff96:da4cf1b9b4f4325477874b3f1b84d9b9" },
@@ -17,9 +17,9 @@
 
 
 {"id":"sony2", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_1300.m3u8"},
+"m3u8":"https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_1300.m3u8"},
 {"id":"sony21", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020590/TEN2SD/master_1300.m3u8"},
+"m3u8":"https://dish.slivcdn.com/hls/live/2020590/TEN2SD/master_1300.m3u8"},
 {"id": "sony22",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd",
  "key": "5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f" },
@@ -30,22 +30,22 @@
 
 
 {"id": "sony3",
-"m3u8": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
+"m3u8": "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"},
 {"id":"sony31", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_1300.m3u8"},
+"m3u8":"https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_1300.m3u8"},
 {"id":"sony32", 
 "m3u8":"https://dtvxtream.com/sonyliv2/300255.m3u8"},
 
 
 {"id":"sony4", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_1300.m3u8"}, 
+"m3u8":"https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_1300.m3u8"}, 
 {"id":"sony41", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020437/ten4sd/master_1300.m3u8"}, 
+"m3u8":"https://dish.slivcdn.com/hls/live/2020437/ten4sd/master_1300.m3u8"}, 
 {"id":"sony42", 
 "m3u8":"https://dtvxtream.com/sonyliv2/301738.m3u8"},
 
 {"id":"sony5", 
-"m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8"},
+"m3u8":"https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8"},
 {"id":"sony51", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master_1300.m3u8"},
 {"id": "sony52",
