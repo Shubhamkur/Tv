@@ -213,8 +213,14 @@
 {"id": "tnt5",
  "mpd": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
  "key": "60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b" }, 
+
+
 {"id": "tnt51",
 "m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/TNT_Sports_5/tracks-v1a1/mono.m3u8"},
+
+{"id": "tnt52",
+ "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/403k5ryozh/out/v1/48a9aae7382145069b79e9b25cb53445/cenc.mpd",
+ "key": "71c42f8ccb9c6552495de2c81ca24e0a:ce28c5d2e8959a3acb6ebcf794b8f785" }, 
 
 
 
