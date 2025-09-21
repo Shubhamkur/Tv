@@ -133,10 +133,10 @@
 
 
 {"id": "willowxtra",
-"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=willowextra"}, 
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=willowextra"}, 
 {"id": "willowxtra1",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-xtra/"}, 
-{"id":"willowxtra2","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowextra"}, 
+
 
 
 
@@ -145,7 +145,7 @@
 
 
 {"id": "skycricket",
-"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=skyscric"}, 
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=skyscric"}, 
 {"id": "skycricket1",
 "m3u8": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8"}, 
 {"id": "skycricket2",
@@ -213,20 +213,24 @@
 {"id": "tensports",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8"}, 
 {"id": "tensports1",
-"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"}, 
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=tenspk"}, 
 
 
 {"id": "ptv",
-"m3u8": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"}, 
-
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=ptvpk"}, 
 {"id": "ptv1",
 "m3u8": "https://cors-proxy.cooks.fyi/163.172.59.25/crc1/tracks-v1a1/mono.m3u8"}, 
+{"id": "ptv2",
+"m3u8": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"}, 
 
 
 {"id": "asports",
-"m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=asportshd"}, 
 {"id": "asports1",
 "m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
+{"id": "asports3",
+"m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
+
 
 {"id":"geosuper", 
 "mpd":"https://live2.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd","key":"7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2"}, 
