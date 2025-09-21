@@ -8,6 +8,9 @@
 
 
 
+
+
+
 [
 
 
@@ -43,7 +46,7 @@
 {"id":"astrocricket1","url":"ID10","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
 
-{"id":"fox","url":"ID7","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+{"id":"fox1","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
 
 
 {"id":"skycricket","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
@@ -51,7 +54,7 @@
 
 {"id":"tensports1","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
 
-{"id":"tencricket","url":"ID10","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
+{"id":"tencricket2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
 
 {"id":"tsport","url":"ID16","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
@@ -101,6 +104,10 @@
 
 
 ] 
+
+
+
+
 
 
 
