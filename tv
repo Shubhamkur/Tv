@@ -151,9 +151,11 @@
 {"id": "skycricket",
 "m3u8": "https://bdixiptvbd.com/live/play.php?cricid=skyscric"}, 
 {"id": "skycricket1",
-"m3u8": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8"}, 
+"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8"}, 
 {"id": "skycricket2",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
+{"id": "skyme",
+"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Main_Event/tracks-v1a1/mono.m3u8"},
 
 
 
