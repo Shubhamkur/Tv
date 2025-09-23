@@ -42,7 +42,9 @@
 {"id":"sony41", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020437/ten4sd/master_1300.m3u8"}, 
 {"id":"sony42", 
-"m3u8":"https://dtvxtream.com/sonyliv2/301738.m3u8"},
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://dai.google.com/ssai/event/AN3dE5kTSt6ZIfxddIcoag/master.m3u8"},
+{"id":"sony43", 
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https%3A%2F%2Fdai.google.com%2Fssai%2Fevent%2FvydfDMEgSdO5yb9bmko6lQ%2Fmaster.m3u8"},
 
 {"id":"sony5", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8"},
@@ -52,7 +54,7 @@
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 {"id":"sony53", 
-"m3u8":"https://dtvxtream.com/sonyliv2/301739.m3u8"},
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://dai.google.com/ssai/event/dfBTAk-3Tf-kX5cuI0VqCA/master.m3u8"},
 
 
 
