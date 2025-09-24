@@ -40,7 +40,9 @@
 "m3u8":"https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_1300.m3u8"},
 {"id":"sony32", 
 "m3u8":"https://allinonereborn.fun/opplextv-web1/live.php?id=167572"},
-
+{"id": "sony33",
+ "mpd":"https://proxy.mydementiacompanion.com.au/https://sundirectgo-live.pc.cdn.bitgravity.com/src35/dth.mpd",
+ "key": "162e06450b01432dbf9a98cc8c06e637:fb10bbb01a468e7c41614fc0803648aa" },
 
 
 
