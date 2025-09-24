@@ -36,7 +36,7 @@
 {"id":"sony31", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_1300.m3u8"},
 {"id":"sony32", 
-"m3u8":"https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758678999~acl=/*~id=36740322909918532225854808260337~hmac=f0a50ab3b2409810acc28a47fbd4100e65ae2e9775c3781485a81646d6046015"},
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167572"},
 
 
 {"id":"sony4", 
@@ -86,9 +86,11 @@
 
 {"id": "fox",
 "m3u8": "https://allinonereborn.fun/sansat-web/live1.php?id=83174"}, 
-{"id": "fox1",
-"m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
+{"id":"fox1", 
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167593"},
 {"id": "fox2",
+"m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
+{"id": "fox3",
 "m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
         
 
