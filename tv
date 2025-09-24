@@ -118,13 +118,13 @@
 {"id": "willowtv",
 "m3u8": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8"}, 
 {"id": "willowtv1",
-"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
+"m3u8": "https://allinonereborn.fun/fcw/live2.php?url=https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://rips.in/stream/ch6/use-embed-plz.m3u8"}, 
 {"id": "willowtv2",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=willowusa&key=WASITV"}, 
 {"id":"willowtv3","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowusa"}, 
 {"id":"willowtv4","m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://bdixtv24.xyz/sports/m3u8.php/willowusa.m3u8"}, 
 {"id": "willowtv5",
- "mpd": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/vpe5dvsdjc/out/v1/a42808efde4a47df880f9e59b7df1d64/cenc.mpd","key": "656b70bd6d5274b067af4f96198750e8:d8625d20ac81cbc38b8453d77e2598d8" },
+"m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
  
 
 
@@ -147,13 +147,16 @@
 
 
 
-
 {"id": "skycricket",
-"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=skyscric"}, 
+"m3u8": "https://allinonereborn.fun/fcw/live2.php?url=https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://rips.in/stream/ch6/use-embed-plz.m3u8"}, 
 {"id": "skycricket1",
-"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8"}, 
+"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=skyscric"}, 
 {"id": "skycricket2",
+"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8"}, 
+{"id": "skycricket3",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
+
+
 {"id": "skyme",
 "m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Main_Event/tracks-v1a1/mono.m3u8"},
 
@@ -243,16 +246,19 @@
 {"id": "ptv1",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=ptvpk&key=WASITV"}, 
 {"id": "ptv2",
-"m3u8": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"}, 
+"m3u8": "https://allinonereborn.fun/fcw/live2.php?url=https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://rips.in/stream/ch6/use-embed-plz.m3u8"},  
 {"id": "ptv3",
+"m3u8": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"}, 
+{"id": "ptv4",
 "m3u8": "https://cors-proxy.cooks.fyi/163.172.59.25/crc1/tracks-v1a1/mono.m3u8"}, 
 
 
 
 {"id": "asports",
 "m3u8": "https://bdixiptvbd.com/live/play.php?cricid=asportshd"}, 
-
 {"id": "asports1",
+"m3u8": "https://allinonereborn.fun/fcw/live2.php?url=https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://rips.in/stream/ch6/use-embed-plz.m3u8"}, 
+{"id": "asports2",
 "m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
 {"id": "asports3",
 "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
