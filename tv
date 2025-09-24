@@ -19,6 +19,8 @@
 
 
 
+
+
 {"id":"sony2", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_1300.m3u8"},
 {"id":"sony21", 
@@ -47,7 +49,9 @@
 {"id":"sony42", 
 "m3u8":"https://live4wap.neocities.org/Live"},
 {"id":"sony43", 
-"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https%3A%2F%2Fdai.google.com%2Fssai%2Fevent%2FvydfDMEgSdO5yb9bmko6lQ%2Fmaster.m3u8"},
+"m3u8":"https://tv4wap.neocities.org/live"},
+
+
 
 {"id":"sony5", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8"},
