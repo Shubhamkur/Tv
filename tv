@@ -40,6 +40,10 @@
 "m3u8":"https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_1300.m3u8"},
 {"id":"sony32", 
 "m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167572"},
+{"id":"sony33", 
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://dai.google.com/ssai/event/AN3dE5kTSt6ZIfxddIcoag/master.m3u8"},
+
+
 
 
 {"id":"sony4", 
