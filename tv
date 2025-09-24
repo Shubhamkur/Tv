@@ -11,9 +11,10 @@
 {"id": "sony13",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
  "key": "e36345ee8f2c44b3bfeecd8c8444ff96:da4cf1b9b4f4325477874b3f1b84d9b9" },
-{"id": "sony14",
+{"id":"sony14", 
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167570"},
+{"id": "sony15",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=ten1hd&key=WASITV"},
-
 
 
 
@@ -56,7 +57,7 @@
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 {"id":"sony53", 
-"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://dai.google.com/ssai/event/dfBTAk-3Tf-kX5cuI0VqCA/master.m3u8"},
+"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167580"},
 
 
 
