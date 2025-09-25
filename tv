@@ -8,13 +8,15 @@
 "m3u8":"https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_1300.m3u8"},
 {"id":"sony12","mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd",
 "key":"8268467a7a974698b18c9e63b13f73a4:6affb3ad6e781bc4afafad402e1d4510"},
-{"id": "sony13",
+{"id": "sony16",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
  "key": "e36345ee8f2c44b3bfeecd8c8444ff96:da4cf1b9b4f4325477874b3f1b84d9b9" },
 {"id":"sony14", 
-"m3u8":"https://allinonereborn.fun/opplextv-web1/live.php?id=167570"},
+"m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_1_hd"},
 {"id": "sony15",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=ten1hd&key=WASITV"},
+{"id": "sony13",
+"mpd":"https://proxy.mydementiacompanion.com.au/https://sundirectgo-live.pc.cdn.bitgravity.com/src35/dth.mpd","key":"162e06450b01432dbf9a98cc8c06e637:fb10bbb01a468e7c41614fc0803648aa" },
 
 
 
@@ -66,7 +68,7 @@
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
  "key": "5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5" },
 {"id":"sony53", 
-"m3u8":"https://allinonereborn.fun/opplextv-web1/live.php?id=167580"},
+"m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_5_hd"},
 
 
 
@@ -248,7 +250,7 @@
  {"id": "tencricket1",
 "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"}, 
  {"id": "tencricket2",
-"m3u8": "https://anym3u8player.com/tv/video-player.php?url=https%3A%2F%2Fbd.drmlive.net%2Ftoffee%2Fcdn%2Flive%2Ften_cricket%2Fplaylist.m3u8"},
+"m3u8": "https://tvgo.neocities.org/APPTV/toffee?id=ten_cricket"},
 
 
 
