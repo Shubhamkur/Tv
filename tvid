@@ -9,13 +9,12 @@
 
 
 [
-{"id":"sony12","url":"ID3","logo":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtzbHjeF2CekdOIS63amHf8YNjzR4c-9aSZOCKJuxJmG4JcBy_MESisJ2h4XCfpsJQIcmmoJSyWBO85KohmgIpJOIyLKMIj8z3OW9GJM8-","name":"SONY MAX"},
 
 
-{"id":"sony14","url":"ID6","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+{"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
 {"id":"sony33","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
 
-{"id":"sony53","url":"ID6","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
+{"id":"sony53","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
 
 {"id":"sony42","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV HINDI"},
 
@@ -34,8 +33,6 @@
 
 
 {"id":"willowxtra1","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
-
-
 
 
 
