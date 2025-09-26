@@ -9,14 +9,21 @@
 
 
 [
+
+
 {"id":"sony12","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWBuxu64HbbbWqsw-wBEhQiWYEagE5-Kx4xm0WAxglg&s=10","name":"SONY MAX"},
 
-{"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+
 {"id":"sony34","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
+
+{"id":"sony42","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV HINDI"},
+
+
+{"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+
 
 {"id":"sony53","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
 
-{"id":"sony42","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV HINDI"},
 
 
 {"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
@@ -29,7 +36,7 @@
 
 {"id":"ptv1","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
 
-{"id":"fox1","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+{"id":"fox3","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
 
 
 {"id":"willowxtra1","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
@@ -98,6 +105,7 @@
 
 
 ] 
+
 
 
 
