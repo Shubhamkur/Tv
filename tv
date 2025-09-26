@@ -86,11 +86,12 @@
 
 
 {"id": "astrocricket",
-"m3u8": "https://tv4wap.github.io/p2?url=https://idx.gdplayertv.to/embed/astro-cricket/"}, 
+"m3u8": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"}, 
 
 {"id":"astrocricket1","mpd":"https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
 "key":"03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"},       
-
+{"id": "astrocricket2",
+"m3u8": "https://tv4wap.github.io/p2?url=https://idx.gdplayertv.to/embed/astro-cricket/"}, 
 
 
 
