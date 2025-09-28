@@ -31,7 +31,7 @@
 
 
 
-{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
+{"id":"willowtv2","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
 {"id":"criclifemax","url":"ID3","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4","name":"CRICLIFE MAX"},
 
@@ -39,12 +39,12 @@
 {"id":"astrocricket","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
 
-{"id":"ptv1","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
+{"id":"ptv","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
 
 {"id":"fox3","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
 
 
-{"id":"willowxtra1","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
+{"id":"willowxtra","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
 
 
 
@@ -61,13 +61,13 @@
 
 
 
-{"id":"skycricket","url":"ID1","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
+{"id":"skycricket2","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
 
 
-{"id":"asports1","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
+{"id":"asports","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
 
 
-{"id":"tensports1","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
+{"id":"tensports2","url1":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
 
 
 
