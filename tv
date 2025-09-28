@@ -1,6 +1,7 @@
 
 [
-
+{"id":"sony12","mpd":"https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
+"key":"ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583"},       
 
 {"id": "sony1",
 "m3u8": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
@@ -18,7 +19,7 @@
 {"id": "sony16",
 "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd","key":"8268467a7a974698b18c9e63b13f73a4:6affb3ad6e781bc4afafad402e1d4510" },
 
-{"id": "sony12",
+{"id": "sony17",
 "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd","key":"4353847b507bc63c1d393ef2388e870d:0f578151bc9f90a9b77677686ded4f9b" },
 
 
