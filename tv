@@ -219,8 +219,10 @@
 
 
 {"id": "tnt2",
- "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+ "mpd": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
  "key": "0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547" }, 
+
+
 {"id": "tnt21",
 "m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/TNT_Sports_2/tracks-v1a1/mono.m3u8"},
 
