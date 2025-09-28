@@ -8,6 +8,8 @@
 
 
 
+
+
 [
 
 
@@ -17,6 +19,9 @@
 {"id":"sony34","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
 
 {"id":"sony42","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV HINDI"},
+
+{"id":"sony43","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV ENG"},
+
 
 
 {"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
@@ -105,6 +110,7 @@
 
 
 ] 
+
 
 
 
