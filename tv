@@ -6,7 +6,7 @@
 "m3u8": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"},
 {"id":"sony11", 
 "m3u8":"https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_1300.m3u8"},
-{"id":"sony13","mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd",
+{"id":"sony14","mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd",
 "key":"8268467a7a974698b18c9e63b13f73a4:6affb3ad6e781bc4afafad402e1d4510"},
 {"id": "sony13",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
@@ -15,10 +15,11 @@
 "m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_1_hd"},
 {"id": "sony15",
 "m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=ten1hd&key=WASITV"},
-{"id": "sony12",
+{"id": "sony16",
 "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd","key":"8268467a7a974698b18c9e63b13f73a4:6affb3ad6e781bc4afafad402e1d4510" },
 
-
+{"id": "sony12",
+"mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd","key":"4353847b507bc63c1d393ef2388e870d:0f578151bc9f90a9b77677686ded4f9b" },
 
 
 
