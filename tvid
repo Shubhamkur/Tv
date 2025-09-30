@@ -17,7 +17,8 @@
 
 {"id":"shoq","url":"ID3","logo":"https://lh3.googleusercontent.com/wT47vbX_VpaMOUe6Kk7BzhFCQSDkWmQKmRrOTbnDWUMA7xhPXdsWX4S6GLYN-WCtNP1DnOvqC7MazhoAojF_h73VrXcFFva095YOsg=h200","name":"AMAZON ENG"},
 
-{"id":"icc","url":"ID3","logo":"https://m.media-amazon.com/images/I/31F7ropt9OL._h1_.png","name":"AMAZON HINDI "},
+{"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
+{"id":"sts1","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
 
 
 
@@ -82,8 +83,7 @@
 {"id":"tnt4","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
 
-{"id":"sts1h","url":"ID1","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
-{"id":"sts1","url":"ID1","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
+
 
 
 
