@@ -8,28 +8,18 @@
 
 
 
-
-
 [
-
 
 {"id":"amzonhindi","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON HINDI "},
 
-{"id":"shoq","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON ENG"},
+{"id":"amzoneng","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON HINDI "},
 
 
-{"id":"sony34","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
+{"id":"shoq","url":"ID3","logo":"https://lh3.googleusercontent.com/wT47vbX_VpaMOUe6Kk7BzhFCQSDkWmQKmRrOTbnDWUMA7xhPXdsWX4S6GLYN-WCtNP1DnOvqC7MazhoAojF_h73VrXcFFva095YOsg=h200","name":"AMAZON ENG"},
 
-{"id":"sony42","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV HINDI"},
-
-{"id":"sony43","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNk3-z18peJOIr7EO6jGRSWSMKSOqg8wQhYhERwH6dg&s=10","name":"SONY LIV ENG"},
+{"id":"icc","url":"ID3","logo":"https://m.media-amazon.com/images/I/31F7ropt9OL._h1_.png","name":"AMAZON HINDI "},
 
 
-
-{"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
-
-
-{"id":"sony53","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
 
 
 
@@ -103,6 +93,19 @@
 {"id":"sts2","url":"ID1","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"}, 
 
 
+
+{"id":"sony34","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
+
+
+
+
+
+{"id":"sony14","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+
+
+{"id":"sony53","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
+
+
 {"id":"rstv","url":"ID1","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki1lVvSWCeEEhSIejlq1un6MuEw3b6Js5M7ByWLTXOR1W4QL4jim8WyNR&s=10","name":"RTA SPORTS"}, 
 
 
@@ -112,8 +115,6 @@
 
 
 ] 
-
-
 
 
 
