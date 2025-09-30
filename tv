@@ -14,6 +14,10 @@
  "mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ldprfxpz4n/out/v1/6cd7efb72fd04edcaaef15c290c6fa9d/cenc.mpd",
  "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
 
+{"id": "shoq",
+ "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
+ "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
+
 
 
 
