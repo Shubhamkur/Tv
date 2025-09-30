@@ -1,5 +1,16 @@
 
 [
+{"id": "amzonhindi",
+ "mpd":"https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/clients/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd",
+ "key": "2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74" },
+
+
+{"id": "amzoneng",
+ "mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ldprfxpz4n/out/v1/6cd7efb72fd04edcaaef15c290c6fa9d/cenc.mpd",
+ "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
+
+
+
 {"id":"sony12","mpd":"https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
 "key":"ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583"},       
 
