@@ -11,14 +11,21 @@
 
 
 {"id": "amzoneng",
+ "mpd":"https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd",
+ "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
+{"id": "amzoneng1",
  "mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ldprfxpz4n/out/v1/6cd7efb72fd04edcaaef15c290c6fa9d/cenc.mpd",
  "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
+
+
 
 {"id": "shoq",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
-
+{"id": "icc",
+ "mpd":"https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1759251773~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~data=hdntl~hmac=613c3689ca186c03efb6b04fcf083f365915a02d2e6f8c4c681c82b272904398/manifest.mpd",
+ "key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb" },
 
 
 
