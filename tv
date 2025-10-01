@@ -1,9 +1,9 @@
 
 [
-{"id": "sony12",
- "mpd":"https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/clients/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd",
- "key": "2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74" },
 
+{"id": "sony12",
+ "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
+ "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
 {"id": "amzonhindi",
  "mpd":"https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/clients/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd",
