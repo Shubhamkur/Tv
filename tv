@@ -332,15 +332,16 @@
 
 
 
-{"id":"bein1", "mpd":"https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd","key":"f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381"}, 
+{"id":"bein1", "mpd":"https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd","key":"335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"}, 
+
 {"id":"bein11", 
 "mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd","key":"1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e"}, 
 {"id":"bein2", 
-"mpd":"https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd","key":"9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1"}, 
+"mpd":"https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd","key":"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"}, 
 {"id":"bein21", 
 "mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd","key":"39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3"}, 
 {"id":"bein3", 
-"mpd":"https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd","key":"4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed"}, 
+"mpd":"https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd,"key":"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"}, 
 {"id":"bein31", 
 "mpd":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd","key":"20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337"}, 
 {"id":"beinxtra","m3u8":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"}, 
