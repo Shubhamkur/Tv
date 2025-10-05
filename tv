@@ -200,9 +200,10 @@
 {"id": "sts2",
 "m3u8": "https://smart.bengaldigital.live/star-sports-2/index.m3u8"}, 
 {"id": "sts21",
-"m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/index.m3u8"}, 
+"m3u8": "https://cors-anywhere.creativeclaritycreations.com/https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/index.m3u8"}, 
 
-
+{"id": "stss1",
+"m3u8": "https://tvsen6.aynaott.com/spsel1/index.m3u8"}, 
 
 
 
@@ -281,11 +282,10 @@
 {"id": "asports",
 "m3u8": "https://bdixiptvbd.com/live/play.php?cricid=asportshd"}, 
 {"id": "asports1",
-"m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=asportshd&key=WASITV"}, 
+"m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
 {"id": "asports2",
 "m3u8": "https://cors-proxy.cooks.fyi/http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"}, 
-{"id": "asports3",
-"m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
+
 
 
 {"id":"geosuper", 
