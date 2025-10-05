@@ -6,16 +6,13 @@
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
 {"id": "amzonhindi",
- "mpd":"https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/clients/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd",
+ "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd",
  "key": "2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74" },
 
 
 {"id": "amzoneng",
- "mpd":"https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd",
- "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
-{"id": "amzoneng1",
- "mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ldprfxpz4n/out/v1/6cd7efb72fd04edcaaef15c290c6fa9d/cenc.mpd",
- "key": "d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9" },
+ "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/hxmndltwen/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd","key": "e51d0a028b213b7df472b5f39dc15a8f:bc00a08336fa155814a2e7f47cd42a03" },
+,
 
 
 
