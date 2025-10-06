@@ -110,7 +110,7 @@
 {"id": "tsport1",
 "m3u8": "https://cors-proxy.cooks.fyi/http://103.15.140.138/tsports/index.m3u8"}, 
 {"id": "tsport2",
-"m3u8": "http://cors-proxy.cooks.fyi/http://147.93.154.65/Bein3/index.m3u8"}, 
+"m3u8": "https://cors-anywhere.creativeclaritycreations.com/http://147.93.154.65/Bein3/index.m3u8"}, 
 {"id": "gtv",
 "m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"}, 
 
