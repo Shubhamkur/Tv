@@ -50,7 +50,7 @@
 {"id":"sony4", 
 "m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_4_HD/index.m3u8?token=test"},
 {"id":"sony41", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%204%20HD"},
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%204"},
 {"id":"sony42", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%204%20HD"},
 
