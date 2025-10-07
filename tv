@@ -35,8 +35,10 @@
 "m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten2/index.m3u8"},
 {"id":"sony22", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%202%20HD"},
-{"id":"sony14", 
+{"id":"sony23", 
 "m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_2_hd"},
+{"id":"sony24", 
+"m3u8":"https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8"},
 
 {"id":"sony3", 
 "m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_3_HD/index.m3u8?token=test"},
@@ -128,13 +130,14 @@
 "m3u8": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8"}, 
 {"id": "willowtv1",
 "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"}, 
-{"id":"willowtv2","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowusa"}, 
-{"id":"willowtv3","m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://bdixtv24.xyz/sports/m3u8.php/willowusa.m3u8"}, 
-{"id": "willowtv4",
+{"id": "willowtv2",
+"m3u8": "https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8"}, 
+{"id": "willowtv3",
+"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8"}, 
+{"id":"willowtv4","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowusa"}, 
+{"id":"willowtv5","m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://bdixtv24.xyz/sports/m3u8.php/willowusa.m3u8"}, 
+{"id": "willowtv6",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
- 
-
-
 
 {"id": "willowsports",
  "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -171,10 +174,17 @@
 "m3u8": "https://bdixiptvbd.com/live/play.php?cricid=skyscric"}, 
 {"id": "skycricket3",
 "m3u8": "https://idx.gdplayertv.to/embed/sky-sports-cricket/"}, 
-
-
 {"id": "skyme",
 "m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Main_Event/tracks-v1a1/mono.m3u8"},
+{"id": "skymix",
+"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Mix_Live_TV/tracks-v1a1/mono.m3u8"},
+
+
+
+
+
+
+
 
 
 
@@ -221,6 +231,14 @@
 
 {"id": "sts1tamil",
 "m3u8": "https://cors-anywhere.creativeclaritycreations.com/http://89.187.189.98/STARSPORTSTAMIL/index.m3u8"},
+{"id": "sts1tamil1",
+"m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20tamil"},
+
+
+
+
+
+
 
 
 
