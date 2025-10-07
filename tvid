@@ -8,8 +8,6 @@
 
 
 
-
-
 [
 
 {"id":"sts2h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"}, 
@@ -39,6 +37,9 @@
 
 {"id":"asports1","url":"ID13","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
 
+{"id":"willowxtra","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
+
+
 
 {"id":"tnt1","url":"ID3","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920","name":"TNT SPORTS 1"}, 
 
@@ -52,21 +53,29 @@
 {"id":"tnt4","url":"ID3","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
 
+
+{"id":"skycricket2","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
+
+
+
+{"id":"astrocricket","url":"ID0","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
+
+{"id":"fox","url":"ID0","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+
+
+
+
+{"id":"tensports2","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
+
+{"id":"tencricket2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
+
+
+
+
+
+
+
 {"id":"criclifemax","url":"ID3","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4","name":"CRICLIFE MAX"},
-
-
-{"id":"astrocricket1","url":"ID3","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
-
-
-
-{"id":"fox3","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
-
-
-{"id":"willowxtra1","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
-
-
-
-
 
 {"id":"criclife","url":"ID10","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo","name":"CRICLIFE"},
 {"id":"cricbuzz1","url":"ID10","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM","name":"CRICBUZZ 1"},
@@ -78,29 +87,20 @@
 
 
 
-{"id":"skycricket1","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
 
 
 
+{"id":"sts2","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"}, 
 
-{"id":"tensports2","url1":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
+{"id":"sts3","url":"ID6","logo":"https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest?cb=20200305070419","name":"STAR SPORTS3"}, 
 
+{"id":"stss12","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQty812EIFLVhtDQEGH0sEgJ7Z4M42bpWyHlsL9tFV9LTG-ld-D8Q-Slepk&s=10","name":"STAR SPORTS 1 SELECT"}, 
 
+{"id":"stss2","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10","name":"STAR SPORTS 2 SELECT"}, 
 
-{"id":"tencricket2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
-
-
-
-
-
+{"id":"sts1tamil","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
 
 
-
-
-
-
-
-{"id":"sts2","url":"ID1","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"}, 
 
 
 
@@ -125,9 +125,6 @@
 
 
 ] 
-
-
-
 
 
 
