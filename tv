@@ -80,12 +80,14 @@
 
 
 {"id": "astrocricket",
-"m3u8": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"}, 
-
-{"id":"astrocricket1","mpd":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
-"key":"03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"},       
-       
+"m3u8": "https://allinonereborn.xyz/airteltv-web/live.php?id=1163673"}, 
+{"id": "astrocricket1",
+"m3u8": "https://allinonereborn.xyz/airteltv-web/live.php?id=1163988"},
 {"id": "astrocricket2",
+"m3u8": "https://allinonereborn.xyz/opplextv-web1/live.php?id=167581"}, 
+{"id":"astrocricket3","mpd":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
+"key":"03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"},       
+ {"id": "astrocricket4",
 "m3u8": "https://tv4wap.github.io/p2?url=https://idx.gdplayertv.to/embed/astro-cricket/"}, 
 
 
@@ -93,10 +95,12 @@
 
 
 
-{"id": "fox",
-"m3u8": "https://allinonereborn.fun/sansat-web/live1.php?id=83174"}, 
+ 
+
+{"id":"fox", 
+"m3u8":"https://allinonereborn.xyz/opplextv-web1/live.php?id=167593"},
 {"id":"fox1", 
-"m3u8":"https://allinonereborn.fun/fcw/live2.php?url=https://allinonereborn.fun/opplextv-web1/live.php?id=167593"},
+"m3u8":"https://allinonereborn.xyz/opplextv-web1/live.php?id=167594"},
 {"id": "fox2",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "fox3",
