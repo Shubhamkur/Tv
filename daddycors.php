@@ -1,10 +1,10 @@
 
 
 
-   { "Saturday 11th Oct 2025 - Schedule Time UK GMT": {
+   { "Sunday 12th Oct 2025 - Schedule Time UK GMT": {
 "Cricket": [
             {
-                "time": "2025-03-23T15:30",
+                "time": "18:00",
                 "event": "2nd Test | Day 2 : India vs West Indies",
                 "channels": [
                     {
