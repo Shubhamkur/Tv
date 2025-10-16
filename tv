@@ -6,11 +6,11 @@
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
 {"id": "amzonhindi",
-"mpd":"https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd",
- "key": "b7befd5541d05f83dc8cc224678580d2:635b18ce18cda33f51e5f9b870f5f263" },
+"mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
+ "key": "c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf" },
 
 {"id": "amzoneng",
-"mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/wqxaloav6c/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd","key": "7d0dc82dee843518294a0930831dea89:b79e2c75c38f08d11ab9883215d058b1" },
+"mpd":"https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd","key": "b7befd5541d05f83dc8cc224678580d2:635b18ce18cda33f51e5f9b870f5f263" },
 
 {"id": "shoq",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
