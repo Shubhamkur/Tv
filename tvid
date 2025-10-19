@@ -8,9 +8,11 @@
 
 
 
+
+
 [
 
-{"id":"sts2h1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"}, 
+{"id":"sts2h1","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"}, 
 
 
 {"id":"amzonhindi","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON HINDI "},
@@ -29,15 +31,18 @@
 
 {"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
-{"id":"ptv","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
+{"id":"tencricket","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
+
+
+{"id":"ptv4","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
 
 {"id":"tsport","url":"ID6","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
 
 {"id":"willowsports","url":"ID3","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
 
-{"id":"asports","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
+{"id":"asports1","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
 
-{"id":"willowxtra","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
+{"id":"willowxtra1","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
 
 
 
@@ -67,7 +72,6 @@
 
 {"id":"tensports2","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
 
-{"id":"tencricket2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
 
 
@@ -92,13 +96,13 @@
 
 {"id":"sts2","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"}, 
 
-{"id":"sts3","url":"ID6","logo":"https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest?cb=20200305070419","name":"STAR SPORTS3"}, 
+{"id":"sts31","url":"ID0","logo":"https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest?cb=20200305070419","name":"STAR SPORTS3"}, 
 
-{"id":"stss12","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQty812EIFLVhtDQEGH0sEgJ7Z4M42bpWyHlsL9tFV9LTG-ld-D8Q-Slepk&s=10","name":"STAR SPORTS 1 SELECT"}, 
+{"id":"stss11","url":"ID0","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQty812EIFLVhtDQEGH0sEgJ7Z4M42bpWyHlsL9tFV9LTG-ld-D8Q-Slepk&s=10","name":"STAR SPORTS 1 SELECT"}, 
 
 {"id":"stss2","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10","name":"STAR SPORTS 2 SELECT"}, 
 
-{"id":"sts1tamil","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
+{"id":"sts1tamil1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
 
 
 
@@ -125,6 +129,8 @@
 
 
 ] 
+
+
 
 
 
