@@ -9,8 +9,8 @@
 
 
 
+[{"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
 
-[
 
 {"id":"sts2h1","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"}, 
 
@@ -22,11 +22,25 @@
 
 {"id":"shoq","url":"ID3","logo":"https://lh3.googleusercontent.com/wT47vbX_VpaMOUe6Kk7BzhFCQSDkWmQKmRrOTbnDWUMA7xhPXdsWX4S6GLYN-WCtNP1DnOvqC7MazhoAojF_h73VrXcFFva095YOsg=h200","name":"ICC WOMAN ENG"},
 
-{"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
-{"id":"sts12","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
+{"id":"sts13","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
 
 
-{"id":"astrocricket","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
+{"id":"skynz1","url":"ID6","logo":"https://match-images.icdb.tv/321eb52ccab96a2b4a61561ac2c7a704.jpg","name":"SKY NZ 1"},
+
+
+{"id":"skynz2","url":"ID6","logo":"https://match-images.icdb.tv/9fb2fb77b781aa271d1d14498c236312.jpg","name":"SKY NZ 2"},
+
+
+
+
+
+
+{"id":"astrocricket2","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
+
+{"id":"astrocgd","url":"ID3","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png","name":"Astro Grandstand"},
+
+
+
 
 
 {"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
@@ -60,7 +74,6 @@
 
 
 {"id":"skycricket2","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
-
 
 
 
@@ -102,7 +115,7 @@
 
 {"id":"stss2","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10","name":"STAR SPORTS 2 SELECT"}, 
 
-{"id":"sts1tamil1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
+{"id":"sts1tamil","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
 
 
 
@@ -129,6 +142,7 @@
 
 
 ] 
+
 
 
 
