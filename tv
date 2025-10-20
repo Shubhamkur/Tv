@@ -89,7 +89,9 @@
 {"id": "astrocricket3",
 "m3u8": "https://allinonereborn.xyz/opplextv-web1/live.php?id=167581"}, 
 
-
+{"id": "astrogd",
+ "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd,
+ "key": "5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d" },
 
 
 
