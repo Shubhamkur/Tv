@@ -192,8 +192,11 @@
 {"id": "skymix",
 "m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Sky_Sports_Mix_Live_TV/tracks-v1a1/mono.m3u8"},
 
+{"id": "skynz1",
+"m3u8": "https://lchdvideo.live/sky1nz.m3u8"},
 
-
+{"id": "skynz2",
+"m3u8": "https://lchdvideo.live/sky2nz.m3u8"},
 
 
 
