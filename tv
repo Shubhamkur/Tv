@@ -96,13 +96,16 @@
 
 
  
-
 {"id":"fox", 
+"m3u8":"https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-141/u49a-lu5c/chunklist.m3u8"},
+{"id":"fox1", 
+"m3u8":"https://foxhindi.pages.dev/playlist.m3u8"},
+{"id":"fox2", 
 "m3u8":"https://allinonereborn.xyz/opplextv-web1/live.php?id=167593"},
 
-{"id": "fox1",
+{"id": "fox3",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
-{"id": "fox2",
+{"id": "fox4",
 "m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
         
 
