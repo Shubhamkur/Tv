@@ -43,7 +43,7 @@
 
 
 
-{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
+{"id":"willowtv1","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
 {"id":"tencricket","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
@@ -115,7 +115,9 @@
 
 {"id":"stss2","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10","name":"STAR SPORTS 2 SELECT"}, 
 
-{"id":"sts1tamil","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
+{"id":"sts1tamil1","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
+
+{"id":"sts1telugu","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Telugu"}, 
 
 
 
