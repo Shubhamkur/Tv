@@ -215,8 +215,9 @@
 {"id": "sts2h",
 "m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20Hindi"},
 {"id": "sts2h1",
+"m3u8": "https://xfireflix.fun/Ayna/play.php?id=3ac46078-2bf0-4998-a021-37b459e09fba"},
+{"id": "sts2h2",
 "m3u8": "https://tvsen5.aynaott.com/xSZ52snq4z3N/index.m3u8"},
-
 
 {"id": "sts1",
 "m3u8": "https://tvgo.neocities.org/APPTV/jiohd?id=1142"},
