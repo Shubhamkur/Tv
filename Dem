@@ -930,92 +930,143 @@ contact:Wapgotube@gmail.com</div>
     <div class="subscription-container">
      
 
-<style>
-
-        .group-filterr {background:#A8E4A0;padding:0px;
-            margin-bottom: 0px;
-            text-align: center;top:33px;position:fixed
-        }
-        .group-filterr select, .searchtv input {
-            padding: 4px;
-            font-size: 12px;
-            border-radius: 0px;
-            border: px solid #A8E4A0;
-            background-color: #fff;
-            color: #333;
-        }
-        .searchtv{padding:4px;
-            text-align: center;
-            margin:0px;border:0px solid #A8E4A0;top:33px;position:fixed}
 
 
 
-        
 
-        .rsz {
-            background: #1e293b;
-            padding: 5px;
-            border-radius: 1px;
-            text-align: center;
-            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-            transition: transform 0.4s ease-in-out;margin-bottom:2px
-        }
 
-       .rsz:hover {
-            transform: scale(1.01);
-        }
 
-        .img {
-            width: 100px;
-            height:100px;
-            border-radius:1%;
-            background-color: white;
-            border : 1px solid#ccc;
-        }
-        
-       .text { padding:4px;font-size:10px;
-  color: white;align:center;margin-left:5px
+
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FREE LIV TV TPLAY</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body { font-family: "Segoe UI", sans-serif; background: #121212; color: #fff; margin: 0; }
+    header { background: #000; padding: 20px; text-align: center; border-bottom: 2px solid #00ffc8; }
+    header h1 { margin: 0; font-size: 32px; color: #00ffc8; animation: glow 2s ease-in-out infinite alternate; }
+    @keyframes glow { from { text-shadow: 0 0 5px #00ffc8; } to { text-shadow: 0 0 20px #00ffc8, 0 0 30px #00ffc8; } }
+    .topbar { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background: #1a1a1a; padding: 15px; }
+    input, select { padding: 10px; border-radius: 6px; font-size: 16px; border: none; outline: none; }
+    #channelList { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; padding: 20px; }
+    .channel { background: #1f1f1f; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 255, 200, 0.05); overflow: hidden; cursor: pointer; text-align: center; padding: 12px; transition: 0.3s; }
+    .channel:hover { background: #292929; transform: translateY(-4px); box-shadow: 0 6px 15px rgba(0, 255, 200, 0.1); }
+    .channel img { width: 100%; height: 120px; object-fit: contain; background: #2a2a2a; border-radius: 8px; padding: 6px; }
+    .channel h3 { font-size: 14px; margin: 10px 0 4px; color: #00ffc8; word-break: break-word; }
+    .channel small { color: #aaa; font-size: 12px; }
+    .fa-heart { margin-top: 6px; font-size: 16px; color: #888; transition: color 0.2s ease; }
+    .fav { color: red !important; }
+    .pagination { text-align: center; margin: 20px; }
+    .pagination button { background: #00ffc8; border: none; padding: 10px 20px; margin: 0 5px; cursor: pointer; border-radius: 6px; font-weight: bold; color: #000; }
+    footer { text-align: center; padding: 20px; background: #000; font-size: 14px; color: #aaa; }
+  </style>
+ </head>
+ <body>
+  <header>
+   <h1>📺 FREE LIV TV TPLAY</h1>
+  </header>
+  <div class="topbar">
+   <input type="text" id="searchInput" placeholder="Search channel..."> <select id="categoryFilter"> <option value="">All Categories</option> <option value="Action">Action</option><option value="Bengali">Bengali</option><option value="English News">English News</option><option value="Entertainment">Entertainment</option><option value="Gujarati">Gujarati</option><option value="Hindi">Hindi</option><option value="Kannada">Kannada</option><option value="Kids">Kids</option><option value="Knowledge">Knowledge</option><option value="Lifestyle">Lifestyle</option><option value="Malayalam">Malayalam</option><option value="Marathi">Marathi</option><option value="Movies">Movies</option><option value="Music">Music</option><option value="News">News</option><option value="Odia">Odia</option><option value="Others">Others</option><option value="Punjabi">Punjabi</option><option value="Regional">Regional</option><option value="Regional Bengali">Regional Bengali</option><option value="Spiritual">Spiritual</option><option value="Sports">Sports</option><option value="Tamil">Tamil</option><option value="Telugu">Telugu</option><option value="Thriller">Thriller</option><option value="none">none</option> </select>
+  </div>
+  <div id="channelList"></div>
+  <div class="pagination">
+   <button onclick="prevPage()">⬅️ Prev</button>
+   <span id="pageInfo"></span>
+   <button onclick="nextPage()">Next ➡️</button>
+  </div>
+  <footer>
+   🔗 <a href="https://t.me/freelivtv" target="_blank" style="color:#00ffc8;">@freelivtv</a> | Credit: <strong>Vishwas</strong>
+  </footer>
+  
+<script src="https://filmymad.neocities.orgo/other.txt"></script>
+  <script>
+
+let currentPage = 2;
+const perPage = 2;
+let favorites = JSON.parse(localStorage.getItem("favorites") || "[]");
+
+function encodeTimestamp(ts) {
+  const map = {'1':'a','2':'v','3':'u','4':'r','5':'h','6':'j','7':'p','8':'o','9':'i','0':'s'};
+  return ts.toString().split('').map(d => map[d]).join('');
 }
 
-       .text1 { padding:4px;
-  color: white;align:center;font-size:12px;margin-left:5px
+function renderChannels() {
+  const search = document.getElementById('searchInput').value.toLowerCase();
+  const category = document.getElementById('categoryFilter').value;
+  let filtered = allChannels.filter(ch =>
+    ch.name.toLowerCase().includes(search) &&
+    (category === '' || ch.group === category)
+  );
+
+  const totalPages = Math.ceil(filtered.length / perPage);
+  if (currentPage > totalPages) currentPage = totalPages;
+  if (currentPage < 1) currentPage = 1;
+
+  const start = (currentPage - 1) * perPage;
+  const channels = filtered.slice(start, start + perPage);
+
+  document.getElementById('channelList').innerHTML = channels.map(ch => {
+    const isFav = favorites.includes(ch.name);
+    return `
+      <div class="channel" onclick="openPlayer('${ch.url}', '${encodeURIComponent(ch.logo)}', '${encodeURIComponent(ch.name)}')">
+        <img src="${ch.logo}" onerror="this.onerror=null;this.src='https://i.ibb.co/DPd27cCK/photo-2024-12-29-23-10-30.jpg';">
+        <h3>${ch.name}</h3>
+        <small>${ch.group}</small><br>
+        <i class="fa fa-heart ${isFav ? 'fav' : ''}" onclick="toggleFav(event, '${ch.name}')"></i>
+      </div>
+    `;
+  }).join("");
+
+  document.getElementById('pageInfo').innerText = `Page ${currentPage} of ${totalPages}`;
 }
 
-       .text2 { padding:4px;
-  background-color: #1F1F1F;
-  color: white;align:center;margin-left:5px;font-size:9px
+function openPlayer(url, logo, name) {
+  const id = new URL(url).searchParams.get("id");
+  if (!id) return alert("Invalid channel ID");
+
+  const expiry = Math.floor(Date.now() / 1000) + 7200; // 2 hrs
+  const token = encodeTimestamp(expiry);
+  const finalUrl = `?id=${id}&key=${token}&name=DW`;
+
+  const playerUrl = `https://tvgo.neocities.org/APPTV/tata${finalUrl}`;
+  window.open(playerUrl, '_blank');
 }
 
-.
-</style>
+function toggleFav(e, name) {
+  e.stopPropagation();
+  if (favorites.includes(name)) {
+    favorites = favorites.filter(f => f !== name);
+  } else {
+    favorites.push(name);
+  }
+  localStorage.setItem("favorites", JSON.stringify(favorites));
+  renderChannels();
+}
 
+function nextPage() { currentPage++; renderChannels(); }
+function prevPage() { currentPage--; renderChannels(); }
 
- <div class="group-filterr">   <div class="searchtv">
-        <input type="text" id="search-inputt" placeholder="Search Channels" onkeyup="searchChannels()">
-<select id="group-select" onchange="filterChannels()">
-            <option value="all">All</option>
-                <option value="Cricket">CRICKET</option> 
-    <option value="Football">FOOTBALL</option> <option value="Hockey">HOCKEY</option> 
-    <option value="Baseball">BASEBALL</option> <option value="Golf">GOLF</option> 
-    <option value="Formula 1">FORMULA 1</option> <option value="Motorsports">MOTORSPORTS</option> 
-    <option value="MotoGP">MOTOGP</option> 
-            
-         </select>
+document.getElementById('searchInput').addEventListener('input', renderChannels);
+document.getElementById('categoryFilter').addEventListener('change', renderChannels);
 
-</div></div>
-
-
-
- <main id="app0"></main>
-<main id="app1"></main>
-
-<script>function getData() {  fetch("https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json")    .then(res => {      return res.json();    })    .then(json => {      console.log(json.data);      const html  = json.matches        .map(function(item) {          return  "<div class='rsz' data-group='"+item.event_category+"' data-name='"+item.title+"'><table width='100%' class='text2'><tr><td width='30%'><a    target='_blank' href='https://tv4wap.github.io/p1?url="+item.adfree_url+"'><img class='img'  src='"+item.src+"' height='100px'></img></a></td><td width='65'><a    target='_blank' href='https://tv4wap.github.io/p7?url="+item.dai_url+"'><p class='text1'>"+ item.title +"</p><p class='text2'><button> "+ item.event_category +"  </button></p><p class='text2'>    <button> "+ item.startTime +" </button></p><p class='text'><button> "+ item.status +" </button></p></a></td></tr> </table></div>";        })        .join("");      console.log(html);      document.querySelector("#app0").insertAdjacentHTML("afterbegin", html);    })    .catch(error => {      console.log(error);    });}getData();</script> 
-
-   <script>function getData() {  fetch("https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json")    .then(res => {      return res.json();    })    .then(json => {      console.log(json.data);      const html  = json.matches        .map(function(item) {          return  "<div class='rsz' data-group='"+item.event_category+"' data-name='"+item.event_name+"'><table width='100%' class='text2'><tr><td width='30%'><a    target='_blank' href='https://tv4wap.github.io/p1?url="+item.pub_url+"'><img class='img'  src='"+item.src+"' height='100px'></img></a></td><td width='65'><a  target='_blank' href='https://tv4wap.github.io/p7?url="+item.dai_url+"'><p class='text1'>"+ item.match_name +"  "+ item.event_name +"                           </p>   <p class='text2'><button> "+ item.event_category +"  </button></p><p class='text2'><button>LIVE "+ item.isLive +" </button></p><p class='text'><button> "+ item.broadcast_channel +" </button></p></a></td></tr> </table></div>";        })        .join("");      console.log(html);      document.querySelector("#app1").insertAdjacentHTML("afterbegin", html);    })    .catch(error => {      console.log(error);    });}getData();</script>                                        
+renderChannels();
+</script>
+ </body>
+</html>
 
 
 
-<script>        function filterChannels() {            var selectedGroup = document.getElementById('group-select').value;            var channels = document.querySelectorAll('.rsz');                        channels.forEach(function(channel) {                if (selectedGroup === 'all' || channel.getAttribute('data-group') === selectedGroup) {                    channel.style.display = 'inline-block';                } else {                    channel.style.display = 'none';                }            });        }        function searchChannels() {            var input = document.getElementById('search-inputt').value.toLowerCase();            var channels = document.querySelectorAll('.rsz');                        channels.forEach(function(channel) {                var name = channel.getAttribute('data-name').toLowerCase();                if (name.includes(input)) {                    channel.style.display = 'inline-block';                } else {                    channel.style.display = 'none';                }            });        }        const checkbox = document.getElementById("checkbox");        checkbox.addEventListener("change", () => {            document.body.classList.toggle("dark-mode");        });    </script>
+
+
+
+
+
+
+
+ 
 
 
 <div class="text2">
