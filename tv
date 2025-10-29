@@ -216,7 +216,7 @@
 
 
 {"id": "sts1h",
-"m3u8": "https://tv4live.github.io/p6/?url=https://rumble.com/live-hls-dvr/6ykg6g/playlist.m3u8"},
+"m3u8": "https://tv4live.github.io/p6/?url=https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-115/3msa-4ftc/chunklist.m3u8"},
 {"id": "sts1h1",
 "m3u8": "https://jiohd.pages.dev/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd&keyId=400131994b445d8c8817202248760fda&key=2d56cb6f07a75b9aff165d534ae2bfc4"},
 
