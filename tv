@@ -1,7 +1,7 @@
 
 [
-{"id": "sony12","mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ky25bcoshh/out/v1/3ed1fff1b5b944d5be7c7031e6df1675/cenc.mpd","key":"1dc631426a2590fb00988d31f31e587a:f580af9e4738b610eb572004e6f0dc71" },
-{"id": "sony19",
+{"id": "sony99","mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ky25bcoshh/out/v1/3ed1fff1b5b944d5be7c7031e6df1675/cenc.mpd","key":"1dc631426a2590fb00988d31f31e587a:f580af9e4738b610eb572004e6f0dc71" },
+{"id": "sony12",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
@@ -67,8 +67,10 @@
 
 
 {"id":"criclifemax","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
-"key":"ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583"},       
-{"id":"criclife","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+"key":"ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583"},
+{"id":"criclife", 
+"m3u8":"https://nfsnew.newkso.ru/nfs/premium284/mono.m3u8"},
+{"id":"criclife1","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
 "key":"1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f"},       
 {"id":"cricbuzz1","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
 "key":"48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f"},       
