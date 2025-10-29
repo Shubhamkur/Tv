@@ -1,6 +1,12 @@
 
 [
-{"id": "sony12","m3u8":"https://tv4live.github.io/ID6?id=fox"}, 
+
+{"id": "sony12",
+ "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/1ry3bhaemv/out/v1/1ae2de8954d448118db3c7d39a650dce/cenc.mpd",
+ "key": "95589d2d1df1e150ba4048ec342164bb:345f410db389ec88eca2389fb75b27bc" },
+
+
+{"id": "sony13","m3u8":"https://tv4live.github.io/ID6?id=fox"}, 
 {"id": "sony99",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
