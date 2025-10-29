@@ -1,7 +1,7 @@
 
 [
-{"id": "sony99","mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ky25bcoshh/out/v1/3ed1fff1b5b944d5be7c7031e6df1675/cenc.mpd","key":"1dc631426a2590fb00988d31f31e587a:f580af9e4738b610eb572004e6f0dc71" },
-{"id": "sony12",
+{"id": "sony12","m3u8":"https://tv4live.github.io/ID6?id=fox"}, 
+{"id": "sony99",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
 
