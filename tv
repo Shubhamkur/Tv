@@ -364,16 +364,11 @@
 {"id":"geosuper", 
 "mpd":"https://live2.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd","key":"7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2"}, 
 
+{"id":"geosuper1", 
+"m3u8":"https://anywhere.pwisetthon.com/https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"},
+
 {"id":"tamasha", 
 "m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
-
-
-{"id": "ds",
-"m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
-  {"id": "ds1",
-"m3u8": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
-
-
 
 
 {"id":"solhtv", 
@@ -386,6 +381,12 @@
 
 {"id":"rstv", 
 "m3u8":"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
+
+
+{"id": "ds",
+"m3u8": "https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
+  {"id": "ds1",
+"m3u8": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
 
 
 {"id":"euro1","mpd":"https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd","key":"01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d"}, 
