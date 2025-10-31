@@ -376,6 +376,11 @@
 
 
 
+{"id":"solhtv", 
+"m3u8":"https://solhtvhls.wns.live/hls/stream.m3u8"},
+
+{"id":"solhtv1", 
+"m3u8":"https://wo.cma.footballii.ir/hls2/solh.m3u8"},
 
 
 
