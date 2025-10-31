@@ -28,6 +28,9 @@
 
 
 {"id":"amzoneng","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON ENG "},
+{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
+
+{"id":"tencricket3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
 
 {"id":"willowsports","url":"ID3","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
@@ -49,20 +52,17 @@
 {"id":"criclife","url":"ID10","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo","name":"CRICLIFE"},
 
 
-
+{"id":"astrogd","url":"ID3","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png","name":"Astro Grandstand"},
 
 
 {"id":"astrocricket","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
-{"id":"astrogd","url":"ID3","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png","name":"Astro Grandstand"},
+
 
 
 {"id":"fox","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501 ENG"},
 
 
-{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
-
-{"id":"tencricket3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
 
 {"id":"ptv4","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
