@@ -1,11 +1,8 @@
 
 [
 
-
-{"id": "sony12",
-"mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
- "key": "c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf" },
-
+{"id":"sony12", 
+"m3u8":"https://tv4wap.neocities.org/stream"},
 
 {"id": "sony99",
  "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
