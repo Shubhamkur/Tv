@@ -87,7 +87,7 @@
 
 
 {"id": "astrocricket",
-"m3u8":"https://smart.bengaldigital.live/AstroCricket/index.m3u8"}, 
+"m3u8":"https://anywhere.pwisetthon.com/https://smart.bengaldigital.live/AstroCricket/index.m3u8"}, 
 
 {"id":"astrocricket1","mpd":"https://anywhere.pwisetthon.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
 "key":"03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"},       
@@ -359,7 +359,7 @@
 
 
 {"id": "asports",
-"m3u8": "https://bdixiptvbd.com/live/play.php?cricid=asportshd"}, 
+"m3u8": "https://v5on.site/adv/Asports.m3u8"}, 
 {"id": "asports1",
 "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"}, 
 {"id": "asports2",
