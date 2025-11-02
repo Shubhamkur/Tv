@@ -21,7 +21,8 @@
 {"id":"toffee", 
 "m3u8":"https://bongoflixbd.top/test/?watch=match-asiacup"},
 
-
+{"id":"toffee1", 
+"m3u8":"https://cricketstan.github.io/Fox-Cricket-/"},
 
 {"id":"sony1", 
 "m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_1_HD/index.m3u8?token=test"},
