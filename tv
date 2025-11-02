@@ -131,14 +131,16 @@
 "m3u8": "https://anywhere.pwisetthon.com/http://116.204.149.16/t_sports/index.m3u8"}, 
 {"id": "tsport5",
 "m3u8": "https://anywhere.pwisetthon.com/http://103.73.107.122:3255/TSportsHD/index.m3u8"}, 
-{"id": "gtv",
-"m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"}, 
-
+ 
 {"id": "tsport6",
-"m3u8": "https://anywhere.pwisetthon.com/https://anywhere.pwisetthon.com/https://bdixtv24.com/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"},
+"m3u8": "https://xfireflix.fun/Ayna/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"},
+
+{"id": "tsport7",
+"m3u8": "https://anywhere.pwisetthon.com/https://bdixtv24.com/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"},
 
 
-
+{"id": "gtv",
+"m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"},
 
 
 
