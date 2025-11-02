@@ -36,8 +36,9 @@
 
 {"id":"tnt3","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMkgdzmBn5DjQIEGZ2zI4_w0nXsCZYKGihgOsV_fh47v7GjXLYnMma0E&s=10","name":"TNT SPORTS 3"},
 
-{"id":"tencricket3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
+{"id":"tencricket","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
+{"id":"asports","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"},
 
 {"id":"tsport4","url":"ID6","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
 
@@ -63,7 +64,7 @@
 
 
 
-{"id":"asports1","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"}, 
+ 
 
 {"id":"willowxtra1","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
 
