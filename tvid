@@ -11,6 +11,8 @@
 
 [
 
+{"id":"sts1h1","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
+
 {"id":"toffee1","url":"ID11","logo":"https://i.ytimg.com/vi/QgNNr4b-N_k/hq720.jpg?v=690a346b&sqp=CJjwqMgG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwl52gP1avu6LSp9eja44eAt6CGg","name":"IND VS AUS HINDI"},
 
 {"id":"toffee1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAReWQ1QESMTq0bF_l2oP3qIXhdcUs7fZOEuEPf_Z35g&s=10","name":"HOTSTAR HINDI"},
@@ -25,7 +27,7 @@
 
 {"id":"sts13","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
 
-{"id":"sts1h1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
+
 
 
 {"id":"sts2h1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"}, 
