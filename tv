@@ -222,7 +222,7 @@
 {"id": "sts1h",
 "m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"},
 {"id": "sts1h1",
-"m3u8": "https://jall.pages.dev/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd&keyId=400131994b445d8c8817202248760fda&key=2d56cb6f07a75b9aff165d534ae2bfc4"},
+"m3u8": "https://topstream.space/daddy/stream.php?id=268&srv=1&format=.m3u8"},
 
 {"id": "sts2h",
 "m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20Hindi"},
