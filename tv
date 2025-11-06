@@ -346,7 +346,7 @@
 {"id": "tensports",
 "m3u8": "https://sinelive-sineproxy.hf.space/proxy/m3u?url=http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8"},
 {"id": "tensports1",
-"m3u8": "https://wasitv-pro.site/crichd/master.m3u8/?c=tenspk&key=WASITV"}, 
+"m3u8": "https://flussonic.superfasthdserver.com/TenSports/index.m3u8"}, 
 {"id": "tensports2",
 "m3u8": "https://bdixiptvbd.com/live/play.php?cricid=tenspk"}, 
 
