@@ -18,11 +18,9 @@
 
 {"id":"astrocricket","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
+{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
-{"id":"amzoneng1","url":"ID11","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON ENG "},
-
-{"id":"shoq","url":"ID3","logo":"https://lh3.googleusercontent.com/wT47vbX_VpaMOUe6Kk7BzhFCQSDkWmQKmRrOTbnDWUMA7xhPXdsWX4S6GLYN-WCtNP1DnOvqC7MazhoAojF_h73VrXcFFva095YOsg=h200","name":"ICC WOMAN ENG"},
-{"id":"willowsports","url":"ID3","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
+{"id":"tnt2","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ1qcXP-kQ4G9rts1lcsl6tLsJwyBJX-iXuIF4iUADA&s=10","name":"TNT SPORTS 2"}, 
 
 {"id":"sts13","url":"ID6","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"}, 
 
@@ -34,7 +32,12 @@
 {"id":"fox","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501 HIN"},{"id":"fox1","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501 HIN"},{"id":"fox2","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501 ENG"},{"id":"fox3","url":"ID6","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501 ENG"},
 
 
-{"id":"willowtv","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
+
+
+{"id":"amzoneng1","url":"ID11","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON ENG "},
+
+{"id":"shoq","url":"ID3","logo":"https://lh3.googleusercontent.com/wT47vbX_VpaMOUe6Kk7BzhFCQSDkWmQKmRrOTbnDWUMA7xhPXdsWX4S6GLYN-WCtNP1DnOvqC7MazhoAojF_h73VrXcFFva095YOsg=h200","name":"ICC WOMAN ENG"},
+{"id":"willowsports","url":"ID3","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
 
 {"id":"tnt3","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMkgdzmBn5DjQIEGZ2zI4_w0nXsCZYKGihgOsV_fh47v7GjXLYnMma0E&s=10","name":"TNT SPORTS 3"},
 
@@ -47,7 +50,7 @@
 
 {"id":"tnt1","url":"ID3","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920","name":"TNT SPORTS 1"}, 
 
-{"id":"tnt2","url":"ID3","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ1qcXP-kQ4G9rts1lcsl6tLsJwyBJX-iXuIF4iUADA&s=10","name":"TNT SPORTS 2"}, 
+
 {"id":"tnt4","url":"ID3","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
 
