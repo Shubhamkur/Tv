@@ -11,7 +11,9 @@
 
 [
 
-{"id":"toffee1","url":"ID11","logo":"https://i.ytimg.com/vi/Cr0_hYVipCo/hqdefault.jpg?v=68e4aa3f","name":"HOTSTAR HINDI"},
+{"id":"toffee1","url":"ID11","logo":"https://i.ytimg.com/vi/QgNNr4b-N_k/hq720.jpg?v=690a346b&sqp=CJjwqMgG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwl52gP1avu6LSp9eja44eAt6CGg","name":"IND VS AUS HINDI"},
+
+{"id":"toffee1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAReWQ1QESMTq0bF_l2oP3qIXhdcUs7fZOEuEPf_Z35g&s=10","name":"HOTSTAR HINDI"},
 {"id":"amzonhindi","url":"ID3","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON HINDI "},
 
 {"id":"astrocricket","url":"ID6","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
