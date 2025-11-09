@@ -1,12 +1,12 @@
 
 [
 
-{"id":"sony12", 
-"m3u8":"https://cricketstan.github.io/Fox-Cricket-/"},
+{"id":"sony92", 
+"m3u8":""},
 
-{"id": "sony99",
- "mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
- "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" },
+{"id": "sony12",
+ "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ryaddpdi3s/out/v1/1dea05fc0dfe4594ad2e11aebe8caaf0/cenc.mpd",
+ "key": "50df4e4ef7fabd04ad2f7fd3be6caf3f:9b5eaf2fe9a8cc752d64c41c92fa3dc6" },
 
 {"id": "amzonhindi",
 "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
