@@ -11,6 +11,8 @@
 
 [
 
+{"id":"tensports","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"},
+
 {"id":"sts1h1","url":"ID6","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
 
 {"id":"toffee1","url":"ID11","logo":"https://i.ytimg.com/vi/QgNNr4b-N_k/hq720.jpg?v=690a346b&sqp=CJjwqMgG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwl52gP1avu6LSp9eja44eAt6CGg","name":"IND VS AUS HINDI"},
@@ -46,7 +48,7 @@
 
 {"id":"tencricket","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
-{"id":"tensports1","url":"ID1","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"}, 
+ 
 
 
 {"id":"asports","url":"ID6","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"},
