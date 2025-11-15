@@ -488,8 +488,16 @@
 "mpd":"https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd","key":"7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"}, 
 
 
-
-
+{"id":"espn", 
+"mpd":"https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPNHD/dash/default.mpd","key":"bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a"}, 
+{"id":"espn1", 
+"mpd":"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd","key":"3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85"}, 
+{"id":"espn2", 
+"mpd":"https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd","key":"faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048"}, 
+{"id":"espn3", 
+"mpd":"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd","key":"10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982"}, 
+{"id":"espn4", 
+"mpd":"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd","key":"1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72"}, 
 
 
 
