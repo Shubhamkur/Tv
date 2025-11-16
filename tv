@@ -1,12 +1,12 @@
 
 [
 
-{"id":"sony12", 
+{"id":"sony122", 
 "m3u8":"https://tvgo.neocities.org/APPTV/jio?id=1984"},
 
-{"id": "sony133",
- "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ryaddpdi3s/out/v1/1dea05fc0dfe4594ad2e11aebe8caaf0/cenc.mpd",
- "key": "50df4e4ef7fabd04ad2f7fd3be6caf3f:9b5eaf2fe9a8cc752d64c41c92fa3dc6" },
+{"id": "sony12",
+ "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
+ "key": "19bbff3cf0d0c91198947c63018ec66e:90a1fb2f173ca5312f25cdd4d166cd33" },
 
 {"id": "amzonhindi",
 "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
@@ -45,13 +45,14 @@
 {"id":"sony24", 
 "m3u8":"https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8"},
 
-{"id":"sony3", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_3_HD/index.m3u8?token=test"},
+{"id": "sony3",
+ "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
+ "key": "19bbff3cf0d0c91198947c63018ec66e:90a1fb2f173ca5312f25cdd4d166cd33" },
 {"id":"sony31", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten3/index.m3u8"},
+"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_3_HD/index.m3u8?token=test"},
 {"id":"sony32", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%203%20HD"},
-{"id":"sony34", 
+"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten3/index.m3u8"},
+{"id":"sony33", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%203"},
 
 {"id":"sony4", 
