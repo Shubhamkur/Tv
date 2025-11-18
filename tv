@@ -4,7 +4,7 @@
 {"id":"sony12", 
 "m3u8":"https://tv4live.github.io/ID3?id=willowsports"},
 
-{"id": "sony122",
+{"id": "sony12",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
  "key": "19bbff3cf0d0c91198947c63018ec66e:90a1fb2f173ca5312f25cdd4d166cd33" },
 
