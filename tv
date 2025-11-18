@@ -1,8 +1,6 @@
 
 [
 
-{"id":"sony12", 
-"m3u8":"https://tv4live.github.io/ID3?id=willowsports"},
 
 {"id": "sony12",
  "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
