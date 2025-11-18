@@ -1,10 +1,13 @@
 
 [
-
-
 {"id": "sony12",
- "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
- "key": "19bbff3cf0d0c91198947c63018ec66e:90a1fb2f173ca5312f25cdd4d166cd33" },
+"m3u8": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"}, 
+
+
+{"id": "sony122",
+ "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+ "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
+
 
 {"id": "amzonhindi",
 "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
