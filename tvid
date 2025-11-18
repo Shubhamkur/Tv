@@ -14,7 +14,7 @@
 {"id":"tensports","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"},
 {"id":"tsport1","url":"ID18","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
 
-{"id":"sony3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
+{"id":"sony1","url":"ID19","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
 
 {"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
 
@@ -27,7 +27,7 @@
 
 {"id":"willowsports","url":"ID11","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
 
-{"id":"sony13","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+
 {"id":"asports","url":"ID19","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"},
 
 {"id":"solhtv","url":"ID18","logo":"https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg","name":"SOLHTV SPORTS"}, 
@@ -146,7 +146,7 @@
 {"id":"sony42","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png","name":"TEN 4 Telugu"},
 {"id":"sony51","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
 
-
+{"id":"sony3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
 
 
 {"id":"ds","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png","name":"DD SPORTS"}
