@@ -326,7 +326,7 @@
 
 
 {"id": "tencricket",
-"m3u8": "https://allottplay.com/tv/toffee/?play=ten_cricket"},
+"m3u8": "https://allottplay.com/tv/toffee/live.php?id=ten_cricket"},
 {"id": "tencricket1",
 "m3u8": "https://bongoflixbd.top/test/live.php?id=ten_cricket&m=1"},
 {"id": "tencricket2",
