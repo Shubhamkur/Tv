@@ -353,13 +353,14 @@
 {"id": "asports1",
 "m3u8": "https://v5on.site/adv/Asports.m3u8"}, 
 
-
-
-{"id":"geosuper", 
-"mpd":"https://live2.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd","key":"7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2"}, 
-
 {"id":"geosuper1", 
 "m3u8":"https://anywhere.pwisetthon.com/https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"},
+
+{"id":"peo1", 
+"m3u8":"https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"},
+
+{"id":"fastsports", 
+"mpd":"https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd","key":"ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3"}, 
 
 {"id":"tamasha", 
 "m3u8":"https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8"},
