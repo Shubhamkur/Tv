@@ -23,54 +23,24 @@
 {"id":"toffee", 
 "m3u8":"https://bongoflixbd.top/test/?watch=match-asiacup"},
 
-{"id":"toffee1", 
-"m3u8":"https://cricketstan.github.io/Fox-Cricket-/"},
 
 {"id":"sony1", 
-"m3u8":"https://bongoflixbd.top/stream.php?id=b04b3742-e2a1-4d56-8b3e-2b2154766ada"},
-{"id":"sony11", 
-"m3u8":"https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd"},
-{"id":"sony12", 
-"m3u8":"http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8"},
-{"id":"sony13", 
-"m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_1_hd"},
-
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-1"},
 {"id":"sony2", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_2_HD/index.m3u8?token=test"},
-{"id":"sony21", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten2/index.m3u8"},
-{"id":"sony22", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%202%20HD"},
-{"id":"sony23", 
-"m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_2_hd"},
-{"id":"sony24", 
-"m3u8":"https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8"},
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-2"},{"id":"sony3", 
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-3"},{"id":"sony4", 
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4"},{"id":"sony5", 
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-5"},
 
-{"id": "sony3",
- "mpd":"https://sundirectgo-live.pc.cdn.bitgravity.com/src635/dth.mpd",
- "key": "19bbff3cf0d0c91198947c63018ec66e:90a1fb2f173ca5312f25cdd4d166cd33" },
-{"id":"sony31", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_3_HD/index.m3u8?token=test"},
-{"id":"sony32", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten3/index.m3u8"},
-{"id":"sony33", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%203"},
 
-{"id":"sony4", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_4_HD/index.m3u8?token=test"},
-{"id":"sony41", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%204"},
-{"id":"sony42", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%204%20HD"},
 
-{"id":"sony5", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://195.181.169.162:80/TEN_5_HD/index.m3u8?token=test"},
-{"id":"sony51", 
-"m3u8":"https://cors-anywhere.creativeclaritycreations.com/http://51.15.7.9:3141/ten5/index.m3u8"},
-{"id":"sony52", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=SONY%20SPORTS%20TEN%205%20HD"},
-{"id":"sony53", 
-"m3u8":"https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_5_hd"},
+
+
+
+
+
+
+
 
 
 
