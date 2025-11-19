@@ -89,14 +89,9 @@
 
 
 {"id": "astrocricket",
-"m3u8":"https://smart.bengaldigital.live/AstroCricket/index.m3u8"}, 
+"m3u8":"https://anywhere.pwisetthon.com/http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8"}, 
 
-{"id":"astrocricket1","mpd":"https://anywhere.pwisetthon.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
-"key":"03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"},       
- {"id": "astrocricket2",
-"m3u8": "https://tv4wap.github.io/p2?url=https://idx.gdplayertv.to/embed/astro-cricket/"}, 
-{"id": "astrocricket3",
-"m3u8": "https://allinonereborn.xyz/opplextv-web1/live.php?id=167581"}, 
+ 
 
 {"id": "astrogd",
  "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd",
