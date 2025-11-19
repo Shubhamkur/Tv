@@ -29,7 +29,10 @@
 {"id":"sony2", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-2"},{"id":"sony3", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-3"},{"id":"sony4", 
-"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4"},{"id":"sony5", 
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4"},
+{"id":"sony41", 
+"m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4-hd"},
+{"id":"sony5", 
 "m3u8":"https://tvgo.neocities.org/APPTV/sony?id=sony-ten-5"},
 
 
