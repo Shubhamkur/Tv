@@ -312,8 +312,11 @@
 
 
 
+{"id": "tensports1",
+"m3u8": "https://flussonic.superfasthdserver.com/TenSports/index.m3u8"},
 {"id": "tensports",
 "m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"},
+
 
 
 
