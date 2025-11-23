@@ -61,9 +61,12 @@
 
 
 
-{"id": "astrocricket",
-"m3u8":"https://anywhere.pwisetthon.com/http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8"}, 
 
+{"id": "astrocricket",
+ "mpd": "https://allinonereborn.online/mpd/mpd.php/5117/default_primary.mpd",
+ "key": "581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba" },
+{"id": "astrocricket1",
+"m3u8":"https://anywhere.pwisetthon.com/http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8?https://ast-eta.vercel.app/5117/default_primary.mpd"}, 
  
 
 {"id": "astrogd",
@@ -74,16 +77,12 @@
 
  
 {"id":"fox", 
-"m3u8":"https://iplislive.pages.dev/chut-teri-ma-ki.m3u8"},
+"m3u8":"https://fox-cricket.vercel.app/"},
 {"id":"fox1", 
 "m3u8":"https://iplislive.pages.dev/chut-teri-ma-ki.m3u8"},
-{"id":"fox2", 
-"m3u8":"https://iplislive.pages.dev/chut-teri-ma-ki.m3u8"},
-{"id":"fox3", 
-"m3u8":"https://iplislive.pages.dev/chut-teri-ma-ki.m3u8"},
-{"id": "fox4",
+{"id": "fox2",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
-{"id": "fox5",
+{"id": "fox3",
 "m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
         
 
