@@ -287,15 +287,11 @@
 
 {"id": "tencricket",
 "m3u8": "https://allottplay.com/tv/toffee/live.php?id=ten_cricket"},
-{"id": "tencricket1",
-"m3u8": "https://bongoflixbd.top/test/live.php?id=ten_cricket&m=1"},
-{"id": "tencricket2",
-"m3u8": "https://m.xigzo.store/?play=86db7302947d"},
 
 
 
 {"id": "tensports",
-"m3u8": "https://flussonic.superfasthdserver.com/TenSports/index.m3u8"},
+"m3u8": "https://tvgotk.github.io/p1/?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"},
 {"id": "tensports1",
 "m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"},
 
