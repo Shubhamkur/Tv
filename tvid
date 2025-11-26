@@ -25,8 +25,8 @@
 
 
 {"id":"tv7","url":"ID18","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 SPORTS"},
-
-{"id":"asports3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"},
+{"id":"ptv1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
+{"id":"asports2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm9wSyxdIjvlYdwU2-sq1LCSVXkkqXBWBXA&s","name":"A SPORTS"},
 
 {"id":"tensports","url":"ID18","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png","name":"TEN SPORTS"},
 
@@ -52,7 +52,7 @@
 
 
 
-{"id":"ptv1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ad4PNlqneWGKqwJ5ayE57PVczpsXK5a9c7AuD5b2CWYjBS5R_RQjZ8Anu2zq1GxRdcrLkhn8r7HMM0S1s-XOcYIZgfvLOaI41hAOuF8","name":"PTV SPORTS"}, 
+
 
 {"id":"geosuper1","url":"ID18","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10","name":"GEO SPORTS"}, 
 
