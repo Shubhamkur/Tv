@@ -308,7 +308,7 @@
 
 
 {"id": "ptv",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://163.172.57.3/crc1/index.m3u8"}, 
+"m3u8": "https://tvgotk.github.io/p1/?url=https://flussonic.superfasthdserver.com/PtvSports/index.m3u8"}, 
 {"id": "ptv1",
 "m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348"}, 
 
@@ -316,8 +316,9 @@
 
 
 {"id": "asports",
-"m3u8": "https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8"}, 
-
+"m3u8": "https://tvgotk.github.io/p1/?url=https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8"}, 
+{"id": "asports1",
+"m3u8": "https://tvgotk.github.io/p1/?url=https://flussonic.superfasthdserver.com/ASports/index.m3u8"}, 
 {"id": "asports2",
 "m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=a3d48c46-7902-45e2-abf9-0fab60c4d117"}, 
 
