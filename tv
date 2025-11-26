@@ -84,31 +84,7 @@
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "fox3",
 "m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
-        
-
-
-
-{"id": "tsport",
-"m3u8": "https://anywhere.pwisetthon.com/http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8"}, 
-{"id": "tsport1",
-"m3u8": "https://anywhere.pwisetthon.com/http://103.175.242.10:8080/tsports1/index.m3u8"}, 
-{"id": "tsport2",
-"m3u8": "https://anywhere.pwisetthon.com/https://bdixtv24.com/Ayna/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
-{"id": "tsport3",
-"m3u8": "https://xfireflix.fun/Ayna/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
-
-
-
-
-{"id": "gtv",
-"m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"},
-
-
-
-
-
-
-        
+             
 
 {"id": "willowtv",
 "m3u8": "https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"}, 
@@ -319,11 +295,27 @@
 {"id": "tensports1",
 "m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"},
 
+{"id": "tsport",
+"m3u8": "https://anywhere.pwisetthon.com/http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8"}, 
+{"id": "tsport1",
+"m3u8": "https://anywhere.pwisetthon.com/http://103.175.242.10:8080/tsports1/index.m3u8"}, 
+{"id": "tsport2",
+"m3u8": "https://anywhere.pwisetthon.com/https://bdixtv24.com/Ayna/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
+{"id": "tsport3",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=a3d48c46-7902-45e2-abf9-0fab60c4d117"}, 
 
+
+
+
+{"id": "gtv",
+"m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"},
 
 
 {"id": "ptv",
 "m3u8": "https://anywhere.pwisetthon.com/http://163.172.57.3/crc1/index.m3u8"}, 
+{"id": "ptv1",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348"}, 
+
 
 
 
@@ -331,6 +323,9 @@
 "m3u8": "https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8"}, 
 {"id": "asports1",
 "m3u8": "https://v5on.site/adv/Asports.m3u8"}, 
+{"id": "asports2",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=a3d48c46-7902-45e2-abf9-0fab60c4d117"}, 
+
 
 {"id":"geosuper1", 
 "m3u8":"https://anywhere.pwisetthon.com/https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"},
