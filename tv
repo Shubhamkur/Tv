@@ -185,6 +185,8 @@
 "m3u8": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8"},
 {"id": "sts13",
 "m3u8": "https://anywhere.pwisetthon.com/41.205.93.154/STARSPORTS1/index.m3u8"},
+{"id": "sts14",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=f064e069-8861-43d5-ac79-828b029a50a1"},
 
 
 
@@ -192,9 +194,11 @@
 {"id": "sts2",
 "m3u8": "https://iptv-agam.onrender.com/hls/ss2/playlist.m3u8"}, 
 {"id":"sts21","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
-{"id": "sts2",
+{"id": "sts22",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=3ac46078-2bf0-4998-a021-37b459e09fba"},
+{"id": "sts23",
 "m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20eng"},
-{"id": "sts2",
+{"id": "sts24",
 "m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20engHD"}, 
 
 
