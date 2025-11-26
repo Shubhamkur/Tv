@@ -10,18 +10,17 @@
 
 
 [
+{"id":"sts14","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"},
 
-{"id":"sts2h5","url":"ID11","logo":"https://www.livemint.com/lm-img/img/2025/02/14/original/Screenshot_2025-02-14_065533_1739496378365.png","name":"JSTARR HINDI"},
-{"id":"sts2h4","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI"},
-
-{"id":"peo1","url":"ID11","logo":"https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj","name":"PEO SPORTS 1 IND vs SA"}, 
-
-{"id":"astrocricket","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
+{"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
+{"id":"sts2h5","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI HD"},
+{"id":"sts2h4","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png","name":"STAR SPORTS 2 HINDI SD"},
 
 {"id":"sts22","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"}, 
 
-{"id":"tnt1","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920","name":"TNT SPORTS 1"}, 
 
+
+{"id":"peo1","url":"ID11","logo":"https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj","name":"PEO SPORTS 1"},
 
 {"id":"pkten","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv49I8xrhzG3V4glyh9D9G_SS6JIsbJWTeqC9wk67YXA&s=10","name":"PK SPORTS"},
 {"id":"tv7","url":"ID11","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 SPORTS"},
@@ -34,17 +33,6 @@
 
 {"id":"tencricket","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s","name":"TEN CRICKET"},
 
-
-
-{"id":"sts14","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"},
-
-
-{"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
-
-
-
-
-
 {"id":"willowtv","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png","name":"WILLOW TV"}, 
 
 {"id":"willowsports","url":"ID11","logo":"https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png","name":"WILLOW SPORTS"},
@@ -54,11 +42,7 @@
 
 
 
-{"id":"geosuper1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10","name":"GEO SPORTS"}, 
-
-
-
-
+{"id":"tnt1","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920","name":"TNT SPORTS 1"}, 
 
 {"id":"tnt2","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ1qcXP-kQ4G9rts1lcsl6tLsJwyBJX-iXuIF4iUADA&s=10","name":"TNT SPORTS 2"}, 
 
@@ -67,11 +51,13 @@
 
 {"id":"tnt4","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
- 
+{"id":"geosuper1","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10","name":"GEO SPORTS"},  
 
 {"id":"rstv","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki1lVvSWCeEEhSIejlq1un6MuEw3b6Js5M7ByWLTXOR1W4QL4jim8WyNR&s=10","name":"RTA SPORTS"}, 
 
 {"id":"fastsports","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5QOvP02QZ3z3Dra5f6oqc9QXms-frWA0vFpUtrlzrtbjftn1rAL9ROw&s=10","name":"FAST SPORTS"}, 
+
+{"id":"astrocricket","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
 {"id":"fox","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
 
@@ -79,28 +65,13 @@
 
 {"id":"amzoneng1","url":"ID11","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON ENG "},
 
-{"id":"sony1","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png","name":"SONY TEN1"},
+
 
 {"id":"sony2","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png","name":"SONY TEN2"},
 
-{"id":"sony3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
-{"id":"sony4","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png","name":"TEN 4 Telugu"},
-{"id":"sony41","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png","name":"TEN 4 Tamil"},
 
-{"id":"sony5","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png","name":"SONY TEN5"}, 
-
-
-
-
- 
 
 {"id":"astrogd","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png","name":"Astro Grandstand"},
-
-
-
-
-
-
 
 
 
@@ -111,40 +82,12 @@
 
 
 
-
-
-
-
-
-
-
-
- 
-
 {"id":"willowxtra1","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png","name":"WILLOW XTRA"},
 
 
 
 
-
-
-
-
-
-
-
-
-
 {"id":"skycricket2","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
-
-
-
-
-
-
-
-
-
 
 
 {"id":"criclifemax","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4","name":"CRICLIFE MAX"},
@@ -154,12 +97,9 @@
 
 {"id":"cricbuzz2","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjjHNNZ8ThCspqDjueu8EqdErzEicE-Dc5BykVGsM5cL5daCLx86pUKe43NHqlTAlWoQUi4LL1OCHyVQvV39VdvPI4_MMV6EPXWO7fNCHL3CRIw44teQOC4Mg9f3ZNohJJ1NDwKqXJfv5TgPIumgoJUIbiXb-vdCZoToCAqsto7agUlGlYBDeHhoeC8AXs","name":"CRICBUZZ 2"},
 
-
-
-
-
-
-
+{"id":"sony3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
+{"id":"sony4","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png","name":"TEN 4 Telugu"},
+{"id":"sony41","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png","name":"TEN 4 Tamil"}, 
 
 {"id":"sts31","url":"ID11","logo":"https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest?cb=20200305070419","name":"STAR SPORTS3"}, 
 
@@ -170,12 +110,6 @@
 {"id":"sts1tamil1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Tamil"}, 
 
 {"id":"sts1telugu","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png","name":"STAR SPORTS1 Telugu"}, 
-
-
-
-
-
-
 
 {"id":"ds","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png","name":"DD SPORTS"}
 
