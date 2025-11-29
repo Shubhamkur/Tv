@@ -31,60 +31,7 @@
 
 
 
-<!--     bn ir -->
-            <li class="accordion">
-             <div class="card">
-              <p class="des">T20</p>
-              <div class="card-des">
-               <img alt="" class="t1" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png "> <img alt="" class="vs" src=" https://media.tenor.com/33gJyOCSrIYAAAAj/live.gif"> <img alt="" class="t2" src=" https://upload.wikimedia.org/wikipedia/en/c/c7/Ireland_cricket_team_logo.png ">
-              </div>
-              <p class="time">5:30 PM</p>
-             </div>
-            </li>
-            <div class="panel">
-             <a href=" go:l99 " target="_blank"> 
-              <button class="pp">‣ T Sports</button>
-             </a> <a href=" go:fn2 " target="_blank"> 
-              <button class="pp">‣ Fancode</button>
-             </a> <a href=" go:fn " target="_blank"> 
-              <button class="pp">‣ Fancode Events</button>
-             </a> <a href=" go:tcri " target="_blank"> 
-              <button class="pp">‣ Worldwide</button>
-             </a>
-            </div>
-            <!--    sri  pk   zi  https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg 
 
-https://www.mrflag.com/wp-content/uploads/2018/11/Pakistan.png
-
-https://cdn.webshopapp.com/shops/94414/files/52444344/flag-of-zimbabwe.jpg    -->
-            <li class="accordion">
-             <div class="card">
-              <p class="des">T20</p>
-              <div class="card-des">
-               <img alt="" class="t1" src=" https://www.mrflag.com/wp-content/uploads/2018/11/Pakistan.png  "> <img alt="" class="vs" src=" https://media.tenor.com/33gJyOCSrIYAAAAj/live.gif"> <img alt="" class="t2" src=" https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg ">
-              </div>
-              <p class="time">6:30 PM</p>
-             </div>
-            </li>
-            <div class="panel">
-             <a href=" go:l55 " target="_blank"> 
-              <button class="pp">‣ A Sports</button>
-             </a> <a href=" go:willow " target="_blank"> 
-              <button class="pp">‣ Willow Sports</button>
-             </a> <a href=" go:tcri " target="_blank"> 
-              <button class="pp">‣ Worldwide</button>
-             </a>
-            </div>
-            <!--  npl -->
-            <li class="accordion">
-             <div class="card">
-              <p class="des">N P L</p>
-              <div class="card-des">
-               <img alt="" class="t1" src=" https://fancode.com/skillup-uploads/prod-images/2024/11/NPL_Ncell-Tour-Logo.png "> <img alt="" class="vs" src=" https://media.tenor.com/33gJyOCSrIYAAAAj/live.gif"> <img alt="" class="t2" src=" https://fancode.com/skillup-uploads/prod-images/2024/11/NPL_Ncell-Tour-Logo.png ">
-              </div>
-              <p class="time">T20</p>
-             </div>
-            </li>
 
 
 
