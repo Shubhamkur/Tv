@@ -173,7 +173,7 @@
 {"id": "sts2h1",
 "m3u8": "https://anywhere.pwisetthon.com/https://bdixtv24.com/Ayna/play.php?id=3ac46078-2bf0-4998-a021-37b459e09fba"},
 {"id": "sts2h2",
-"m3u8": "https://anywhere.pwisetthon.com/https://bongoflixbd.top/stream.php?id=3ac46078-2bf0-4998-a021-37b459e09fba"},
+"m3u8": "https://24spn-webhost8.blogspot.com/?m=1"},
 {"id": "sts2h3",
 "m3u8": "https://cricketstan.github.io/Star-Sports-2-Hindi/"},
 {"id": "sts2h4",
@@ -295,8 +295,10 @@
 
 
 {"id": "tencricket",
+ "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
+ "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
+{"id": "tencricket1",
 "m3u8": "https://tvgo.neocities.org/APPTV/toffee?id=ten_cricket"},
-
 
 
 {"id": "tensports",
