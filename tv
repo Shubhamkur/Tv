@@ -86,9 +86,9 @@
 
  
 {"id":"fox", 
-"m3u8":"https://fox-cricket.vercel.app/"},
+"m3u8":"https://tvgotk.github.io/p1/?url=https://foxenglish.pages.dev/playlist.m3u8"},
 {"id":"fox1", 
-"m3u8":"https://iplislive.pages.dev/chut-teri-ma-ki.m3u8"},
+"m3u8":"https://fox-cricket.vercel.app/"},
 {"id": "fox2",
 "m3u8": "https://fssportshd.shop/hubplayer/stream-369.php"}, 
 {"id": "fox3",
