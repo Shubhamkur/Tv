@@ -307,7 +307,8 @@
 "m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"},
 
 
-
+{"id": "tsport2",
+"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
 {"id": "tsport3",
 "m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
 
