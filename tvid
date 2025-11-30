@@ -22,6 +22,8 @@
 
 {"id":"tnt4","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
+{"id":"fox","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+
 {"id":"sts14","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.gif","name":"STAR SPORTS1"},
 
 {"id":"sts1h","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png","name":"STAR SPORTS 1 HINDI "}, 
@@ -73,7 +75,7 @@
 
 {"id":"astrocricket","url":"ID11","logo":"https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png","name":"ASTRO CRICKET"},
 
-{"id":"fox","url":"ID11","logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png","name":"FOX CRICKET 501"},
+
 
 {"id":"amzonhindi","url":"ID11","logo":"https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp","name":"AMAZON HINDI "},
 
