@@ -296,19 +296,20 @@
  "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
  "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
 {"id": "tencricket1",
-"m3u8": "https://tvgo.neocities.org/APPTV/toffee?id=ten_cricket"},
+"m3u8": "https://waptv.wapka.xyz/?id=ten_cricket&name=toffee"},
+{"id": "tencricket2",
+"m3u8": "https://m3uok.pages.dev/?id=9"},
 
 
 {"id": "tensports",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"},
-{"id": "tensports1",
-"m3u8": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"},
+
 
 
 {"id": "tsport2",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
 {"id": "tsport3",
-"m3u8": "https://tvgo.neocities.org/APPTV/ayna?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2"}, 
+"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/http://51.83.129.17/tsports/index.m3u8"}, 
 
 
 
