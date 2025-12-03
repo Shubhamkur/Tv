@@ -10,17 +10,14 @@
 {"channel_name": "STAR 2 HINDI", "url": "https://tvwap.github.io/ID11?id=sts2h", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png"},
 {"channel_name": "STAR 2 HINDI", "url": "https://tvwap.github.io/ID11?id=sts2h1", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png"},
 
-
-
 {"channel_name": "STAR 2 HINDI", "url": "https://tvwap.github.io/ID11?id=sts2h3", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png"},
-
-
 
 {"channel_name": "PEO SPORTS 1", "url": "https://tvwap.github.io/ID11?id=peo1", "image": "https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj"}, 
 
 {"channel_name": "TNT2", "url": "https://tvwap.github.io/ID11?id=tnt2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ1qcXP-kQ4G9rts1lcsl6tLsJwyBJX-iXuIF4iUADA&s=10"}, 
 
-{"channel_name": "FOX CRICKET 501", "url": "https://tvwap.github.io/ID11?id=fox", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png"}, 
+{"channel_name": "FOX CRICKET 501", "url": "https://tvwap.github.io/ID11?id=fox", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png"},
+
 {"channel_name": "WILLOW CRICKET", "url": "https://tvwap.github.io/ID11?id=willowtv,"image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png"},
 
 {"channel_name": "T SPORTS", "url": "https://tvwap.github.io/ID11?id=tsport2 "image": "https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj"}
@@ -31,9 +28,7 @@
 "WBBL": [{"channel_name": "COMMING SOON", "url": "http://103.60.172.71:3255/Discovery/index.m3u8", "image": "http://103.60.172.71:90/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp"}, 
 {"channel_name": "WILLOW SPORTS", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png"},
 
-{"channel_name": "WILLOW IOS", "url": "https://tvwap.github.io/ID11?id=willowsports2", "image": "https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png"}
-
-],
+{"channel_name": "WILLOW IOS", "url": "https://tvwap.github.io/ID11?id=willowsports2", "image": "https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png"}],
 
 
 "ILT20": [{"channel_name": "COMMING SOON", "url": "http://103.60.172.71:3255/Discovery/index.m3u8", "image": "http://103.60.172.71:90/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp"}],
