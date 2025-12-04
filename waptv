@@ -6,6 +6,10 @@
 {
 "AUS vs ENG": [{"channel_name": "TIME : 9:30 Am", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
 
+{"channel_name": "WILLOW SPORTS", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"},
+
+{"channel_name": "WILLOW IOS", "url": "https://tvwap.github.io/ID11?id=willowsports2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"}, 
+
 {"channel_name": "TNT SPORTS 1", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920"}
 ], 
 
