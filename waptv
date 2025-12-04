@@ -44,6 +44,11 @@
 {"channel_name": "FANCODE", "url": "https://tvgotk.github.io/p1/?url=https://dai.google.com/linear/hls/event/IMcd0WYpTRaD3r3fZC_n-Q/master.m3u8", "image": "https://www.fancode.com/skillup-uploads/cms-media/138624_5786_SWR_ADKR_FC-Web.jpg"}
 ],
 
+"NPL": [
+{"channel_name": "TIME 11:30 Am & 3:30pm", "url": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwtq9zHhRFZOPbiCBVQFghxpcADrviH-wBNlIvraMCQ&s"}, 
+
+{"channel_name": "STAT SELECT 2", "url": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10"}
+], 
 
 "WBBL": [{"channel_name": "TIME 5:10 AM & 1:40PM", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2tC4Kqh2i-bBio_8tJK_OaHaHpK949hie2ZY74bg1DY3qQIoUumlNoM&s=10"}, 
 {"channel_name": "WILLOW SPORTS", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"},
@@ -54,7 +59,7 @@
 
 
 
-"NPL": [{"channel_name": "COMING SOON", "url": "http://103.60.172.71:3255/MakkahLive/index.m3u8", "image": "http://103.60.172.71:90/static/images/MakkahLive.jpg"}], 
+
 
 
 
