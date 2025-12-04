@@ -3,7 +3,14 @@
 
 
 
-{"IND VS SA": [
+{
+"AUS vs ENG": [{"channel_name": "TIME : 9:30 Am", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
+
+{"channel_name": "TNT SPORTS 1", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920"}
+], 
+
+
+"IND VS SA": [
 
 {"channel_name": "TIME 1:30 PM", "url": "https://24spn-webhost8.blogspot.com/?m=1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZ2k9A85ARVyF5qIFv-BRyBNEBsNC9t9ixHzZ_s5W01L4mGs0FRsNpLBF&s=10"},
 
