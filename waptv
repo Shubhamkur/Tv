@@ -4,18 +4,6 @@
 
 
 {
-"AUS vs ENG": [{"channel_name": "TIME : 9:30 Am", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
-
-{"channel_name": "WILLOW SPORTS", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"},
-
-{"channel_name": "WILLOW IOS", "url": "https://tvwap.github.io/ID11?id=willowsports2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"}, 
-
-{"channel_name": "TNT SPORTS 1", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920"}, 
-{"channel_name": "FOX CRICKET 501", "url": "https://allinonereborn2238.github.io/allinone/fox.html", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
-], 
-"NZ VS WI": [{"channel_name": "TIME 3 AM", "url": "https://tvwap.github.io/ID11?id=tencricket1", "image": "https://images.slivcdn.com/videoasset_images/manage_file/1000011891/1764334473197434_NZvsWI2025_1st_test_28nov_dated_portrait_thumb.jpg?w=360&q=low"}, 
-{"channel_name": "TEN CRICKET", "url": "https://tvwap.github.io/ID11?id=tencricket1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1clcgXKVu87qdMMczrTAGwcnEgTi6AUW0lncEdjGlNSgKIGQ3wXeJnE4&s=10"}], 
-
 "IND VS SA": [
 
 {"channel_name": "TIME 1:30 PM", "url": "https://24spn-webhost8.blogspot.com/?m=1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZ2k9A85ARVyF5qIFv-BRyBNEBsNC9t9ixHzZ_s5W01L4mGs0FRsNpLBF&s=10"},
@@ -36,8 +24,26 @@
 
 {"channel_name": "WILLOW CRICKET", "url":"https://tvwap.github.io/ID11?id=willowtv","image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png"},
 
+{"channel_name": "T SPORTS", "url": "https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8","image": "https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj"}
+
 {"channel_name": "T SPORTS", "url": "https://tvwap.github.io/ID11?id=tsport2","image": "https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj"}
+
 ],
+
+
+
+"AUS vs ENG": [{"channel_name": "TIME : 9:30 Am", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
+
+{"channel_name": "WILLOW SPORTS", "url": "https://tvwap.github.io/ID11?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"},
+
+{"channel_name": "WILLOW IOS", "url": "https://tvwap.github.io/ID11?id=willowsports2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"}, 
+
+{"channel_name": "TNT SPORTS 1", "url": "https://tvwap.github.io/ID11?id=tnt1", "image": "https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg&p=true&q=70&w=1920"}, 
+{"channel_name": "FOX CRICKET 501", "url": "https://allinonereborn2238.github.io/allinone/fox.html", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
+], 
+"NZ VS WI": [{"channel_name": "TIME 3 AM", "url": "https://tvwap.github.io/ID11?id=tencricket1", "image": "https://images.slivcdn.com/videoasset_images/manage_file/1000011891/1764334473197434_NZvsWI2025_1st_test_28nov_dated_portrait_thumb.jpg?w=360&q=low"}, 
+{"channel_name": "TEN CRICKET", "url": "https://tvwap.github.io/ID11?id=tencricket1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1clcgXKVu87qdMMczrTAGwcnEgTi6AUW0lncEdjGlNSgKIGQ3wXeJnE4&s=10"}], 
+
 
 
 "ILT20": [
