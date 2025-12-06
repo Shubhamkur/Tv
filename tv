@@ -102,11 +102,9 @@
 {"id": "willowtv1",
 "m3u8": "https://lchdvideo.live/willowcricket.m3u8"}, 
 {"id": "willowtv2",
-"m3u8": "https://cors-anywhere.creativeclaritycreations.com/https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8"}, 
+"m3u8": "https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://51.83.129.17/willow/index.m3u8"}, 
 {"id": "willowtv3",
-"m3u8": "https://rr3---sg-npoe23nsr.lioncdn.net/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8"}, 
-{"id":"willowtv4","m3u8":"https://bdixiptvbd.com/live/play.php?cricid=willowusa"}, 
-{"id":"willowtv5","m3u8":"https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://bdixtv24.xyz/sports/m3u8.php/willowusa.m3u8"}, 
+
 {"id": "willowtv6",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
 {"id": "willowtv7",
@@ -304,9 +302,8 @@
 
 {"id": "tensports",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"},
-
-
-
+{"id": "tensports1",
+"m3u8": "https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"},
 {"id": "tsport2",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
 {"id": "tsport3",
