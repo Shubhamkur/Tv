@@ -11,16 +11,15 @@
 
 [
 
-{"id":"sony3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10","name":"SONY TEN3"},
 
 {"id":"sts1h","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE35VK2_hzS658JLoU8wJ3-8ts909wrRXNRPKJcRlltQ&s","name":"STAR SPORTS 1 HINDI SD"},
 
-{"id":"tv7","url":"ID11","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 ASIA CUP FINAL IND VS PAK"},
+{"id":"tv7","url":"ID11","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 SPORTS"},
 
-{"id": "willowsports", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
+{"id": "willowsports", "url": "ID11", "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
 
-{"id": "willowsports2", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS IOS"},
-{"id": "willowsports1", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
+{"id": "willowsports2", "url": "ID11", "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS IOS"},
+{"id": "willowsports1", "url": "ID11", "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
 
 
 {"id":"tnt3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMkgdzmBn5DjQIEGZ2zI4_w0nXsCZYKGihgOsV_fh47v7GjXLYnMma0E&s=10","name":"TNT SPORTS 3"},
