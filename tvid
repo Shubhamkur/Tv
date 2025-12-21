@@ -11,12 +11,20 @@
 
 [
 
+{"id":"sts1h","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE35VK2_hzS658JLoU8wJ3-8ts909wrRXNRPKJcRlltQ&s","name":"STAR SPORTS 1 HINDI SD"},
+
 {"id":"tv7","url":"ID11","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 ASIA CUP FINAL IND VS PAK"},
+
+{"id": "willowsports", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
+
+{"id": "willowsports2", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS IOS"},
+{"id": "willowsports1", "url": "ID11", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg","name":"WILLOW SPORTS"},
+
 
 {"id":"tnt3","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMkgdzmBn5DjQIEGZ2zI4_w0nXsCZYKGihgOsV_fh47v7GjXLYnMma0E&s=10","name":"TNT SPORTS 3"},
 {"id":"tsport","url":"ID11","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
 
-{"id":"sts1h","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE35VK2_hzS658JLoU8wJ3-8ts909wrRXNRPKJcRlltQ&s","name":"STAR SPORTS 1 HINDI SD"},
+
 
 {"id":"fox","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvi2uP2m-Onmj1Se8GhGl2bnl2llgn491mmNjGdv1lA&s=10","name":"FOX CRICKET 501"}, 
 
@@ -38,8 +46,7 @@
 {"id":"skycricket","url":"ID11","logo":"https://wapka-img.zuna.id/3d2ae3b3.jpeg","name":"SKY CRICKET"},
 {"id":"tnt4","url":"ID11","logo":"https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?w=600&f=PNG&p=true&q=85","name":"TNT SPORTS 4"},
 
-{"id": "willowsports", "url": "ID11", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10","name":"WILLOW SPORTS"},
-{"id": "willowsports2", "url": "ID11", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10","name":"WILLOW SPORTS IOS"},
+
 
 {"id":"sts22","url":"ID11","logo":"https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.gif","name":"STAR SPORTS2"},
 
