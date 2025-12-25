@@ -4,9 +4,7 @@
 "m3u8": "https://waptv.wapka.xyz/index.html"}, 
 
 
-{"id": "sony122",
- "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
- "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
+
 
 
 {"id": "amzonhindi",
@@ -103,9 +101,9 @@
 "m3u8": "https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8"}, 
 
 
-{"id": "willowtv6",
+{"id": "willowtv2",
 "m3u8": "https://idx.gdplayertv.to/embed/willow-cricket/"}, 
-{"id": "willowtv7",
+{"id": "willowtv3",
 "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"}, 
 
 
@@ -158,36 +156,36 @@
 
 
 
-{"id":"hstar", 
-"m3u8":"https://dillzyishere.vercel.app/?id=asasssazpapps"},
+
 
 
 {"id": "sts1h",
-"m3u8": "https://waptv.wapka.xyz"},
+"m3u8": "https://tv4wab.pages.dev/?id=174&name=jspo"},
 {"id": "sts1h1",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://hot-hindi.pages.dev/hothindi.m3u8"},
+"m3u8": "https://tv4wab.pages.dev/?id=148&name=jspo"},
 {"id": "sts1h2",
 "m3u8": "https://anywhere.pwisetthon.com/https://topstream.space/daddy/stream.php?id=268&srv=1&format=.m3u8"},
 
 
 {"id": "sts2h",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1984.m3u8"},
+"m3u8": "https://tv4wab.pages.dev/?id=1984&name=jspo"},
 {"id": "sts2h1",
-"m3u8": "https://mini.allinonereborn.fun/jiotv-ww5/app/play_53706f72747331385f315f48443d3f3d31393834"},
+"m3u8": "https://tv4wab.pages.dev/?id=1985&name=jspo"},
 {"id": "sts2h2",
-"m3u8": "https://24spn-webhost8.blogspot.com/?m=1"},
+"m3u8": "https://s-whindi.vercel.app/"},
 {"id": "sts2h3",
+"m3u8": "https://24spn-webhost8.blogspot.com/?m=1"},
+{"id": "sts2h4",
 "m3u8": "https://cricketstan.github.io/Star-Sports-2-Hindi/"},
 
 
 
 
 
-
 {"id": "sts1",
-"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
-{"id": "sts11",
 "m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%201%20HD"}, 
+{"id": "sts11",
+"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
 {"id": "sts12",
 "m3u8": "https://bongoflixbd.top/?watch=18283d4f5f13c0cac5cab4433a0ed8f0"},
 {"id": "sts13",
@@ -195,40 +193,35 @@
 
 
 
-
 {"id": "sts2",
 "m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
-{"id":"sts21","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
-{"id": "sts22",
+{"id": "sts21",
+"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
+{"id":"sts22","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
+{"id": "sts23",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
 
 
 
 {"id": "sts3",
-"m3u8": "https://cors-anywhere.creativeclaritycreations.com/http://89.187.189.98/STARSPORTS3/index.m3u8"}, 
-{"id": "sts31",
-"m3u8": "https://cdn.bdixtv24.vip/STARSPORTS3/index.m3u8"}, 
+"m3u8": "https://tv4wab.pages.dev/?id=147&name=jspo"}, 
 
+
+ 
 {"id": "stss1",
-"m3u8": "https://tvsen6.aynaott.com/spsel1/index.m3u8"}, 
+"m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%20Select%201"}, 
 {"id": "stss11",
-"m3u8": "https://cdn.bdixtv24.vip/STARSPORTSSELECT1HD/index.m3u8"}, 
-{"id": "stss12",
-"m3u8": "https://cors-anywhere.creativeclaritycreations.com/http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8"}, 
+"m3u8": "https://tvsen7.aynaott.com/ssps1hd/index.m3u8"}, 
 
 
 {"id": "stss2",
-"m3u8": "http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8"}, 
-{"id": "stss2",
-"m3u8": "https://cdn.bdixtv24.vip/STARSPORTSSELECT2HD/index.m3u8"}, 
+"m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%20Select%202%20HD"}, 
+{"id": "stss21",
+"m3u8": "https://tv4wabb.pages.dev/?id=starsp2h&name=ayna"}, 
+{"id": "stss22",
+"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%20SL%202%20HD&name=ayna"}, 
 
-{"id": "sts1tamil",
-"m3u8": "https://anywhere.pwisetthon.com/http://ptu.ridsys.in/riptv/live/stream20/index.m3u8"},
-{"id": "sts1tamil1",
-"m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20tamil"},
-{"id": "sts1telugu",
-"m3u8": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"},
 
 
 
@@ -286,26 +279,30 @@
 
 
 
+
+
+{"id": "tencricket",
+"m3u8": "https://wapgo.pages.dev/?id=457"},
+{"id": "tencricket1",
+"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
 {"id": "tencricket",
  "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
  "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
 
-
-{"id": "tencricket",
-"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
-{"id": "tencricket1",
-"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
 
 
 {"id": "tensports",
 "m3u8": "https://yeahstreams.com/tv/stream-741.php"},
 
 
+
 {"id": "tsport",
-"m3u8":"https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"},
+"m3u8": "https://wapgo.pages.dev/?id=T%20Sports%20HD"}, 
 {"id": "tsport1",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
+"m3u8":"https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"},
 {"id": "tsport2",
+"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
+{"id": "tsport3",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://tvsen7.aynaott.com/tsportshd/index.m3u8"}, 
 
 
@@ -314,15 +311,17 @@
 {"id": "gtv",
 "m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"},
 
-
 {"id": "ptv",
+"m3u8": "https://wapgo.pages.dev/?id=PTV%20Sports"}, 
+{"id": "ptv1",
 "m3u8": "https://tv4wabb.pages.dev/?id=PTV%20Sports%20HD&name=ayna"}, 
 
 
 
 
-
 {"id": "asports",
+"m3u8": "https://wapgo.pages.dev/?id=A%20sports"}, 
+{"id": "asports1",
 "m3u8": "https://tv4wabb.pages.dev/?id=A%20SPORT%20HD&name=ayna"}, 
  
 
