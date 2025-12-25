@@ -10,6 +10,14 @@
 
 
 [
+
+{"id":"sony1","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png","name":"SONY TEN 1"}, 
+{"id":"sony2","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png","name":"SONY TEN 1"}, 
+{"id":"sony3","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png","name":"SONY TEN 1"}, 
+{"id":"sony5","url":"ID11","logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png","name":"SONY TEN 1"}, 
+
+
+
 {"id":"tsport","url":"ID11","logo":"https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj","name":"T SPORTS"}, 
 
 
@@ -100,7 +108,7 @@
 {"id":"fastsports","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5QOvP02QZ3z3Dra5f6oqc9QXms-frWA0vFpUtrlzrtbjftn1rAL9ROw&s=10","name":"FAST SPORTS"}, 
 
 {"id":"pkten","url":"ID11","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv49I8xrhzG3V4glyh9D9G_SS6JIsbJWTeqC9wk67YXA&s=10","name":"PK SPORTS"},
-{"id":"tv7","url":"ID11","logo":"https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj","name":"TV1 SPORTS"},
+
 
 
 
@@ -121,7 +129,6 @@
 
 {"id":"solhtv","url":"ID11","logo":"https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg","name":"SOLHTV SPORTS"}, 
 
-{"id":"criclife","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo","name":"CRICLIFE"},
 
 
 
@@ -133,6 +140,7 @@
 
 
 
+{"id":"criclife","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo","name":"CRICLIFE"},
 
 {"id":"criclifemax","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4","name":"CRICLIFE MAX"},
 
@@ -142,9 +150,7 @@
 {"id":"cricbuzz2","url":"ID11","logo":"https://blogger.googleusercontent.com/img/a/AVvXsEjjHNNZ8ThCspqDjueu8EqdErzEicE-Dc5BykVGsM5cL5daCLx86pUKe43NHqlTAlWoQUi4LL1OCHyVQvV39VdvPI4_MMV6EPXWO7fNCHL3CRIw44teQOC4Mg9f3ZNohJJ1NDwKqXJfv5TgPIumgoJUIbiXb-vdCZoToCAqsto7agUlGlYBDeHhoeC8AXs","name":"CRICBUZZ 2"},
 
 
-{"id":"sony4","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png","name":"TEN 4 Telugu"},
-{"id":"sony41","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png","name":"TEN 4 Tamil"}, 
-
+{"id":"sony4","url":"ID11","logo":"https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png","name":"TEN 4"},
 
 
 
