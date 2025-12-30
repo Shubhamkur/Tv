@@ -4,6 +4,13 @@
 
 
 {
+"SA20, 2025-26 34 T20s Dec 26 - Jan 25": [{"channel_name": "TIME : 1:30PM 3:30PM", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSGyn-c9WktzCBLt77reVQaKS7307w8lWAHvQ7t9GNdMbLk6RfH9bgZE&s=10"}, 
+{"channel_name": "FOX CRICKET 501", "url": "https://tv4go.pages.dev/?id=fox1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
+], 
+
+"Big Bash League 2025-26 44 T20s Dec 14 - Jan 25": [{"channel_name": "TIME : 8 PM", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Big_Bash_League_%28logo%29.png/250px-Big_Bash_League_%28logo%29.png"}, 
+{"channel_name": "FOX CRICKET 501", "url": "https://tv4go.pages.dev/?id=fox1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
+], 
 
 "SUPER SMASH  32 T20s Dec 26 - Jan 31": [{"channel_name": "TIME : 08:55 AM", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012693/1766595141899470_SuperSmash2526_24dec_dated_landscape_thumb.jpg"}, 
 {"channel_name": "FOX CRICKET 501", "url": "https://tv4go.pages.dev/?id=fox1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
