@@ -16,7 +16,7 @@
 {"channel_name": "FOX CRICKET 501", "url": "https://tv4go.pages.dev/?id=fox1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
 ], 
 
-"AUS vs ENG": [{"channel_name": "TIME : 9:30 Am", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
+"AUS vs ENG 8JAN 2026": [{"channel_name": "TIME : 9:30 Am", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTstMt15AGcCexoQPvzTocicU0HAbKNYugdxsfddzP-g&s"}, 
 
 {"channel_name": "STAR SPORTS 1", "url": "https://tv4go.pages.dev/?id=sts1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__-2Log0T499nv2ojeHOjfkSsMe3D3aXFMzUSEFOokw&s=10"},
 
@@ -30,7 +30,7 @@
 {"channel_name": "FOX CRICKET 501", "url": "https://tv4go.pages.dev/?id=fox1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"}
 ], 
 
-"INDW vs SLW": [{"channel_name": "TIME 7:00 PM", "url":"https://tv4go.pages.dev/?id=sony12", "image": "https://i.ytimg.com/vi/VOJVslphUcY/maxresdefault.jpg"},
+"INDW vs SLW END": [{"channel_name": "TIME 7:00 PM", "url":"https://tv4go.pages.dev/?id=sony12", "image": "https://i.ytimg.com/vi/VOJVslphUcY/maxresdefault.jpg"},
 
 {"channel_name": "STAR 1 HINDI HD", "url": "https://tv4go.pages.dev/?id=sts1h", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE35VK2_hzS658JLoU8wJ3-8ts909wrRXNRPKJcRlltQ&s"},
 
@@ -62,12 +62,13 @@
 
 
 
-"NZ VS WI": [{"channel_name": "TIME 3 AM", "url": "https://tv4go.pages.dev/?id=tencricket1", "image": "https://images.slivcdn.com/videoasset_images/manage_file/1000011891/1764334473197434_NZvsWI2025_1st_test_28nov_dated_portrait_thumb.jpg?w=360&q=low"}, 
+"NZ VS WI END": [{"channel_name": "TIME 3 AM", "url": "https://tv4go.pages.dev/?id=tencricket1", "image": "https://images.slivcdn.com/videoasset_images/manage_file/1000011891/1764334473197434_NZvsWI2025_1st_test_28nov_dated_portrait_thumb.jpg?w=360&q=low"}, 
 {"channel_name": "TEN CRICKET", "url": "https://tvwap.github.io/ID11?id=tencricket1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1clcgXKVu87qdMMczrTAGwcnEgTi6AUW0lncEdjGlNSgKIGQ3wXeJnE4&s=10"}], 
 
 
 
-"ILT20": [
+"ILT20 34 T20s
+  Dec 02 - Jan 04": [
 {"channel_name": "TIME : 8PM", "url": "https://tvwap.pages.dev/?id=AND%20PICTURES&name=zee5", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFYRHtRWBYGrZWk2RVwceg578r1FdBLGTtyoxL8PUyw&s"},
 {"channel_name": "ZEE CINEMA", "url": "https://tvwap.pages.dev/?id=ZEE%20CINEMA%20HD&name=zee5", "image": "https://img.favpng.com/22/7/13/zee-cinema-zee-tv-high-definition-television-zee-entertainment-enterprises-png-favpng-KHDwBVhTwzz18Sh6EeZGTisrV.jpg"}, 
 {"channel_name": "AND PICTURES", "url": "https://tvwap.pages.dev/?id=AND%20PICTURES&name=zee5", "image": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png"},
@@ -77,13 +78,13 @@
 
 ],
 
-"NPL": [
+"Nepal Premier League END": [
 {"channel_name": "TIME 11:30 Am & 3:30pm", "url": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwtq9zHhRFZOPbiCBVQFghxpcADrviH-wBNlIvraMCQ&s"}, 
 
 {"channel_name": "STAT SELECT 2", "url": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUXncFT7dLIKnkhy14Ghqr0Fh0QeHbXdDHWcrdF9hUQ&s=10"}
 ], 
 
-"WBBL": [{"channel_name": "TIME 5:10 AM & 1:40PM", "url": "https://tv4go.pages.dev/?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2tC4Kqh2i-bBio_8tJK_OaHaHpK949hie2ZY74bg1DY3qQIoUumlNoM&s=10"}, 
+"WBBL END": [{"channel_name": "TIME 5:10 AM & 1:40PM", "url": "https://tv4go.pages.dev/?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2tC4Kqh2i-bBio_8tJK_OaHaHpK949hie2ZY74bg1DY3qQIoUumlNoM&s=10"}, 
 {"channel_name": "WILLOW SPORTS", "url": "https://tv4go.pages.dev/?id=willowsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"},
 
 {"channel_name": "WILLOW IOS", "url": "https://tv4go.pages.dev/?id=willowsports2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"}]
