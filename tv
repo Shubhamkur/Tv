@@ -10,19 +10,19 @@
 
 
 {"id":"sony1", 
-"m3u8":"https://wapgo.pages.dev/?id=sony%20ten%201"},
+"m3u8":"https://tv4wab.pages.dev/?id=695905dafb1469e5acc955d6&name=ROARZONE"},
 
 
 {"id":"sony2", 
-"m3u8":"https://wapgo.pages.dev/?id=sony%20ten%202"},
+"m3u8":"https://tv4wab.pages.dev/?id=695905e2fb1469e5acc95682&name=ROARZONE"},
 
-{"id":"sony3","m3u8":"https://wapgo.pages.dev/?id=sony%20ten%203"},
+{"id":"sony3","m3u8":"https://tv4wab.pages.dev/?id=695905e2fb1469e5acc95686&name=ROARZONE"},
 
 {"id":"sony4", 
 "m3u8":"https://wapgo.pages.dev/?id=espn%20ten"},
 
 {"id":"sony5", 
-"m3u8":"https://wapgo.pages.dev/?id=sony%20six"},
+"m3u8":"https://tv4wab.pages.dev/?id=695905e3fb1469e5acc9568e&name=ROARZONE"},
 
 
 
@@ -264,10 +264,10 @@
 
 
 {"id": "tencricket",
-"m3u8": "https://wapgo.pages.dev/?id=457"},
+"m3u8": "https://mewzone.bdstream.site/rz/ch_no/16"},
 {"id": "tencricket1",
 "m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
-{"id": "tencricket",
+{"id": "tencricket2",
  "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
  "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
 
@@ -279,7 +279,7 @@
 
 
 {"id": "tsport",
-"m3u8": "https://wapgo.pages.dev/?id=T%20Sports%20HD"}, 
+"m3u8": "https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"}, 
 {"id": "tsport1",
 "m3u8":"https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"},
 {"id": "tsport2",
@@ -324,10 +324,8 @@
 "m3u8":"https://tvgotk.github.io/p1/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"},
 
 {"id":"solhtv", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://solhtvhls.wns.live/hls/stream.m3u8"},
+"m3u8":"https://tvgotk.github.io/p1/?url=https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8"},
 
-{"id":"solhtv1", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://wo.cma.footballii.ir/hls2/solh.m3u8"},
 
 
 {"id":"pkten", 
