@@ -35,16 +35,16 @@
 {"channel_name": "skynz1", "url": "https://Tv4go.pages.dev/?id=skynz1", "image": "https://wapka-img.zuna.id/5a6a67b0.png"},
 
 
-{"channel_name": "skynz2", "url": "https://Tv4go.pages.dev/?id=skynz2", "image": ""},
+{"channel_name": "skynz2", "url": "https://Tv4go.pages.dev/?id=skynz2", "image": "https://wapka-img.zuna.id/ed6e2877.png"},
 
 
-{"channel_name": "skynz3", "url": "https://Tv4go.pages.dev/?id=skynz3", "image": ""},
+{"channel_name": "skynz3", "url": "https://Tv4go.pages.dev/?id=skynz3", "image": "https://wapka-img.zuna.id/3d2c7083.png"},
 
 
 {"channel_name": "astrocricket", "url": "https://Tv4go.pages.dev/?id=astrocricket", "image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png"},
 
 
-{"channel_name": "astrogd", "url": "https://Tv4go.pages.dev/?id=astrogd", "image": ""},
+{"channel_name": "astrogd", "url": "https://Tv4go.pages.dev/?id=astrogd", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png"},
 
 
 
@@ -58,7 +58,7 @@
 {"channel_name": "ptv", "url": "https://Tv4go.pages.dev/?id=ptv", "image": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73"},
 
 
-{"channel_name": "gtv", "url": "https://Tv4go.pages.dev/?id=gtv", "image": ""},
+{"channel_name": "gtv", "url": "https://Tv4go.pages.dev/?id=gtv", "image": "https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg"},
 
 
 {"channel_name": "tsports", "url": "https://Tv4go.pages.dev/?id=tsports", "image": "https://tvassets.roarzone.info/images/102.png"},
@@ -143,13 +143,30 @@
 {"channel_name": "sony5", "url": "https://Tv4go.pages.dev/?id=sony5", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png"},
 
 
-{"channel_name": "amzonhindi", "url": "https://Tv4go.pages.dev/?id=amzonhindi", "image": ""},
+{"channel_name": "sonyliv", "url": "https://Tv4go.pages.dev/?id=sonyliv", "image": "https://play-lh.googleusercontent.com/_FGpN1UYjPgfL1t3TSybSllUdlzoLTUlLx36UUUpPm8W3-w37SNd1ZNfJbwKzwPyJ3w"},
 
 
-{"channel_name": "amzoneng", "url": "https://Tv4go.pages.dev/?id=amzoneng", "image": ""},
+{"channel_name": "hotstar", "url": "https://Tv4go.pages.dev/?id=hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
 
 
-{"channel_name": "shoq", "url": "https://Tv4go.pages.dev/?id=shoq", "image": ""},
+{"channel_name": "toffee", "url": "https://Tv4go.pages.dev/?id=toffee", "image": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv-384x384.png"},
+
+
+{"channel_name": "fancode", "url": "https://Tv4go.pages.dev/?id=fancode", "image": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q"},
+
+
+
+{"channel_name": "amzonhindi", "url": "https://Tv4go.pages.dev/?id=amzonhindi", "image": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp"},
+
+
+{"channel_name": "amzoneng", "url": "https://Tv4go.pages.dev/?id=amzoneng", "image": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp"},
+
+
+{"channel_name": "shoq", "url": "https://Tv4go.pages.dev/?id=shoq", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYB5xM-9_BF3-MOEARKn1SGn73kciJbIPpyxIuEjs1AG7aSPh_hILXIU&s=10"},
+
+
+{"channel_name": "zap", "url": "https://Tv4go.pages.dev/?id=zap", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ymfJJGX7hKvR6sqQdf3ZEpEpgGEf3S4LZohitX21UX6p3g1j6SdnKvxsBSzL7Bb-XvxB9A9DlNe67TmsMEb59jGo6n5ojZA6p_8LNXCKkt32Su231pIUMjSK73YQxFCtXPUDSQdUS99r32eNv77_HVLyNdDy0q2CM95nOicZM-0Qr9dbkZskC0865Xo"},
+
 
 
 
@@ -173,7 +190,6 @@
 
 
 
-{"channel_name": "zap", "url": "https://Tv4go.pages.dev/?id=zap", "image": ""},
 
 
 {"channel_name": "fastsports", "url": "https://Tv4go.pages.dev/?id=fastsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5QOvP02QZ3z3Dra5f6oqc9QXms-frWA0vFpUtrlzrtbjftn1rAL9ROw&s=10"},
