@@ -261,10 +261,16 @@
 
 
 {"id": "tencricket",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://mewzone.bdstream.site/rz/ch_no/16"},
+"m3u8": "https://tv4wep.pages.dev/?id=Ten%20cricket&name=bdxiptv"},
 {"id": "tencricket1",
-"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
+"m3u8": "https://tv4wab.pages.dev/?id=695905e4fb1469e5acc956aa&name=ROARZONE"},
 {"id": "tencricket2",
+"m3u8": "https://wapgo.pages.dev/?id=413"},
+{"id": "tencricket3",
+"m3u8": "https://tvgotk.github.io/p6/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenCricket/index.m3u8"},
+{"id": "tencricket4",
+"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
+{"id": "tencricket5",
  "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
  "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
 
@@ -281,13 +287,17 @@
 
 
 {"id": "tsports",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"}, 
+"m3u8": "https://tv4wabb.pages.dev/?id=tsports&name=akashgo"}, 
 {"id": "tsports1",
-"m3u8":"https://tvgotk.github.io/p1/?url=https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"},
+"m3u8":"https://wapgo.pages.dev/?id=T%20Sports%20HD"},
 {"id": "tsports2",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
+"m3u8": "https://tv4wab.pages.dev/?id=695905d3fb1469e5acc95552&name=ROARZONE"}, 
 {"id": "tsports3",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://tvsen7.aynaott.com/tsportshd/index.m3u8"}, 
+"m3u8": "https://tv4wabb.pages.dev/?id=T%20SPORT%20HD&name=ayna"}, 
+{"id": "tsports4",
+"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
+{"id": "tsports5",
+"m3u8": "https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/TSportsHD/index.m3u8"}, 
 
 
 
