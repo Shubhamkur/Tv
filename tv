@@ -41,11 +41,11 @@
 {"id":"criclifemax","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
 "key":"ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583"},
 {"id":"criclife", 
-"m3u8":"https://tvgotk.github.io/p19/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106877"},
+"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106877"},
 {"id":"criclife1","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
 "key":"1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f"},      
 {"id":"cricbuzz1", 
-"m3u8":"https://tvgotk.github.io/p19/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106876"},
+"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106876"},
 {"id":"cricbuzz11","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
 "key":"48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f"},       
 {"id":"cricbuzz2","mpd":"https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
@@ -60,11 +60,13 @@
  "key": "581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba" },
 {"id": "astrocricket1",
 "m3u8":"https://anywhere.pwisetthon.com/http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8?https://ast-eta.vercel.app/5117/default_primary.mpd"}, 
- 
 
-{"id": "astrogd",
+ {"id": "astrogd",
  "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd",
  "key": "5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d" },
+
+
+
 
 
 
@@ -79,7 +81,11 @@
 "m3u8": "https://idx.gdplayertv.to/embed/fox-cricket/"}, 
 {"id":"fox4", 
 "m3u8":"https://foxstream.pages.dev/Cricsters01.m3u8"},
-             
+
+
+
+
+
 
 {"id": "willowtv",
 "m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=tv4wap"}, 
@@ -87,14 +93,6 @@
 "m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=crichd"}, 
 {"id": "willowtv2",
 "m3u8": "https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8"}, 
-
-
-
-
-
-
-
-
 
 {"id": "willowsports",
  "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -278,7 +276,7 @@
 {"id": "tensports2",
 "m3u8": "https://yeahstreams.com/tv/stream-741.php"},
 {"id":"tensports3", 
-"m3u8":"https://tvgotk.github.io/p19/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106878"},
+"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106878"},
 
 
 
