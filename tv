@@ -115,24 +115,26 @@
 
 
 
-{"id": "skycricket",
-"m3u8": "https://cdn.am01.sh365.org:4443/24234/index.m3u8?token=c49SP8TrtUZfww"}, 
-{"id": "skycricket1",
-"m3u8": "https://anywhere.pwisetthon.com/http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww"}, 
 
-{"id": "skycricket2",
+
+{"id": "skycricket",
 "m3u8": "https://tv4wep.pages.dev/?id=skyscric&name=tv4wap"}, 
-{"id": "skycricket3",
+{"id": "skycricket1",
 "m3u8": "https://tv4wep.pages.dev/?id=skyscric&name=crichd"}, 
 {"id": "skyme",
 "m3u8": "https://tv4wep.pages.dev/?id=skysme&name=tv4wap"},
 {"id": "skyme",
 "m3u8": "https://tv4wep.pages.dev/?id=skysme&name=crichd"},
-
 {"id": "skymixx",
 "m3u8": "https://tv4wep.pages.dev/?id=skysmixx&name=tv4wap"},
 {"id": "skymixx",
 "m3u8": "https://tv4wep.pages.dev/?id=skysmixx&name=crichd"},
+
+
+
+
+
+
 
 
 
@@ -148,6 +150,9 @@
 "m3u8": "https://tv4wep.pages.dev/?id=sky3nz&name=tv4wap"},
 {"id": "skynz3",
 "m3u8": "https://tv4wep.pages.dev/?id=sky3nz&name=crichd"},
+
+
+
 
 
 
@@ -197,8 +202,10 @@
 "m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
 {"id": "sts21",
 "m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
-{"id":"sts22","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
-{"id": "sts23",
+{"id": "sts22",
+"m3u8": "https://ss2hd-theta.vercel.app/"},
+{"id":"sts23","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
+{"id": "sts24",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
 
