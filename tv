@@ -8,23 +8,24 @@
 
 
 
-
 {"id":"sony1", 
-"m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=crichd"},
+"m3u8":"https://mspannel.top/stream/rz/?watch=7482ed5e9c4da0cc7de6aa27dc16c4c4"},
 {"id":"sony11", 
+"m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=crichd"},
+{"id":"sony13", 
 "m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=tv4wap"},
 
 
 {"id":"sony2", 
-"m3u8":"https://tv4wab.pages.dev/?id=695905e2fb1469e5acc95682&name=ROARZONE"},
+"m3u8":"https://mspannel.top/stream/rz/?watch=6f8378e796d7f7cff65333fd3b1d0974"},
 
-{"id":"sony3","m3u8":"https://tv4wab.pages.dev/?id=695905e2fb1469e5acc95686&name=ROARZONE"},
+{"id":"sony3","m3u8":"https://mspannel.top/stream/rz/?watch=0bd594d32d6dc8cee0165bc175eeb862"},
 
 {"id":"sony4", 
 "m3u8":"https://wapgo.pages.dev/?id=espn%20ten"},
 
 {"id":"sony5", 
-"m3u8":"https://tv4wab.pages.dev/?id=695905e3fb1469e5acc9568e&name=ROARZONE"},
+"m3u8":"https://mspannel.top/stream/rz/?watch=0940a354e290cbf71e9d5d21e2883258"},
 
 
 
