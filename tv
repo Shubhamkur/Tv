@@ -311,10 +311,11 @@
 
 
 
-
 {"id": "asports",
-"m3u8": "https://wapgo.pages.dev/?id=A%20sports"}, 
+"m3u8": "https://tv4wab.pages.dev/?id=695905d4fb1469e5acc9555a&name=ROARZONE"}, 
 {"id": "asports1",
+"m3u8": "https://wapgo.pages.dev/?id=A%20sports"}, 
+{"id": "asports2",
 "m3u8": "https://tv4wabb.pages.dev/?id=A%20SPORT%20HD&name=ayna"}, 
  
 
