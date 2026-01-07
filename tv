@@ -6,16 +6,19 @@
 {"id": "fancode",
 "m3u8": "https://tvok.wapka.site"}, 
 
+{"id": "zap",
+"m3u8": "https://tvgotk.github.io/p1/?url=https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null"}, 
 
 
 
 
 
-{"id":"sony1", 
+
+{"id":"sony13", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=7482ed5e9c4da0cc7de6aa27dc16c4c4"},
 {"id":"sony11", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten1/index.m3u8"},
-{"id":"sony13", 
+{"id":"sony1", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8"},
 {"id":"sony14", 
 "m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=crichd"},
