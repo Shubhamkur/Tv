@@ -26,23 +26,25 @@
 "m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=tv4wap"},
 
 
-{"id":"sony2", 
+{"id":"sony22", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=6f8378e796d7f7cff65333fd3b1d0974"},
 {"id":"sony21", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten2/index.m3u8"},
-{"id":"sony23", 
+{"id":"sony2", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports2/index.m3u8"},
 
-{"id":"sony3","m3u8":"https://mspannel.top/stream/rz/?watch=0bd594d32d6dc8cee0165bc175eeb862"},
+{"id":"sony3","m3u8":"https://v5on.site/play.php?id=276739"},
+{"id":"sony31","m3u8":"https://mspannel.top/stream/rz/?watch=0bd594d32d6dc8cee0165bc175eeb862"},
+
 
 {"id":"sony4", 
 "m3u8":"https://wapgo.pages.dev/?id=espn%20ten"},
 
-{"id":"sony5", 
+{"id":"sony52", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=0940a354e290cbf71e9d5d21e2883258"},
 {"id":"sony51", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten5/index.m3u8"},
-{"id":"sony52", 
+{"id":"sony5", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports5/index.m3u8"},
 
 
