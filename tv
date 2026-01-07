@@ -83,7 +83,7 @@
 
 
 {"id": "willowtv",
-"m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=tv4wap"}, 
+"m3u8": "https://v5on.site/play.php?id=13141"}, 
 {"id": "willowtv1",
 "m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=crichd"}, 
 {"id": "willowtv2",
@@ -100,7 +100,7 @@
 
 
 {"id": "willowxtra",
-"m3u8": "https://tv4wep.pages.dev/?id=willowextra&name=tv4wap"}, 
+"m3u8": "https://v5on.site/play.php?id=282231"}, 
 {"id": "willowxtra1",
 "m3u8": "https://tv4wep.pages.dev/?id=willowextra&name=crichd"}, 
 
@@ -301,9 +301,12 @@
 {"id": "gtv",
 "m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"},
 
+
 {"id": "ptv",
-"m3u8": "https://wapgo.pages.dev/?id=PTV%20Sports"}, 
+"m3u8": "https://tv4wab.pages.dev/?id=695905d4fb1469e5acc9555e&name=ROARZONE"}, 
 {"id": "ptv1",
+"m3u8": "https://wapgo.pages.dev/?id=PTV%20Sports"}, 
+{"id": "ptv2",
 "m3u8": "https://tv4wabb.pages.dev/?id=PTV%20Sports%20HD&name=ayna"}, 
 
 
