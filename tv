@@ -56,12 +56,11 @@
 
 {"id":"criclifemax","m3u8":"https://yeahstreams.com/tv/stream-281.php"},
 {"id":"criclife", 
-"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106877"},
+"m3u8":"https://v5on.site/play.php?id=303628"},
 
 {"id":"criclife1","m3u8":"https://yeahstreams.com/tv/stream-284.php"},      
 {"id":"cricbuzz1", 
-"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106876"},
-{"id":"cricbuzz11","m3u8":"https://yeahstreams.com/tv/stream-283.php"},       
+"m3u8":"https://v5on.site/play.php?id=303629"}, 
 {"id":"cricbuzz2","m3u8":"https://yeahstreams.com/tv/stream-282.php"},       
 
 
@@ -69,7 +68,7 @@
 
 
 {"id": "astrocricket",
- "m3u8": "https://yeahstreams.com/tv/stream-370.php"}, 
+ "m3u8": "https://v5on.site/play.php?id=1163988"}, 
 
  {"id": "astrogd",
  "m3u8": "https://yeahstreams.com/tv/stream-412.php" },
