@@ -1,7 +1,11 @@
 
 
 [
-
+{
+    "id": "hotstar",
+    "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
+    "name": "HOTSTAR"
+  },
 
 {
     "id": "sts1h",
