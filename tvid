@@ -2,6 +2,44 @@
 
 [
 
+
+{
+    "id": "sts1h",
+    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
+    "name": "STAR SPORTS 1 HINDI"
+  }, 
+
+ { "id": "sts1",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",
+    "name": "STAR SPORTS 1"
+  },
+  {
+    "id": "sts2",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",
+    "name": "STAR SPORTS 2"
+  },
+  {
+    "id": "sts3",
+    "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",
+    "name": "STAR SPORTS 3"
+  },
+
+{
+    "id": "willowsports",
+    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
+    "name": "WILLOW SPORTS"
+  },{
+    "id": "willowsports1",
+    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
+    "name": "WILLOW SPORTS"
+  },{
+    "id": "willowsports2",
+    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
+    "name": "WILLOW SPORTS"
+  },
+
+
+
 {
     "id": "fancode",
     "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
@@ -17,11 +55,7 @@
     "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
     "name": "WILLOW TV"
   },
-  {
-    "id": "willowsports",
-    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
-    "name": "WILLOW SPORTS"
-  },
+  
   {
     "id": "willowxtra",
     "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png",
@@ -148,31 +182,13 @@
     "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
     "name": "TNT SPORTS 4"
   },
-  {
-    "id": "sts1h",
-    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
-    "name": "STAR SPORTS 1 HINDI"
-  },
+  
   {
     "id": "sts2h",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
     "name": "STAR SPORTS 2 HINDI"
   },
-  {
-    "id": "sts1",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",
-    "name": "STAR SPORTS 1"
-  },
-  {
-    "id": "sts2",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",
-    "name": "STAR SPORTS 2"
-  },
-  {
-    "id": "sts3",
-    "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",
-    "name": "STAR SPORTS 3"
-  },
+  
   {
     "id": "stss1",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",
