@@ -4,7 +4,10 @@
 "m3u8": "https://crichd.xfireflix.workers.dev/player?id=starhindi"}, 
 
 {"id": "fancode",
-"m3u8": "https://tvok.wapka.site"}, 
+"m3u8": "https://tvok.wapka.site"},
+
+{"id": "hotstar",
+"m3u8": "https://allrounderlive.pages.dev/player?url=https://dillzy.cricketstream745.workers.dev/live.m3u8"},
 
 {"id": "zap",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null"}, 
@@ -159,15 +162,15 @@
 
 
 
-
 {"id": "sts1h",
-"m3u8": "https://tv4wab.pages.dev/?id=174&name=jspo"},
-{"id": "sts1h1",
-"m3u8": "https://tv4wab.pages.dev/?id=148&name=jspo"},
-{"id": "sts1h2",
 "m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=tv4wap"},
-{"id": "sts1h2",
+{"id": "sts1h1",
 "m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=crichd"},
+
+{"id": "sts1h2",
+"m3u8": "https://tv4wab.pages.dev/?id=174&name=jspo"},
+{"id": "sts1h3",
+"m3u8": "https://tv4wab.pages.dev/?id=148&name=jspo"},
 
 
 {"id": "sts2h",
@@ -199,17 +202,18 @@
 {"id": "sts15",
 "m3u8": "https://tv4wep.pages.dev/?id=star1in&name=crichd"},
 
-
 {"id": "sts2",
-"m3u8": "https://tv4wab.pages.dev/?id=695905ddfb1469e5acc9561a&name=ROARZONE"}, 
-{"id": "sts21",
 "m3u8": "https://tv4wep.pages.dev/?id=3ac46078-2bf0-4998-a021-37b459e09fba&name=ayna"}, 
+{"id": "sts21",
+"m3u8": "https://tv4wab.pages.dev/?id=695905ddfb1469e5acc9561a&name=ROARZONE"}, 
 {"id": "sts22",
-"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
+"m3u8": "https://tv4wep.pages.dev/?id=3ac46078-2bf0-4998-a021-37b459e09fba&name=ayna"}, 
 {"id": "sts23",
+"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
+{"id": "sts24",
 "m3u8": "https://ss2hd-theta.vercel.app/"},
 {"id":"sts23","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
-{"id": "sts24",
+{"id": "sts25",
 "m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
 
