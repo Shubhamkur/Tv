@@ -8,6 +8,18 @@
   },
 
 {
+    "id": "skynz1",
+    "logo": "https://wapka-img.zuna.id/5a6a67b0.png",
+    "name": "SKY NZ 1"
+  },
+
+{
+    "id": "willowtv",
+    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
+    "name": "WILLOW TV"
+  },
+
+{
     "id": "sts1h",
     "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
     "name": "STAR SPORTS 1 HINDI"
@@ -56,11 +68,7 @@
     "logo": "https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj",
     "name": "PEO1 SPORTS"
   },
-  {
-    "id": "willowtv",
-    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
-    "name": "WILLOW TV"
-  },
+  
   
   {
     "id": "willowxtra",
@@ -108,11 +116,7 @@
     "logo": "https://wapka-img.zuna.id/abb61b95.png",
     "name": "SKY MAIN EVENT"
   },
-  {
-    "id": "skynz1",
-    "logo": "https://wapka-img.zuna.id/5a6a67b0.png",
-    "name": "SKY NZ 1"
-  },
+  
   {
     "id": "skynz2",
     "logo": "https://wapka-img.zuna.id/ed6e2877.png",
