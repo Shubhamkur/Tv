@@ -56,7 +56,11 @@
     "name": "WILLOW SPORTS"
   },
 
-
+  {
+    "id": "tnt4",
+    "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
+    "name": "TNT SPORTS 4"
+  },
 
 {
     "id": "fancode",
@@ -187,11 +191,7 @@
     "logo": "https://wapka-img.zuna.id/7db078ad.jpeg",
     "name": "TNT SPORTS 3"
   },
-  {
-    "id": "tnt4",
-    "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
-    "name": "TNT SPORTS 4"
-  },
+
 
 {
     "id": "sts3",
