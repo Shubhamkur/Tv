@@ -167,7 +167,7 @@
 
 
 {"id": "sts1h",
-"m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=tv4wap"},
+"m3u8": "https://tvgotk.github.io/p1/?url=https://s1.v5on.site/live/play.php?id=276731"},
 {"id": "sts1h1",
 "m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=crichd"},
 
@@ -191,9 +191,9 @@
 
 
 
-{"id": "sts1",
-"m3u8": "https://tv4wep.pages.dev/?id=f064e069-8861-43d5-ac79-828b029a50a1&name=ayna"}, 
 {"id": "sts6",
+"m3u8": "https://tv4wep.pages.dev/?id=f064e069-8861-43d5-ac79-828b029a50a1&name=ayna"}, 
+{"id": "sts1",
 "m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%201%20HD"}, 
 {"id": "sts11",
 "m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
@@ -206,8 +206,10 @@
 {"id": "sts15",
 "m3u8": "https://tv4wep.pages.dev/?id=star1in&name=crichd"},
 
+
+
 {"id": "sts2",
-"m3u8": "https://tv4wep.pages.dev/?id=3ac46078-2bf0-4998-a021-37b459e09fba&name=ayna"}, 
+"m3u8": "https://wapgo.pages.dev/?id=STAR%20SPORTS%202%20HD"}, 
 {"id": "sts21",
 "m3u8": "https://tv4wab.pages.dev/?id=695905ddfb1469e5acc9561a&name=ROARZONE"}, 
 {"id": "sts22",
