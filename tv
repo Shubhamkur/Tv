@@ -1,16 +1,16 @@
 
 [
 {"id": "sony12",
-"m3u8": "https://tv4go.pages.dev?id=hotstar"}, 
+"m3u8": "https://waptv.wapka.xyz/index.html"}, 
 
 {"id": "fancode",
 "m3u8": "https://tvok.wapka.site"},
 
-{"id": "hotstar",
+{"id": "hotstar1",
 "m3u8": "https://allrounderlive.pages.dev/player2?url=https://dillzyserver.dillzycreations.workers.dev/live/hotstar.m3u8"},
 
-{"id": "hotstar1",
-"m3u8": "https://player.kick.com/854576"},
+{"id": "hotstar",
+"m3u8": "https://waptv.wapka.xyz/index.html"},
 
 
 {"id": "zap",
