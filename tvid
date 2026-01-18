@@ -6,7 +6,11 @@
     "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
     "name": "HOTSTAR"
   },
-
+{
+    "id": "skynz2",
+    "logo": "https://wapka-img.zuna.id/ed6e2877.png",
+    "name": "SKY NZ 2"
+  },
 {
     "id": "skynz1",
     "logo": "https://wapka-img.zuna.id/5a6a67b0.png",
@@ -122,11 +126,7 @@
     "name": "SKY MAIN EVENT"
   },
   
-  {
-    "id": "skynz2",
-    "logo": "https://wapka-img.zuna.id/ed6e2877.png",
-    "name": "SKY NZ 2"
-  },
+  
   {
     "id": "skynz3",
     "logo": "https://wapka-img.zuna.id/3d2c7083.png",
