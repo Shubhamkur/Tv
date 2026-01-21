@@ -55,7 +55,9 @@
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports5/index.m3u8"},
 
 
-
+{"id": "willowtvmpd",
+ "mpd": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/smgyotbhup/out/v1/f4ff6633924f4c7ebc76de9cd9db226a/cenc.mpd",
+ "key": "77cbbe03e429a079de236f53e60839d9:c62e6a34d38065b75fc4d308fc8c3ca3" },
 
 
 
