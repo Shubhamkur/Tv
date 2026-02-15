@@ -6,6 +6,30 @@
     "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
     "name": "HOTSTAR"
   },
+
+{
+    "id": "sts1h",
+    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
+    "name": "STAR SPORTS 1 HINDI"
+  }, 
+
+{
+    "id": "sts2h3",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
+    "name": "STAR SPORTS 2 HINDI"
+  },
+
+
+{
+    "id": "amzonhindi",
+    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
+    "name": "AMAZON HINDI"
+  },
+  {
+    "id": "amzoneng",
+    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
+    "name": "AMAZON ENG"
+  },
 {
     "id": "skynz2",
     "logo": "https://wapka-img.zuna.id/ed6e2877.png",
@@ -23,17 +47,9 @@
     "name": "WILLOW TV"
   },
 
-{
-    "id": "sts1h",
-    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
-    "name": "STAR SPORTS 1 HINDI"
-  }, 
 
-{
-    "id": "sts1h1",
-    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
-    "name": "STAR SPORTS 1 HINDI"
-  }, 
+
+
 {
     "id": "cricbuzz1",
     "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM",
@@ -200,11 +216,7 @@
     "name": "STAR SPORTS 3"
   },
 
-  {
-    "id": "sts2h",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
-    "name": "STAR SPORTS 2 HINDI"
-  },
+  
   
   {
     "id": "stss1",
@@ -306,16 +318,7 @@
     "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
     "name": "FANCODE"
   },
-  {
-    "id": "amzonhindi",
-    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
-    "name": "AMAZON HINDI"
-  },
-  {
-    "id": "amzoneng",
-    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
-    "name": "AMAZON ENG"
-  },
+  
   {
     "id": "shoq",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYB5xM-9_BF3-MOEARKn1SGn73kciJbIPpyxIuEjs1AG7aSPh_hILXIU&s=10",
