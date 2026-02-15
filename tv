@@ -2,7 +2,11 @@
 [
 {"id": "sony12",
 "m3u8": "https://waptv.wapka.xyz/index.html"}, 
+{"id": "amzonhindi",
+"m3u8": "https://waptv.wapka.xyz/prime"},
 
+{"id": "amzoneng",
+"m3u8": "https://waptv.wapka.xyz/eng"},
 {"id": "fancode",
 "m3u8": "https://tvok.wapka.site"},
 
@@ -172,11 +176,12 @@
 
 
 
-
-
 {"id": "sts1h",
-"m3u8": "https://s1.v5on.site/live/play.php?id=276731"},
+"m3u8": "https://waptv.wapka.xyz/hindi"},
+
 {"id": "sts1h1",
+"m3u8": "https://s1.v5on.site/live/play.php?id=276731"},
+{"id": "sts1h2",
 "m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=crichd"},
 
 {"id": "sts1h2",
@@ -383,11 +388,11 @@
 
 
 
-{"id": "amzonhindi",
+{"id": "amzonhindi1",
 "mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
  "key": "c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf" },
 
-{"id": "amzoneng",
+{"id": "amzoneng1",
 "mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd","key":"f61c80b95c8dc7af075a839ebd584b34:80b53f92abc0865a244e8d68810fd4bb" },
 {"id":"amzoneng1", 
 "m3u8":"https://hff-eight.vercel.app/"},
