@@ -6,8 +6,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10"
     },
     {"channel_name": "hotstar", "url": "https://waptv.wapka.xyz", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg"},
-    {"channel_name": "sts1hd", "url": "https://Tv4go.pages.dev/?id=sts1hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg"},
-    {"channel_name": "sts1tghd", "url": "https://Tv4go.pages.dev/?id=sts1tghd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tghd.jpg"},
+    {"channel_name": "sts1h", "url": "https://wap4tv.pages.dev/?id=sts1h", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg"},
+    {"channel_name": "sts2h", "url": "https://Tv4go.pages.dev/?id=sts1tghd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tghd.jpg"},
     {"channel_name": "sts1tmhd", "url": "https://Tv4go.pages.dev/?id=sts1tmhd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tmhd.jpg"},
     {"channel_name": "ptv", "url": "https://Tv4go.pages.dev/?id=ptv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/ptv.png"},
     {"channel_name": "asports", "url": "https://Tv4go.pages.dev/?id=asports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/asports.png"},
