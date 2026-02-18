@@ -1,210 +1,85 @@
-
-
 [
-
-{"channel_name": "peo1", "url": "https://Tv4go.pages.dev/?id=peo1", "image": "https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj"},
-
-{"channel_name": "willowtv", "url": "https://Tv4go.pages.dev/?id=willowtv", "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg"},
-
-
-
-{"channel_name": "willowsports", "url": "https://Tv4go.pages.dev/?id=willowsports", "image": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg"},
-
-
-{"channel_name": "willowxtra", "url": "https://Tv4go.pages.dev/?id=willowxtra", "image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png"},
-
-
-{"channel_name": "criclifemax", "url": "https://Tv4go.pages.dev/?id=criclifemax", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4"},
-
-
-{"channel_name": "criclife", "url": "https://Tv4go.pages.dev/?id=criclife", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo"},
-
-
-{"channel_name": "cricbuzz1", "url": "https://Tv4go.pages.dev/?id=cricbuzz1", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM"},
-
-
-{"channel_name": "cricbuzz2", "url": "https://Tv4go.pages.dev/?id=cricbuzz2", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjjHNNZ8ThCspqDjueu8EqdErzEicE-Dc5BykVGsM5cL5daCLx86pUKe43NHqlTAlWoQUi4LL1OCHyVQvV39VdvPI4_MMV6EPXWO7fNCHL3CRIw44teQOC4Mg9f3ZNohJJ1NDwKqXJfv5TgPIumgoJUIbiXb-vdCZoToCAqsto7agUlGlYBDeHhoeC8AXs"},
-
-
-{"channel_name": "fox", "url": "https://Tv4go.pages.dev/?id=fox", "image": "https://wapka-img.zuna.id/039194ba.png"},
-
-
-{"channel_name": "skycricket", "url": "https://Tv4go.pages.dev/?id=skycricket", "image": "https://wapka-img.zuna.id/3d2ae3b3.jpeg"},
-
-{"channel_name": "skysmixx", "url": "https://Tv4go.pages.dev/?id=skysmixx", "image": "https://wapka-img.zuna.id/645ab7de.jpeg"},
-
-{"channel_name": "skysme", "url": "https://Tv4go.pages.dev/?id=skysme", "image": "https://wapka-img.zuna.id/abb61b95.png"},
-
-
-{"channel_name": "skynz1", "url": "https://Tv4go.pages.dev/?id=skynz1", "image": "https://wapka-img.zuna.id/5a6a67b0.png"},
-
-
-{"channel_name": "skynz2", "url": "https://Tv4go.pages.dev/?id=skynz2", "image": "https://wapka-img.zuna.id/ed6e2877.png"},
-
-
-{"channel_name": "skynz3", "url": "https://Tv4go.pages.dev/?id=skynz3", "image": "https://wapka-img.zuna.id/3d2c7083.png"},
-
-
-{"channel_name": "astrocricket", "url": "https://Tv4go.pages.dev/?id=astrocricket", "image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png"},
-
-
-{"channel_name": "astrogd", "url": "https://Tv4go.pages.dev/?id=astrogd", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png"},
-
-
-
-
-{"channel_name": "geosuper", "url": "https://Tv4go.pages.dev/?id=geosuper", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10"},
-
-
-{"channel_name": "asports", "url": "https://Tv4go.pages.dev/?id=asports", "image": "https://wapka-img.zuna.id/e3d690f1.png"},
-
-
-{"channel_name": "ptv", "url": "https://Tv4go.pages.dev/?id=ptv", "image": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73"},
-
-
-{"channel_name": "gtv", "url": "https://Tv4go.pages.dev/?id=gtv", "image": "https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg"},
-
-
-{"channel_name": "tsports", "url": "https://Tv4go.pages.dev/?id=tsports", "image": "https://tvassets.roarzone.info/images/102.png"},
-
-
-{"channel_name": "tensports", "url": "https://Tv4go.pages.dev/?id=tensports", "image": "https://wapka-img.zuna.id/da49b044.jpeg"},
-
-
-{"channel_name": "tencricket", "url": "https://Tv4go.pages.dev/?id=tencricket", "image": "https://tvassets.roarzone.info/images/ten_cricket.png"},
-
-
-{"channel_name": "tnt1", "url": "https://Tv4go.pages.dev/?id=tnt1", "image": "https://wapka-img.zuna.id/29919308.jpeg"},
-
-
-{"channel_name": "tnt2", "url": "https://Tv4go.pages.dev/?id=tnt2", "image": "https://wapka-img.zuna.id/e090fdfd.jpeg"},
-
-
-{"channel_name": "tnt3", "url": "https://Tv4go.pages.dev/?id=tnt3", "image": "https://wapka-img.zuna.id/7db078ad.jpeg"},
-
-
-{"channel_name": "tnt4", "url": "https://Tv4go.pages.dev/?id=tnt4", "image": "https://wapka-img.zuna.id/50f65682.jpeg"},
-
-
-{"channel_name": "sts1h", "url": "https://Tv4go.pages.dev/?id=sts1h", "image": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg"},
-
-
-{"channel_name": "sts2h", "url": "https://Tv4go.pages.dev/?id=sts2h", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png"},
-
-
-{"channel_name": "sts1", "url": "https://Tv4go.pages.dev/?id=sts1", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png"},
-
-
-{"channel_name": "sts2", "url": "https://Tv4go.pages.dev/?id=sts2", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png"},
-
-
-{"channel_name": "sts3", "url": "https://Tv4go.pages.dev/?id=sts3", "image": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg"},
-
-
-{"channel_name": "stss1", "url": "https://Tv4go.pages.dev/?id=stss1", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png"},
-
-
-{"channel_name": "stss2", "url": "https://Tv4go.pages.dev/?id=stss2", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png"},
-
-
-{"channel_name": "sts1tm", "url": "https://Tv4go.pages.dev/?id=sts1tm", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png"},
-
-
-{"channel_name": "sts1tg", "url": "https://Tv4go.pages.dev/?id=sts1tg", "image": "https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg"},
-
-
-{"channel_name": "sts1kn", "url": "https://Tv4go.pages.dev/?id=sts1kn", "image": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg"},
-
-
-{"channel_name": "sts2tm", "url": "https://Tv4go.pages.dev/?id=sts2tm", "image": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg"},
-
-
-{"channel_name": "sts2tg", "url": "https://Tv4go.pages.dev/?id=sts2tg", "image": "https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg"},
-
-
-{"channel_name": "sts2kn", "url": "https://Tv4go.pages.dev/?id=sts2kn", "image": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg"},
-
-{"channel_name": "stskhel", "url": "https://Tv4go.pages.dev/?id=sts2kn", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png"},
-
-
-
-{"channel_name": "sony1", "url": "https://Tv4go.pages.dev/?id=sony1", "image": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png"},
-
-
-{"channel_name": "sony2", "url": "https://Tv4go.pages.dev/?id=sony2", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png"},
-
-
-{"channel_name": "sony3", "url": "https://Tv4go.pages.dev/?id=sony3", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png"},
-
-
-{"channel_name": "sony4tm", "url": "https://Tv4go.pages.dev/?id=sts2kn", "image": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png"},
-
-{"channel_name": "sony4tg", "url": "https://Tv4go.pages.dev/?id=sts2kn", "image": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png"},
-
-{"channel_name": "sony4", "url": "https://Tv4go.pages.dev/?id=sony4", "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"},
-
-
-{"channel_name": "sony5", "url": "https://Tv4go.pages.dev/?id=sony5", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png"},
-
-
-{"channel_name": "sonyliv", "url": "https://Tv4go.pages.dev/?id=sonyliv", "image": "https://play-lh.googleusercontent.com/_FGpN1UYjPgfL1t3TSybSllUdlzoLTUlLx36UUUpPm8W3-w37SNd1ZNfJbwKzwPyJ3w"},
-
-
-{"channel_name": "hotstar", "url": "https://Tv4go.pages.dev/?id=hotstar", "image": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg"},
-
-
-{"channel_name": "toffee", "url": "https://Tv4go.pages.dev/?id=toffee", "image": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv-384x384.png"},
-
-
-{"channel_name": "fancode", "url": "https://Tv4go.pages.dev/?id=fancode", "image": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q"},
-
-
-
-{"channel_name": "amzonhindi", "url": "https://Tv4go.pages.dev/?id=amzonhindi", "image": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp"},
-
-
-{"channel_name": "amzoneng", "url": "https://Tv4go.pages.dev/?id=amzoneng", "image": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp"},
-
-
-{"channel_name": "shoq", "url": "https://Tv4go.pages.dev/?id=shoq", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYB5xM-9_BF3-MOEARKn1SGn73kciJbIPpyxIuEjs1AG7aSPh_hILXIU&s=10"},
-
-
-{"channel_name": "zap", "url": "https://Tv4go.pages.dev/?id=zap", "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ymfJJGX7hKvR6sqQdf3ZEpEpgGEf3S4LZohitX21UX6p3g1j6SdnKvxsBSzL7Bb-XvxB9A9DlNe67TmsMEb59jGo6n5ojZA6p_8LNXCKkt32Su231pIUMjSK73YQxFCtXPUDSQdUS99r32eNv77_HVLyNdDy0q2CM95nOicZM-0Qr9dbkZskC0865Xo"},
-
-
-
-
-
-{"channel_name": "atn", "url": "https://Tv4go.pages.dev/?id=atn", "image": "https://www.aparatchi.com/images/chanells-logo/arianatv-us.svg"},
-
-
-{"channel_name": "lemartv", "url": "https://Tv4go.pages.dev/?id=lemartv", "image": "https://afghanlive.tv/wp-content/uploads/2014/09/lemar-tv-live.jpg"},
-
-
-{"channel_name": "rstv", "url": "https://Tv4go.pages.dev/?id=rstv", "image": "https://www.aparatchi.com/images/chanells-logo/rta-sports.svg"},
-
-
-{"channel_name": "pkten", "url": "https://Tv4go.pages.dev/?id=pkten", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv49I8xrhzG3V4glyh9D9G_SS6JIsbJWTeqC9wk67YXA&s=10"},
-
-
-{"channel_name": "solhtv", "url": "https://Tv4go.pages.dev/?id=solhtv", "image": "https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg"},
-
-
-{"channel_name": "tv7", "url": "https://Tv4go.pages.dev/?id=tv7", "image": "https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj"},
-
-
-
-
-
-{"channel_name": "fastsports", "url": "https://Tv4go.pages.dev/?id=fastsports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5QOvP02QZ3z3Dra5f6oqc9QXms-frWA0vFpUtrlzrtbjftn1rAL9ROw&s=10"},
-
-
-{"channel_name": "ds", "url": "https://Tv4go.pages.dev/?id=ds", "image": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png"}
-
-
-
-
+  {"channel_name": "amzoneng", "url": "https://Tv4go.pages.dev/?id=amzoneng", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/amzoneng.webp"},
+  {"channel_name": "amzonhindi", "url": "https://Tv4go.pages.dev/?id=amzonhindi", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/amzonhindi.jpeg"},
+  {"channel_name": "asports", "url": "https://Tv4go.pages.dev/?id=asports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/asports.png"},
+  {"channel_name": "astrocricket", "url": "https://Tv4go.pages.dev/?id=astrocricket", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/astrocricket.png"},
+  {"channel_name": "astrogd", "url": "https://Tv4go.pages.dev/?id=astrogd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/astrogd.png"},
+  {"channel_name": "atn", "url": "https://Tv4go.pages.dev/?id=atn", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/atn.png"},
+  {"channel_name": "cricbuzz1", "url": "https://Tv4go.pages.dev/?id=cricbuzz1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/cricbuzz1.png"},
+  {"channel_name": "cricbuzz2", "url": "https://Tv4go.pages.dev/?id=cricbuzz2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/cricbuzz2.png"},
+  {"channel_name": "criclife", "url": "https://Tv4go.pages.dev/?id=criclife", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/criclife.png"},
+  {"channel_name": "criclifemax", "url": "https://Tv4go.pages.dev/?id=criclifemax", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/criclifemax.jpg"},
+  {"channel_name": "ds", "url": "https://Tv4go.pages.dev/?id=ds", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/ds.png"},
+  {"channel_name": "fancode", "url": "https://Tv4go.pages.dev/?id=fancode", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/fancode.png"},
+  {"channel_name": "fastsports", "url": "https://Tv4go.pages.dev/?id=fastsports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/fastsports.jpeg"},
+  {"channel_name": "fox", "url": "https://Tv4go.pages.dev/?id=fox", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/fox.png"},
+  {"channel_name": "geosuper", "url": "https://Tv4go.pages.dev/?id=geosuper", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/geosuper.jpeg"},
+  {"channel_name": "gtv", "url": "https://Tv4go.pages.dev/?id=gtv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/gtv.jpg"},
+  {"channel_name": "hotstar", "url": "https://Tv4go.pages.dev/?id=hotstar", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg"},
+  {"channel_name": "lemartv", "url": "https://Tv4go.pages.dev/?id=lemartv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/lemartv.jpg"},
+  {"channel_name": "peo1", "url": "https://Tv4go.pages.dev/?id=peo1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/peo1.jpg"},
+  {"channel_name": "pkten", "url": "https://Tv4go.pages.dev/?id=pkten", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/pkten.jpeg"},
+  {"channel_name": "ptv", "url": "https://Tv4go.pages.dev/?id=ptv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/ptv.png"},
+  {"channel_name": "rstv", "url": "https://Tv4go.pages.dev/?id=rstv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/rstv.jpeg"},
+  {"channel_name": "shoq", "url": "https://Tv4go.pages.dev/?id=shoq", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/shoq.jpeg"},
+  {"channel_name": "skycricket", "url": "https://Tv4go.pages.dev/?id=skycricket", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skycricket.jpeg"},
+  {"channel_name": "skynz1", "url": "https://Tv4go.pages.dev/?id=skynz1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skynz1.png"},
+  {"channel_name": "skynz2", "url": "https://Tv4go.pages.dev/?id=skynz2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skynz2.png"},
+  {"channel_name": "skynz3", "url": "https://Tv4go.pages.dev/?id=skynz3", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skynz3.png"},
+  {"channel_name": "skysme", "url": "https://Tv4go.pages.dev/?id=skysme", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skysme.png"},
+  {"channel_name": "skysmixx", "url": "https://Tv4go.pages.dev/?id=skysmixx", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/skysmixx.jpeg"},
+  {"channel_name": "solhtv", "url": "https://Tv4go.pages.dev/?id=solhtv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/solhtv.jpg"},
+  {"channel_name": "sony1", "url": "https://Tv4go.pages.dev/?id=sony1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony1.png"},
+  {"channel_name": "sony1hd", "url": "https://Tv4go.pages.dev/?id=sony1hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony1hd.jpeg"},
+  {"channel_name": "sony2", "url": "https://Tv4go.pages.dev/?id=sony2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony2.png"},
+  {"channel_name": "sony2hd", "url": "https://Tv4go.pages.dev/?id=sony2hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony2hd.png"},
+  {"channel_name": "sony3", "url": "https://Tv4go.pages.dev/?id=sony3", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony3.png"},
+  {"channel_name": "sony4", "url": "https://Tv4go.pages.dev/?id=sony4", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony4.png"},
+  {"channel_name": "sony4hd", "url": "https://Tv4go.pages.dev/?id=sony4hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony4hd.png"},
+  {"channel_name": "sony4tg", "url": "https://Tv4go.pages.dev/?id=sony4tg", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony4tg.png"},
+  {"channel_name": "sony4tm", "url": "https://Tv4go.pages.dev/?id=sony4tm", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony4tm.png"},
+  {"channel_name": "sony5", "url": "https://Tv4go.pages.dev/?id=sony5", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony5.png"},
+  {"channel_name": "sony5hd", "url": "https://Tv4go.pages.dev/?id=sony5hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sony5hd.png"},
+  {"channel_name": "sonyliv", "url": "https://Tv4go.pages.dev/?id=sonyliv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sonyliv.png"},
+  {"channel_name": "sts1", "url": "https://Tv4go.pages.dev/?id=sts1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg"},
+  {"channel_name": "sts1h", "url": "https://Tv4go.pages.dev/?id=sts1h", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg"},
+  {"channel_name": "sts1hd", "url": "https://Tv4go.pages.dev/?id=sts1hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg"},
+  {"channel_name": "sts1hhd", "url": "https://Tv4go.pages.dev/?id=sts1hhd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hhd.jpg"},
+  {"channel_name": "sts1kn", "url": "https://Tv4go.pages.dev/?id=sts1kn", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1kn.jpg"},
+  {"channel_name": "sts1tg", "url": "https://Tv4go.pages.dev/?id=sts1tg", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tg.jpg"},
+  {"channel_name": "sts1tghd", "url": "https://Tv4go.pages.dev/?id=sts1tghd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tghd.jpg"},
+  {"channel_name": "sts1tm", "url": "https://Tv4go.pages.dev/?id=sts1tm", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tm.jpg"},
+  {"channel_name": "sts1tmhd", "url": "https://Tv4go.pages.dev/?id=sts1tmhd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tmhd.jpg"},
+  {"channel_name": "sts2", "url": "https://Tv4go.pages.dev/?id=sts2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg"},
+  {"channel_name": "sts2h", "url": "https://Tv4go.pages.dev/?id=sts2h", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png"},
+  {"channel_name": "sts2hd", "url": "https://Tv4go.pages.dev/?id=sts2hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hd.jpg"},
+  {"channel_name": "sts2hhd", "url": "https://Tv4go.pages.dev/?id=sts2hhd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hhd.png"},
+  {"channel_name": "sts2kn", "url": "https://Tv4go.pages.dev/?id=sts2kn", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2kn.jpg"},
+  {"channel_name": "sts2tg", "url": "https://Tv4go.pages.dev/?id=sts2tg", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tg.jpg"},
+  {"channel_name": "sts2tghd", "url": "https://Tv4go.pages.dev/?id=sts2tghd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tghd.jpg"},
+  {"channel_name": "sts2tm", "url": "https://Tv4go.pages.dev/?id=sts2tm", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tm.jpg"},
+  {"channel_name": "sts2tmhd", "url": "https://Tv4go.pages.dev/?id=sts2tmhd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tmhd.jpg"},
+  {"channel_name": "sts3", "url": "https://Tv4go.pages.dev/?id=sts3", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts3.jpg"},
+  {"channel_name": "stskhel", "url": "https://Tv4go.pages.dev/?id=stskhel", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stskhel.png"},
+  {"channel_name": "stss1", "url": "https://Tv4go.pages.dev/?id=stss1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss1.jpg"},
+  {"channel_name": "stss1hd", "url": "https://Tv4go.pages.dev/?id=stss1hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss1hd.jpg"},
+  {"channel_name": "stss2", "url": "https://Tv4go.pages.dev/?id=stss2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss2.jpg"},
+  {"channel_name": "stss2hd", "url": "https://Tv4go.pages.dev/?id=stss2hd", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss2hd.jpg"},
+  {"channel_name": "tencricket", "url": "https://Tv4go.pages.dev/?id=tencricket", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tencricket.png"},
+  {"channel_name": "tensports", "url": "https://Tv4go.pages.dev/?id=tensports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tensports.jpeg"},
+  {"channel_name": "tnt1", "url": "https://Tv4go.pages.dev/?id=tnt1", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tnt1.jpeg"},
+  {"channel_name": "tnt2", "url": "https://Tv4go.pages.dev/?id=tnt2", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tnt2.jpeg"},
+  {"channel_name": "tnt3", "url": "https://Tv4go.pages.dev/?id=tnt3", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tnt3.jpeg"},
+  {"channel_name": "tnt4", "url": "https://Tv4go.pages.dev/?id=tnt4", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tnt4.jpeg"},
+  {"channel_name": "toffee", "url": "https://Tv4go.pages.dev/?id=toffee", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/toffee.png"},
+  {"channel_name": "tsports", "url": "https://Tv4go.pages.dev/?id=tsports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tsports.jpg"},
+  {"channel_name": "tv7", "url": "https://Tv4go.pages.dev/?id=tv7", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tv7.jpg"},
+  {"channel_name": "willowsports", "url": "https://Tv4go.pages.dev/?id=willowsports", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowsports.jpg"},
+  {"channel_name": "willowtv", "url": "https://Tv4go.pages.dev/?id=willowtv", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowtv.jpg"},
+  {"channel_name": "willowxtra", "url": "https://Tv4go.pages.dev/?id=willowxtra", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowxtra.png"},
+  {"channel_name": "zap", "url": "https://Tv4go.pages.dev/?id=zap", "image": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/zap.jpg"}
 ]
+
 
 
 
