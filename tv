@@ -166,87 +166,44 @@
 
 
 
-{"id": "sts1h",
-"m3u8": "https://waptv.wapka.xyz/hindi"},
-
-{"id": "sts1h1",
-"m3u8": "https://s1.v5on.site/live/play.php?id=276731"},
-{"id": "sts1h2",
-"m3u8": "https://tv4wep.pages.dev/?id=starhindi&name=crichd"},
-
-{"id": "sts1h2",
-"m3u8": "https://tv4wab.pages.dev/?id=174&name=jspo"},
-{"id": "sts1h3",
-"m3u8": "https://tv4wab.pages.dev/?id=148&name=jspo"},
-
-
-{"id": "sts2h",
-"m3u8": "https://tv4wab.pages.dev/?id=1984&name=jspo"},
-{"id": "sts2h1",
-"m3u8": "https://tv4wab.pages.dev/?id=1985&name=jspo"},
-{"id": "sts2h2",
-"m3u8": "https://s-whindi.vercel.app/"},
-{"id": "sts2h3",
-"m3u8": "https://24spn-webhost8.blogspot.com/?m=1"},
-{"id": "sts2h4",
-"m3u8": "https://cricketstan.github.io/Star-Sports-2-Hindi/"},
 
 
 
 
-{"id": "sts6",
-"m3u8": "https://tv4wep.pages.dev/?id=f064e069-8861-43d5-ac79-828b029a50a1&name=ayna"}, 
-{"id": "sts1",
-"m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%201%20HD"}, 
-{"id": "sts11",
-"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
-{"id": "sts12",
-"m3u8": "https://bongoflixbd.top/?watch=18283d4f5f13c0cac5cab4433a0ed8f0"},
-{"id": "sts13",
-"m3u8": "https://anywhere.pwisetthon.com/41.205.93.154/STARSPORTS1/index.m3u8"},
-{"id": "sts14",
-"m3u8": "https://tv4wep.pages.dev/?id=star1in&name=tv4wap"},
-{"id": "sts15",
-"m3u8": "https://tv4wep.pages.dev/?id=star1in&name=crichd"},
-
-
-
-{"id": "sts2",
-"m3u8": "https://wapgo.pages.dev/?id=STAR%20SPORTS%202%20HD"}, 
-{"id": "sts21",
-"m3u8": "https://tv4wab.pages.dev/?id=695905ddfb1469e5acc9561a&name=ROARZONE"}, 
-{"id": "sts22",
-"m3u8": "https://tv4wep.pages.dev/?id=3ac46078-2bf0-4998-a021-37b459e09fba&name=ayna"}, 
-{"id": "sts23",
-"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%202%20HD&name=ayna"}, 
-{"id": "sts24",
-"m3u8": "https://ss2hd-theta.vercel.app/"},
-{"id":"sts23","mpd":"https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd","key":"9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"}, 
-{"id": "sts25",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
 
 
 
-{"id": "sts3",
-"m3u8": "https://tv4wab.pages.dev/?id=147&name=jspo"}, 
 
 
- {"id": "stss1",
-"m3u8": "https://tv4wep.pages.dev/?id=Star%20sports%20select%201&name=bdxiptv"}, 
-{"id": "stss11",
-"m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%20Select%201"}, 
-{"id": "stss12",
-"m3u8": "https://tvsen7.aynaott.com/ssps1hd/index.m3u8"}, 
 
-{"id": "stss2",
-"m3u8": "https://tv4wep.pages.dev/?id=Star%20sports%20select%202&name=bdxiptv"}, 
-{"id": "stss21",
-"m3u8": "https://wapgo.pages.dev/?id=Star%20Sports%20Select%202%20HD"}, 
-{"id": "stss22",
-"m3u8": "https://tv4wabb.pages.dev/?id=starsp2h&name=ayna"}, 
-{"id": "stss23",
-"m3u8": "https://tv4wabb.pages.dev/?id=Star%20Sports%20SL%202%20HD&name=ayna"}, 
+{"id": "st1h", "m3u8": "https://jiogo.pages.dev/?id=362"},
+{"id": "sthd1h", "m3u8": "https://jiogo.pages.dev/?id=1108"},
+{"id": "st2hhd", "m3u8": "https://jiogo.pages.dev/?id=1984"},
+{"id": "st2hsd", "m3u8": "https://jiogo.pages.dev/?id=1985"},
+{"id": "stskhel", "m3u8": "https://jiogo.pages.dev/?id=1998"},
+{"id": "st1", "m3u8": "https://jiogo.pages.dev/?id=1142"},
+{"id": "sthd1", "m3u8": "https://jiogo.pages.dev/?id=1106"},
+{"id": "st2", "m3u8": "https://jiogo.pages.dev/?id=1141"},
+{"id": "sthd2", "m3u8": "https://jiogo.pages.dev/?id=1109"},
+{"id": "st3", "m3u8": "https://jiogo.pages.dev/?id=1389"},
+{"id": "stsel1", "m3u8": "https://jiogo.pages.dev/?id=1123"},
+{"id": "stselhd1", "m3u8": "https://jiogo.pages.dev/?id=460"},
+{"id": "stsel2", "m3u8": "https://jiogo.pages.dev/?id=1114"},
+{"id": "stselhd2", "m3u8": "https://jiogo.pages.dev/?id=461"},
+{"id": "st1ta", "m3u8": "https://jiogo.pages.dev/?id=1124"},
+{"id": "st1tahd", "m3u8": "https://jiogo.pages.dev/?id=3277"},
+{"id": "st2ta", "m3u8": "https://jiogo.pages.dev/?id=2853"},
+{"id": "st2tahd", "m3u8": "https://jiogo.pages.dev/?id=3273"},
+{"id": "st1tg", "m3u8": "https://jiogo.pages.dev/?id=1651"},
+{"id": "st1tghd", "m3u8": "https://jiogo.pages.dev/?id=3278"},
+{"id": "st2tg", "m3u8": "https://jiogo.pages.dev/?id=2852"},
+{"id": "st2tghd", "m3u8": "https://jiogo.pages.dev/?id=3274"},
+{"id": "st1kn", "m3u8": "https://jiogo.pages.dev/?id=1650"},
+{"id": "st2kn", "m3u8": "https://jiogo.pages.dev/?id=1122"},
+
+
+
 
 
 
