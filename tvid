@@ -6,6 +6,23 @@
     "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
     "name": "HOTSTAR"
   },
+
+{
+    "id": "tsports",
+    "logo": "https://tvassets.roarzone.info/images/102.png",
+    "name": "T SPORTS"
+  },
+
+{
+    "id": "amzonhindi",
+    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
+    "name": "AMAZON HINDI"
+  },
+  {
+    "id": "amzoneng",
+    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
+    "name": "AMAZON ENG"
+  },
 {
     "id": "sts1",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
@@ -127,16 +144,7 @@
     "name": "STAR SPORTS SELECT 2 HD"
   },
 
-{
-    "id": "amzonhindi",
-    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
-    "name": "AMAZON HINDI"
-  },
-  {
-    "id": "amzoneng",
-    "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
-    "name": "AMAZON ENG"
-  },
+
 {
     "id": "skynz2",
     "logo": "https://wapka-img.zuna.id/ed6e2877.png",
@@ -275,11 +283,7 @@
     "logo": "https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg",
     "name": "GAZI TV"
   },
-  {
-    "id": "tsports",
-    "logo": "https://tvassets.roarzone.info/images/102.png",
-    "name": "T SPORTS"
-  },
+  
   {
     "id": "tensports",
     "logo": "https://wapka-img.zuna.id/da49b044.jpeg",
