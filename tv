@@ -1,7 +1,7 @@
 
 [
 {"id": "sony12",
-"m3u8":"https://tv4wep.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"}, 
+"m3u8":"https://live4wap.pages.dev/?id=174"}, 
 {"id": "amzonhindi",
 "m3u8": "https://waptv.wapka.xyz/prime"},
 
@@ -11,7 +11,7 @@
 "m3u8": "https://tvok.wapka.site"},
 
 {"id": "hotstar1",
-"m3u8": "https://allrounderlive.pages.dev/player2?url=https://dillzyserver.dillzycreations.workers.dev/live/hotstar.m3u8"},
+"m3u8": "https://tv4wep.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
 
 {"id": "hotstar",
 "m3u8": "https://waptv.pages.dev"},
@@ -97,7 +97,7 @@
 
 
 {"id": "willowtv",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"}, 
 {"id": "willowtv1",
 "m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=crichd"}, 
 {"id": "willowtv2",
