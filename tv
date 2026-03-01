@@ -8,7 +8,7 @@
 {"id": "amzoneng",
 "m3u8": "https://t20wc-livid.vercel.app/prime-eng"},
 
-{"id": "fancode", "mpd":"https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd", "key": "f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb"},
+{"id": "fancode", "mpd":"https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ecp6xidc5d/out/v1/b8a94677c56e4411aef7ecc2431cec0a/cenc.mpd", "key": "0c1cb3e9514dddd75896a7f60a03decb:963fb175f70769c8d56fc44c843808b3"},
 
 {"id": "hotstar1",
 "m3u8": "https://tv4wep.pages.dev/?id=Star%20Sports%201%20HD&name=ayna"},
