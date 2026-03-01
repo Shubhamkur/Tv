@@ -26,6 +26,12 @@
   },
 
 {
+    "id": "fancode",
+    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
+    "name": "WILLOW TV"
+  },
+
+{
     "id": "amzonhindi",
     "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
     "name": "AMAZON HINDI"
