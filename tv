@@ -3,13 +3,13 @@
 {"id": "sony12",
 "m3u8":"https://wap4tv.pages.dev/?id=hotstar1"}, 
 {"id": "amzonhindi",
-"m3u8": "https://t20wc-livid.vercel.app/prime-hin"},
+"m3u8": "https://allrounder-live.pages.dev/channel/hotstar"},
 
 {"id": "starhindi",
 "m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
 
 {"id": "amzoneng",
-"m3u8": "https://t20wc-livid.vercel.app/prime-eng"},
+"m3u8": "https://allrounderfuck.vercel.app/channel/prame.html"},
 
 {"id":"willowtv","mpd":"https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd","key":"106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c"},
 
