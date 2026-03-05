@@ -1,17 +1,7 @@
 
 
 [
-{
-    "id": "hotstar",
-    "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
-    "name": "HOTSTAR"
-  },
 
-{
-    "id": "hotstar1",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
-    "name": "STAR SPORTS 1"
-  },
 
 {
     "id": "tsports",
@@ -41,126 +31,12 @@
     "logo": "https://assets.thehansindia.com/h-upload/2025/05/13/1550683-amazon.webp",
     "name": "AMAZON ENG"
   },
-{
-    "id": "sts1",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
-    "name": "STAR SPORTS 1"
-  },
-  {
-    "id": "sts1h",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
-    "name": "STAR SPORTS 1 HINDI"
-  },
-  {
-    "id": "sts1hd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg",
-    "name": "STAR SPORTS 1 HD"
-  },
-  {
-    "id": "sts1hhd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hhd.jpg",
-    "name": "STAR SPORTS 1 HINDI HD"
-  },
-  {
-    "id": "sts1kn",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1kn.jpg",
-    "name": "STAR SPORTS 1 KANNADA"
-  },
-  {
-    "id": "sts1tg",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tg.jpg",
-    "name": "STAR SPORTS 1 TELUGU"
-  },
-  {
-    "id": "sts1tghd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tghd.jpg",
-    "name": "STAR SPORTS 1 TELUGU HD"
-  },
-  {
-    "id": "sts1tm",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tm.jpg",
-    "name": "STAR SPORTS 1 TAMIL"
-  },
-  {
-    "id": "sts1tmhd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1tmhd.jpg",
-    "name": "STAR SPORTS 1 TAMIL HD"
-  },
-  {
-    "id": "sts2",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
-    "name": "STAR SPORTS 2"
-  },
-  {
-    "id": "sts2h",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png",
-    "name": "STAR SPORTS 2 HINDI"
-  },
-  {
-    "id": "sts2hd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hd.jpg",
-    "name": "STAR SPORTS 2 HD"
-  },
-  {
-    "id": "sts2hhd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2hhd.png",
-    "name": "STAR SPORTS 2 HINDI HD"
-  },
-  {
-    "id": "sts2kn",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2kn.jpg",
-    "name": "STAR SPORTS 2 KANNADA"
-  },
-  {
-    "id": "sts2tg",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tg.jpg",
-    "name": "STAR SPORTS 2 TELUGU"
-  },
-  {
-    "id": "sts2tghd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tghd.jpg",
-    "name": "STAR SPORTS 2 TELUGU HD"
-  },
-  {
-    "id": "sts2tm",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tm.jpg",
-    "name": "STAR SPORTS 2 TAMIL"
-  },
-  {
-    "id": "sts2tmhd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2tmhd.jpg",
-    "name": "STAR SPORTS 2 TAMIL HD"
-  },
-  {
-    "id": "sts3",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts3.jpg",
-    "name": "STAR SPORTS 3"
-  },
-  {
-    "id": "stskhel",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stskhel.png",
-    "name": "STAR SPORTS FIRST"
-  },
-  {
-    "id": "stss1",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss1.jpg",
-    "name": "STAR SPORTS SELECT 1"
-  },
-  {
-    "id": "stss1hd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss1hd.jpg",
-    "name": "STAR SPORTS SELECT 1 HD"
-  },
-  {
-    "id": "stss2",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss2.jpg",
-    "name": "STAR SPORTS SELECT 2"
-  },
-  {
-    "id": "stss2hd",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss2hd.jpg",
-    "name": "STAR SPORTS SELECT 2 HD"
-  },
+
+  
+  
+  
+  
+
 
 
 {
@@ -327,51 +203,8 @@
 
 
 
-  {
-    "id": "sony1",
-    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png",
-    "name": "SONY TEN 1"
-  },
-  {
-    "id": "sony2",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
-    "name": "SONY TEN 2"
-  },
-  {
-    "id": "sony3",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png",
-    "name": "SONY TEN 3"
-  },
-  {
-    "id": "sony4tm",
-    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png",
-    "name": "SONY TEN 4 TAMIL"
-  },
-  {
-    "id": "sony4tg",
-    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png",
-    "name": "SONY TEN 4 TELUGU"
-  },
-  {
-    "id": "sony4",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
-    "name": "SONY TEN 4"
-  },
-  {
-    "id": "sony5",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
-    "name": "SONY TEN 5"
-  },
-  {
-    "id": "sonyliv",
-    "logo": "https://play-lh.googleusercontent.com/_FGpN1UYjPgfL1t3TSybSllUdlzoLTUlLx36UUUpPm8W3-w37SNd1ZNfJbwKzwPyJ3w",
-    "name": "SONYLIV"
-  },
-  {
-    "id": "hotstar",
-    "logo": "https://www.mobigyaan.com/wp-content/uploads/2025/02/JioHotstar-logo-1.jpg",
-    "name": "HOTSTAR"
-  },
+  
+
   {
     "id": "toffee",
     "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv-384x384.png",
