@@ -3,6 +3,34 @@
 [
 
 {
+    "id": "3hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "SERVER 3"
+  },
+{
+    "id": "4hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "SERVER 4"
+  },
+{
+    "id": "5hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "SERVER 5"
+  },
+{
+    "id": "6hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "SERVER 6"
+  },
+{
+    "id": "7hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "SERVER 7"
+  },
+
+
+
+{
     "id": "hotstar1",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
     "name": "Star 2 eng"
