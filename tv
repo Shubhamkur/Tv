@@ -22,10 +22,9 @@
 {"id": "amzoneng",
 "m3u8": "https://allrounderfuck.vercel.app/channel/prame.html"},
 
-{"id":"willowtv","mpd":"https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd","key":"106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c"},
+{"id":"willowtv1","mpd":"https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd","key":"106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c"},
 
-{"id": "hotstar1",
-"m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
+
 
 
 
@@ -43,7 +42,7 @@
 {"id":"sony11", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten1/index.m3u8"},
 {"id":"sony1", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8"},
 {"id":"sony14", 
 "m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=crichd"},
 {"id":"sony15", 
@@ -110,7 +109,7 @@
 
 
 
-{"id": "willowtv1",
+{"id": "willowtv",
 "m3u8": "https://tv4wep.pages.dev/?id=willowusa&name=crichd"}, 
 {"id": "willowtv2",
 "m3u8": "https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8"}, 
@@ -191,7 +190,8 @@
 
 
 
-
+{"id": "sts2",
+"m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
 
@@ -319,20 +319,16 @@
 
 
 {"id": "ds",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
   {"id": "ds1",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
 
 
 
-{"id": "amzonhindi1",
-"mpd":"https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
- "key": "c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf" },
 
-{"id": "amzoneng1",
-"mpd":"https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd","key":"f61c80b95c8dc7af075a839ebd584b34:80b53f92abc0865a244e8d68810fd4bb" },
-{"id":"amzoneng1", 
-"m3u8":"https://hff-eight.vercel.app/"},
+
+
+
  
 {"id":"shoq","mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
  "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" }
