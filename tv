@@ -12,7 +12,9 @@
 {"id": "7hotstar",
 "m3u8":"https://tvjio.wapka.site/7"},
 {"id": "sony12",
-"m3u8":"https://wap4tv.pages.dev/?id=hotstar1"}, 
+"m3u8":"https://wap4tv.pages.dev/?id=hotstar1"},
+
+
 {"id": "amzonhindi",
 "m3u8": "https://allrounder-live.pages.dev/channel/hotstar"},
 
@@ -104,7 +106,7 @@
 
 
 {"id": "willowtv",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"}, 
 {"id": "willowtv1",
  "mpd": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/smgyotbhup/out/v1/f4ff6633924f4c7ebc76de9cd9db226a/cenc.mpd",
  "key": "77cbbe03e429a079de236f53e60839d9:c62e6a34d38065b75fc4d308fc8c3ca3" },
