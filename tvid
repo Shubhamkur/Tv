@@ -183,27 +183,12 @@
 
 
 
-{
-    "id": "skynz2",
-    "logo": "https://wapka-img.zuna.id/ed6e2877.png",
-    "name": "SKY NZ 2"
-  },
-{
-    "id": "skynz1",
-    "logo": "https://wapka-img.zuna.id/5a6a67b0.png",
-    "name": "SKY NZ 1"
-  },
 
 
 
 
 
 
-{
-    "id": "cricbuzz1",
-    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM",
-    "name": "CRICBUZZ 1"
-  },
 
 
 {
@@ -220,29 +205,14 @@
     "name": "WILLOW SPORTS"
   },
 
-  {
-    "id": "tnt4",
-    "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
-    "name": "TNT SPORTS 4"
-  },
-
+  
 {
-    "id": "fancode",
-    "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
-    "name": "FANCODE TV"
-  },
-  {
-    "id": "peo1",
-    "logo": "https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj",
-    "name": "PEO1 SPORTS"
+    "id": "cricbuzz1",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM",
+    "name": "CRICBUZZ 1"
   },
   
   
-  {
-    "id": "willowxtra",
-    "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png",
-    "name": "WILLOW XTRA"
-  },
   {
     "id": "criclifemax",
     "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4",
@@ -270,38 +240,14 @@
     "name": "SKY CRICKET"
   },
 
-{
-    "id": "skysmixx",
-    "logo": "https://wapka-img.zuna.id/645ab7de.jpeg",
-    "name": "SKY SPORTS MIX"
-  },
-{
-    "id": "skysme",
-    "logo": "https://wapka-img.zuna.id/abb61b95.png",
-    "name": "SKY MAIN EVENT"
-  },
-  
-  
-  {
-    "id": "skynz3",
-    "logo": "https://wapka-img.zuna.id/3d2c7083.png",
-    "name": "SKY NZ 3"
-  },
+
   {
     "id": "astrocricket",
     "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png",
     "name": "ASTRO CRICKET"
   },
-  {
-    "id": "astrogd",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png",
-    "name": "ASTRO GRANDSTAND"
-  },
-  {
-    "id": "geosuper",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByiiGGHZsObgvhWaw9Vegy0hJE4ofIyjIr0yW6WIBBKGYNk6TM2acXFbh&s=10",
-    "name": "GEO SUPER"
-  },
+  
+  
   {
     "id": "asports",
     "logo": "https://wapka-img.zuna.id/e3d690f1.png",
@@ -312,11 +258,7 @@
     "logo": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73",
     "name": "PTV SPORTS"
   },
-  {
-    "id": "gtv",
-    "logo": "https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg",
-    "name": "GAZI TV"
-  },
+  
   
   {
     "id": "tensports",
@@ -347,64 +289,16 @@
 
 
 
-  
+  {
+    "id": "tnt4",
+    "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
+    "name": "TNT SPORTS 4"
+  },
 
-  {
-    "id": "toffee",
-    "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv-384x384.png",
-    "name": "TOFFEE"
-  },
-  {
-    "id": "fancode",
-    "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
-    "name": "FANCODE"
-  },
+
   
-  {
-    "id": "shoq",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYB5xM-9_BF3-MOEARKn1SGn73kciJbIPpyxIuEjs1AG7aSPh_hILXIU&s=10",
-    "name": "SHOQ"
-  },
-  {
-    "id": "zap",
-    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ymfJJGX7hKvR6sqQdf3ZEpEpgGEf3S4LZohitX21UX6p3g1j6SdnKvxsBSzL7Bb-XvxB9A9DlNe67TmsMEb59jGo6n5ojZA6p_8LNXCKkt32Su231pIUMjSK73YQxFCtXPUDSQdUS99r32eNv77_HVLyNdDy0q2CM95nOicZM-0Qr9dbkZskC0865Xo",
-    "name": "ARY ZAP"
-  },
-  {
-    "id": "atn",
-    "logo": "https://www.aparatchi.com/images/chanells-logo/arianatv-us.svg",
-    "name": "ATN"
-  },
-  {
-    "id": "lemartv",
-    "logo": "https://afghanlive.tv/wp-content/uploads/2014/09/lemar-tv-live.jpg",
-    "name": "LEMAR TV"
-  },
-  {
-    "id": "rstv",
-    "logo": "https://www.aparatchi.com/images/chanells-logo/rta-sports.svg",
-    "name": "RSTV"
-  },
-  {
-    "id": "pkten",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv49I8xrhzG3V4glyh9D9G_SS6JIsbJWTeqC9wk67YXA&s=10",
-    "name": "PK TEN"
-  },
-  {
-    "id": "solhtv",
-    "logo": "https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg",
-    "name": "SOLH TV"
-  },
-  {
-    "id": "tv7",
-    "logo": "https://yt3.googleusercontent.com/hnZI8DI6pYFHE_-LlIkZQAMJFJtpS3q3F_jLCrEaeQZhOtyUCO0ICQhgnTm7tWxYVHXbc2VDjA=s900-c-k-c0x00ffffff-no-rj",
-    "name": "TV 7"
-  },
-  {
-    "id": "fastsports",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5QOvP02QZ3z3Dra5f6oqc9QXms-frWA0vFpUtrlzrtbjftn1rAL9ROw&s=10",
-    "name": "FAST SPORTS"
-  },
+  
+  
   {
     "id": "ds",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
