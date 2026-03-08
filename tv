@@ -174,26 +174,140 @@
 "m3u8": "https://tv4wep.pages.dev/?id=sky3nz&name=crichd"},
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{"id": "sts1h",
+{"id": "starhindi",
 "m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
-{"id": "sts2",
+
+
+
+
+{"id": "star1eng",
+"m3u8": "https://mspannel.top/stream/rz/?watch=18283d4f5f13c0cac5cab4433a0ed8f0"}, 
+
+{"id": "star1eng2",
+"m3u8": "https://wapgo.pages.dev/?name=STAR%20SPORTS%201"}, 
+
+
+
+{"id": "star2eng",
 "m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
+
+
+
+
+
+
+
+  {
+    "id": "sts1",
+    "m3u8": "https://waptv.pages.dev?id=1142"
+  },
+  {
+    "id": "sts1h",
+    "m3u8": "https://waptv.pages.dev?id=148"
+  },
+  {
+    "id": "sts1hd",
+    "m3u8": "https://waptv.pages.dev?id=4470"
+  },
+  {
+    "id": "sts1hhd",
+    "m3u8": "https://waptv.pages.dev?id=174"
+  },
+  {
+    "id": "sts2",
+    "m3u8": "https://waptv.pages.dev?id=1141"
+  },
+  {
+    "id": "sts2h",
+    "m3u8": "https://waptv.pages.dev?id=1985"
+  },
+  {
+    "id": "sts2hd",
+    "m3u8": "https://waptv.pages.dev?id=4456"
+  },
+  {
+    "id": "sts2hhd",
+    "m3u8": "https://waptv.pages.dev?id=1984"
+  },
+  {
+    "id": "sts3",
+    "m3u8": "https://waptv.pages.dev?id=147"
+  },
+  {
+    "id": "stss1",
+    "m3u8": "https://waptv.pages.dev?id=1123"
+  },
+  {
+    "id": "stss1hd",
+    "m3u8": "https://waptv.pages.dev?id=300"
+  },
+  {
+    "id": "stss2",
+    "m3u8": "https://waptv.pages.dev?id=1114"
+  },
+  {
+    "id": "stss2hd",
+    "m3u8": "https://waptv.pages.dev?id=301"
+  },
+  {
+    "id": "sts1kn",
+    "m3u8": "https://waptv.pages.dev?id=1650"
+  },
+  {
+    "id": "sts2kn",
+    "m3u8": "https://waptv.pages.dev?id=4472"
+  },
+  {
+    "id": "sts1tg",
+    "m3u8": "https://waptv.pages.dev?id=1651"
+  },
+  {
+    "id": "sts1tghd",
+    "m3u8": "https://waptv.pages.dev?id=4471"
+  },
+  {
+    "id": "sts2tg",
+    "m3u8": "https://waptv.pages.dev?id=2852"
+  },
+  {
+    "id": "sts2tghd",
+    "m3u8": "https://waptv.pages.dev?id=4474"
+  },
+  {
+    "id": "sts1tm",
+    "m3u8": "https://waptv.pages.dev?id=1124"
+  },
+  {
+    "id": "sts1tmhd",
+    "m3u8": "https://waptv.pages.dev?id=4468"
+  },
+  {
+    "id": "sts2tm",
+    "m3u8": "https://waptv.pages.dev?id=2853"
+  },
+  {
+    "id": "sts2tmhd",
+    "m3u8": "https://waptv.pages.dev?id=4473"
+  },
+  {
+    "id": "stskhel",
+    "m3u8": "https://waptv.pages.dev?id=1998"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
