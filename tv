@@ -1,7 +1,9 @@
 
 [
+
+
 {"id":"sony12", 
-"m3u8":"https://wap4tv.pages.dev/?id=star1eng"},
+"m3u8":"https://matcheslinkz.pages.dev/hhh"},
 {"id": "3hotstar",
 "m3u8":"https://tvjio.wapka.site/3"},
 {"id": "4hotstar",
@@ -17,7 +19,8 @@
 
 
 {"id": "amzonhindi",
-"m3u8": "https://allrounder-live.pages.dev/channel/hotstar"},
+ "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd",
+ "key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab" },
 
 
 
