@@ -3,6 +3,28 @@
 [
 
 {
+    "id": "willowtv1",
+    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
+    "name": "WILLOW TV"
+  },
+  {
+    "id": "starhindi",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
+    "name": "STAR SPORTS 1 HINDI"
+  },{
+    "id": "star2eng",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
+    "name": "STAR SPORTS 2"
+  },{
+    "id": "star1eng2",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },{
+    "id": "star1eng",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+{
     "id": "3hotstar",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
     "name": "SERVER 3"
