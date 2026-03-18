@@ -7,15 +7,6 @@
 
 
 
-{"id": "amzonhindi",
- "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd",
- "key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab" },
-
-
-
-{"id": "amzoneng",
- "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd",
- "key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b" },
 
 
 
@@ -29,38 +20,9 @@
 
 
 
-{"id":"sony13", 
-"m3u8":"https://mspannel.top/stream/rz/?watch=7482ed5e9c4da0cc7de6aa27dc16c4c4"},
-{"id":"sony11", 
-"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten1/index.m3u8"},
-{"id":"sony1", 
-"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8"},
-{"id":"sony14", 
-"m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=crichd"},
-{"id":"sony15", 
-"m3u8":"https://tv4wep.pages.dev/?id=ten1hd&name=tv4wap"},
 
 
-{"id":"sony22", 
-"m3u8":"https://mspannel.top/stream/rz/?watch=6f8378e796d7f7cff65333fd3b1d0974"},
-{"id":"sony21", 
-"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten2/index.m3u8"},
-{"id":"sony2", 
-"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports2/index.m3u8"},
 
-{"id":"sony3","m3u8":"https://v5on.site/play.php?id=276739"},
-{"id":"sony31","m3u8":"https://mspannel.top/stream/rz/?watch=0bd594d32d6dc8cee0165bc175eeb862"},
-
-
-{"id":"sony4", 
-"m3u8":"https://wapgo.pages.dev/?id=espn%20ten"},
-
-{"id":"sony52", 
-"m3u8":"https://mspannel.top/stream/rz/?watch=0940a354e290cbf71e9d5d21e2883258"},
-{"id":"sony51", 
-"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten5/index.m3u8"},
-{"id":"sony5", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports5/index.m3u8"},
 
 
 
@@ -80,16 +42,8 @@
 
 
 
-{"id": "astrocricket1",
- "m3u8": "https://v5on.site/play.php?id=1163988"}, 
-{"id": "astrocricket",
- "m3u8": "https://tvgotk.github.io/p1/?url=https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"}, 
 
- {"id": "astrogd",
- "m3u8": "https://yeahstreams.com/tv/stream-412.php" },
-
-{"id":"fox", 
-"m3u8":"https://yeahstreams.com/tv/stream-368.php"},
+ 
 
 
 
@@ -98,15 +52,8 @@
 
 
 
-{"id": "willowtv",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"}, 
-{"id": "willowtv1",
- "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd",
- "key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82" },
 
-{"id":"willowtv2","mpd":"https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd","key":"106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c"},
-{"id": "willowtv3",
-"m3u8": "https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8"}, 
+
 
 {"id": "willowsports",
  "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -118,10 +65,6 @@
 "m3u8":"https://tvplaytv.pages.dev/p1/?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"}, 
 
 
-{"id": "willowxtra",
-"m3u8": "https://v5on.site/play.php?id=282231"}, 
-{"id": "willowxtra1",
-"m3u8": "https://tv4wep.pages.dev/?id=willowextra&name=crichd"}, 
 
 
 
@@ -131,18 +74,6 @@
 
 
 
-{"id": "skycricket",
-"m3u8": "https://tv4wep.pages.dev/?id=skyscric&name=tv4wap"}, 
-{"id": "skycricket1",
-"m3u8": "https://tv4wep.pages.dev/?id=skyscric&name=crichd"}, 
-{"id": "skyme",
-"m3u8": "https://tv4wep.pages.dev/?id=skysme&name=tv4wap"},
-{"id": "skyme",
-"m3u8": "https://tv4wep.pages.dev/?id=skysme&name=crichd"},
-{"id": "skymixx",
-"m3u8": "https://tv4wep.pages.dev/?id=skysmixx&name=tv4wap"},
-{"id": "skymixx",
-"m3u8": "https://tv4wep.pages.dev/?id=skysmixx&name=crichd"},
 
 
 
@@ -150,21 +81,6 @@
 
 
 
-
-{"id": "skynz1",
-"m3u8": "https://justembeds.xyz/embed/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3"},
-{"id": "skynz11",
-"m3u8": "https://tv4wep.pages.dev/?id=sky1nz&name=tv4wap"},
-{"id": "skynz12",
-"m3u8": "https://tv4wep.pages.dev/?id=sky1nz&name=crichd"},
-{"id": "skynz2",
-"m3u8": "https://sixseven.attitude.my.id/skynz2/index.m3u8"},
-{"id": "skynz21",
-"m3u8": "https://tv4wep.pages.dev/?id=sky2nz&name=crichd"},
-{"id": "skynz3",
-"m3u8": "https://tv4wep.pages.dev/?id=sky3nz&name=tv4wap"},
-{"id": "skynz31",
-"m3u8": "https://tv4wep.pages.dev/?id=sky3nz&name=crichd"},
 
 
 {"id": "starhindi",
@@ -187,105 +103,6 @@
 
 
 
-
-
-
-  {
-    "id": "sts1",
-    "m3u8": "https://waptv.pages.dev?id=1142"
-  },
-  {
-    "id": "sts1h",
-    "m3u8": "https://waptv.pages.dev?id=148"
-  },
-  {
-    "id": "sts1hd",
-    "m3u8": "https://waptv.pages.dev?id=4470"
-  },
-  {
-    "id": "sts1hhd",
-    "m3u8": "https://waptv.pages.dev?id=174"
-  },
-  {
-    "id": "sts2",
-    "m3u8": "https://waptv.pages.dev?id=1141"
-  },
-  {
-    "id": "sts2h",
-    "m3u8": "https://waptv.pages.dev?id=1985"
-  },
-  {
-    "id": "sts2hd",
-    "m3u8": "https://waptv.pages.dev?id=4456"
-  },
-  {
-    "id": "sts2hhd",
-    "m3u8": "https://waptv.pages.dev?id=1984"
-  },
-  {
-    "id": "sts3",
-    "m3u8": "https://waptv.pages.dev?id=147"
-  },
-  {
-    "id": "stss1",
-    "m3u8": "https://waptv.pages.dev?id=1123"
-  },
-  {
-    "id": "stss1hd",
-    "m3u8": "https://waptv.pages.dev?id=300"
-  },
-  {
-    "id": "stss2",
-    "m3u8": "https://waptv.pages.dev?id=1114"
-  },
-  {
-    "id": "stss2hd",
-    "m3u8": "https://waptv.pages.dev?id=301"
-  },
-  {
-    "id": "sts1kn",
-    "m3u8": "https://waptv.pages.dev?id=1650"
-  },
-  {
-    "id": "sts2kn",
-    "m3u8": "https://waptv.pages.dev?id=4472"
-  },
-  {
-    "id": "sts1tg",
-    "m3u8": "https://waptv.pages.dev?id=1651"
-  },
-  {
-    "id": "sts1tghd",
-    "m3u8": "https://waptv.pages.dev?id=4471"
-  },
-  {
-    "id": "sts2tg",
-    "m3u8": "https://waptv.pages.dev?id=2852"
-  },
-  {
-    "id": "sts2tghd",
-    "m3u8": "https://waptv.pages.dev?id=4474"
-  },
-  {
-    "id": "sts1tm",
-    "m3u8": "https://waptv.pages.dev?id=1124"
-  },
-  {
-    "id": "sts1tmhd",
-    "m3u8": "https://waptv.pages.dev?id=4468"
-  },
-  {
-    "id": "sts2tm",
-    "m3u8": "https://waptv.pages.dev?id=2853"
-  },
-  {
-    "id": "sts2tmhd",
-    "m3u8": "https://waptv.pages.dev?id=4473"
-  },
-  {
-    "id": "stskhel",
-    "m3u8": "https://waptv.pages.dev?id=1998"
-  },
 
 
 
@@ -316,6 +133,9 @@
  "key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b" }, 
 {"id": "tnt2",
  "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+ "key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875" },
+{"id": "tnt21",
+ "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
  "key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875" }, 
 {"id": "tnt3",
  "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
@@ -324,9 +144,8 @@
  "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
  "key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258" }, 
 
-{"id": "tnt5",
- "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
- "key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875" }, 
+
+
 
 
 
@@ -336,28 +155,13 @@
 
 
 {"id": "tencricket",
-"m3u8": "https://tv4wep.pages.dev/?id=Ten%20cricket&name=bdxiptv"},
-{"id": "tencricket1",
-"m3u8": "https://tv4wab.pages.dev/?id=695905e4fb1469e5acc956aa&name=ROARZONE"},
-{"id": "tencricket2",
 "m3u8": "https://wapgo.pages.dev/?id=413"},
-{"id": "tencricket3",
-"m3u8": "https://tvplaytv.pages.dev/p6/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenCricket/index.m3u8"},
-{"id": "tencricket4",
-"m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
-{"id": "tencricket5",
+
+{"id": "tencricket2",
  "mpd": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
  "key": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" }, 
 
 
-{"id": "tensports1",
-"m3u8": "https://tv4wep.pages.dev/?id=tenspk&name=tv4wap"},
-{"id": "tensports",
-"m3u8": "https://tv4wep.pages.dev/?id=tenspk&name=crichd"},
-{"id": "tensports2",
-"m3u8": "https://yeahstreams.com/tv/stream-741.php"},
-{"id":"tensports3", 
-"m3u8":"https://tvplaytv.pages.dev/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106878"},
 
 
 
