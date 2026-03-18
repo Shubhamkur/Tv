@@ -362,17 +362,11 @@
 
 
 {"id": "tsports",
-"m3u8": "https://tv4wep.pages.dev/?id=T%20Sports%20HD&name=ayna"}, 
-{"id": "tsports1",
 "m3u8":"https://wapgo.pages.dev/?id=T%20Sports%20HD"},
-{"id": "tsports2",
-"m3u8": "https://tv4wab.pages.dev/?id=695905d3fb1469e5acc95552&name=ROARZONE"}, 
-{"id": "tsports3",
-"m3u8": "https://tv4wabb.pages.dev/?id=T%20SPORT%20HD&name=ayna"}, 
-{"id": "tsports4",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
-{"id": "tsports5",
-"m3u8": "https://tvplaytv.pages.dev/p15/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/TSportsHD/index.m3u8"}, 
+ 
+{"id": "tsports1",
+"m3u8": "https://billowing-disk-6f25.jannatulbusra000.workers.dev/?url=http://stvlive.net:8080/tsports1/index.m3u8"}, 
+
 
 
 
