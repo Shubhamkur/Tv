@@ -2,11 +2,7 @@
 
 [
 
-{
-    "id": "willowtv1",
-    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
-    "name": "WILLOW TV"
-  },
+
   {
     "id": "starhindi",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
@@ -36,11 +32,7 @@
     "name": "T SPORTS"
   },
 
-{
-    "id": "willowtv",
-    "logo": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
-    "name": "WILLOW TV"
-  },
+
 
 
 
@@ -59,14 +51,6 @@
 
 
 {
-    "id": "willowsports",
-    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
-    "name": "WILLOW SPORTS"
-  },{
-    "id": "willowsports1",
-    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
-    "name": "WILLOW SPORTS"
-  },{
     "id": "willowsports2",
     "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
     "name": "WILLOW SPORTS"
@@ -96,42 +80,9 @@
     "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjjHNNZ8ThCspqDjueu8EqdErzEicE-Dc5BykVGsM5cL5daCLx86pUKe43NHqlTAlWoQUi4LL1OCHyVQvV39VdvPI4_MMV6EPXWO7fNCHL3CRIw44teQOC4Mg9f3ZNohJJ1NDwKqXJfv5TgPIumgoJUIbiXb-vdCZoToCAqsto7agUlGlYBDeHhoeC8AXs",
     "name": "CRICBUZZ 2"
   },
-  {
-    "id": "fox",
-    "logo": "https://wapka-img.zuna.id/039194ba.png",
-    "name": "FOX CRICKET 501"
-  },
-  {
-    "id": "skycricket",
-    "logo": "https://wapka-img.zuna.id/3d2ae3b3.jpeg",
-    "name": "SKY CRICKET"
-  },
-
-
-  {
-    "id": "astrocricket",
-    "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png",
-    "name": "ASTRO CRICKET"
-  },
   
   
-  {
-    "id": "asports",
-    "logo": "https://wapka-img.zuna.id/e3d690f1.png",
-    "name": "A SPORTS"
-  },
-  {
-    "id": "ptv",
-    "logo": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73",
-    "name": "PTV SPORTS"
-  },
   
-  
-  {
-    "id": "tensports",
-    "logo": "https://wapka-img.zuna.id/da49b044.jpeg",
-    "name": "TEN SPORTS"
-  },
   {
     "id": "tencricket",
     "logo": "https://tvassets.roarzone.info/images/ten_cricket.png",
