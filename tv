@@ -32,7 +32,7 @@
 {"id":"sony13", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=7482ed5e9c4da0cc7de6aa27dc16c4c4"},
 {"id":"sony11", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten1/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten1/index.m3u8"},
 {"id":"sony1", 
 "m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8"},
 {"id":"sony14", 
@@ -44,9 +44,9 @@
 {"id":"sony22", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=6f8378e796d7f7cff65333fd3b1d0974"},
 {"id":"sony21", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten2/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten2/index.m3u8"},
 {"id":"sony2", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports2/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports2/index.m3u8"},
 
 {"id":"sony3","m3u8":"https://v5on.site/play.php?id=276739"},
 {"id":"sony31","m3u8":"https://mspannel.top/stream/rz/?watch=0bd594d32d6dc8cee0165bc175eeb862"},
@@ -58,7 +58,7 @@
 {"id":"sony52", 
 "m3u8":"https://mspannel.top/stream/rz/?watch=0940a354e290cbf71e9d5d21e2883258"},
 {"id":"sony51", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten5/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/stvlive.net:8080/sonyten5/index.m3u8"},
 {"id":"sony5", 
 "m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenSports5/index.m3u8"},
 
@@ -342,7 +342,7 @@
 {"id": "tencricket2",
 "m3u8": "https://wapgo.pages.dev/?id=413"},
 {"id": "tencricket3",
-"m3u8": "https://tvgotk.github.io/p6/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenCricket/index.m3u8"},
+"m3u8": "https://tvplaytv.pages.dev/p6/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/SonyTenCricket/index.m3u8"},
 {"id": "tencricket4",
 "m3u8": "https://tvwap.pages.dev/?id=ten_cricket&name=toffee"},
 {"id": "tencricket5",
@@ -357,7 +357,7 @@
 {"id": "tensports2",
 "m3u8": "https://yeahstreams.com/tv/stream-741.php"},
 {"id":"tensports3", 
-"m3u8":"https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106878"},
+"m3u8":"https://tvplaytv.pages.dev/p15/?url=https://anywhere.pwisetthon.com/http://xown.site/stream.php?id=1106878"},
 
 
 
@@ -370,15 +370,15 @@
 {"id": "tsports3",
 "m3u8": "https://tv4wabb.pages.dev/?id=T%20SPORT%20HD&name=ayna"}, 
 {"id": "tsports4",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/tsports1/index.m3u8"}, 
 {"id": "tsports5",
-"m3u8": "https://tvgotk.github.io/p15/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/TSportsHD/index.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p15/?url=https://anywhere.pwisetthon.com/http://103.60.204.26:3255/TSportsHD/index.m3u8"}, 
 
 
 
 
 {"id": "gtv",
-"m3u8": "https://tvgotk.github.io/p1/?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1/mono.m3u8"},
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1/mono.m3u8"},
 
 
 {"id": "ptv",
@@ -401,10 +401,10 @@
 
 
 {"id":"geosuper1", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://anywhere.pwisetthon.com/https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://anywhere.pwisetthon.com/https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8"},
 
 {"id":"peo1", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"},
 
 {"id":"fastsports", 
 "mpd":"https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd","key":"ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3"}, 
@@ -412,25 +412,25 @@
 
 
 {"id":"tv7", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"},
 
 {"id":"solhtv", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8"},
 
 
 
 {"id":"pkten", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/playlist.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/playlist.m3u8"},
 
 
 {"id":"rstv", 
-"m3u8":"https://tvgotk.github.io/p1/?url=https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"},
 
 
 {"id": "ds",
 "m3u8": "https://tvplaytv.pages.dev/p1/?url=https://cdn-7.pishow.tv/live/1161/1161_3.m3u8"}, 
   {"id": "ds1",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}
 
 
 
@@ -438,10 +438,7 @@
 
 
 
- {"id": "zap",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null"}, 
+ 
 
-{"id":"shoq","mpd":"https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
- "key": "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" }
 
 ]
