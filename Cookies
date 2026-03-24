@@ -1,1 +1,17 @@
-C
+{
+  "active_index": 0,
+  "sources": [
+    { "id": 1, "url": "https://j1.uhd2026.workers.dev/", "note": "Primary" },
+    { "id": 2, "url": "https://allinonereborn.online/jstrweb2/jstr.json" },
+    { "id": 3, "url": "https://raw.githubusercontent.com/vaathala00/jow/main/output.json" },
+    { "id": 4, "url": "https://jiotv.diwij76343.workers.dev" },
+    { "id": 5, "url": "https://raw.githubusercontent.com/24sports-net/cookie-updater/refs/heads/main/cookie.json" },
+    { "id": 6, "url": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://webiptv.site/ck.txt" },
+    { "id": 7, "url": "https://allrounderid.pages.dev/api/jiotv2.json" },
+    { "id": 8, "url": "https://allrounder-live.pages.dev/api/cookie.json" },
+    { "id": 9, "url": "https://jtvplus.streamflex.workers.dev/JTVPLUSONLY.m3u" },
+    { "id": 10, "url": "https://zioplus.saqlainhaider8198.workers.dev/" },
+    { "id": 11, "url": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u" }
+  ]
+}
+
