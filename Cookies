@@ -1,9 +1,9 @@
 {
   "active_index": 0,
   "sources": [
-    { "id": 1, "url": "https://j1.uhd2026.workers.dev/", "note": "Primary" },
+    { "id": 1, "url": "https://raw.githubusercontent.com/vaathala00/jow/main/output.json", "note": "Primary" },
     { "id": 2, "url": "https://allinonereborn.online/jstrweb2/jstr.json" },
-    { "id": 3, "url": "https://raw.githubusercontent.com/vaathala00/jow/main/output.json" },
+    { "id": 3, "url": "https://j1.uhd2026.workers.dev/" },
     { "id": 4, "url": "https://jiotv.diwij76343.workers.dev" },
     { "id": 5, "url": "https://raw.githubusercontent.com/24sports-net/cookie-updater/refs/heads/main/cookie.json" },
     { "id": 6, "url": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://webiptv.site/ck.txt" },
