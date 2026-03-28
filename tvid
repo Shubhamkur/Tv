@@ -4,21 +4,19 @@
 
 
   {
-    "id": "starhindi",
+    "id": "sony12",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
     "name": "STAR SPORTS 1 HINDI"
-  },{
-    "id": "star2eng",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
-    "name": "STAR SPORTS 2"
-  },{
+  },
+{
     "id": "star1eng2",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
     "name": "STAR SPORTS 1"
-  },{
-    "id": "star1eng",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
-    "name": "STAR SPORTS 1"
+  },
+{
+    "id": "star2eng",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
+    "name": "STAR SPORTS 2"
   },
 
 
