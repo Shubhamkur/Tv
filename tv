@@ -3,10 +3,37 @@
 
 
 {"id":"sony12", 
-"m3u8":"https:/live4wap.pages.dev"},
+"m3u8":"https://live4wap.pages.dev"},
+
+
+{"id":"hotstar", 
+"m3u8":"https://livewap.pages.dev"},
+
+
+{"id":"sts1h", 
+"m3u8":"https://waptv.pages.dev"},
+
+
+{"id":"sts2h", 
+"m3u8":"https://live4wap.pages.dev"},
 
 
 
+{"id": "starhindi",
+"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
+
+
+
+
+
+
+{"id": "star1eng",
+"m3u8": "https://wapgo.pages.dev/?name=STAR%20SPORTS%201"}, 
+
+
+
+{"id": "star2eng",
+"m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
 
@@ -71,24 +98,6 @@
 
 
 
-
-
-{"id": "starhindi",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
-
-
-
-
-{"id": "star1eng",
-"m3u8": "https://mspannel.top/stream/rz/?watch=18283d4f5f13c0cac5cab4433a0ed8f0"}, 
-
-{"id": "star1eng2",
-"m3u8": "https://wapgo.pages.dev/?name=STAR%20SPORTS%201"}, 
-
-
-
-{"id": "star2eng",
-"m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
 
