@@ -3,13 +3,26 @@
 [
 
 
+    {
+    "id": "hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "HOTSTAR"
+  },
+
+
+{
+    "id": "sts1h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg",
+    "name": "STAR SPORTS 1 HD"
+  },
+
   {
-    "id": "sony12",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
-    "name": "STAR SPORTS 1 HINDI"
+    "id": "sts2h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png",
+    "name": "STAR SPORTS 2 HINDI"
   },
 {
-    "id": "star1eng2",
+    "id": "star1eng",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
     "name": "STAR SPORTS 1"
   },
