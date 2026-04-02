@@ -28,9 +28,6 @@
 
 {"id": "star1eng",
 "m3u8": "https://wapgo.pages.dev/?name=STAR%20SPORTS%201"}, 
-
-
-
 {"id": "star2eng",
 "m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
 
@@ -68,16 +65,16 @@
 
 
 {"id": "willowtv",
-"m3u8":"https://waptv.wapka.website/willow"}, 
+"m3u8":"https://hls.ratanliton2.workers.dev/?url=http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8"}, 
 
 
 
 
-{"id": "willowsports",
+{"id": "willowsports1",
  "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kksbtkclxn/out/v1/75ba74c3fa354297aa9327a31dfeb4d5/cenc.mpd",
  "key": "4a3d50bef26a7b2acebfb719a2d02476:f94f4e94b57e18e48450231b20222c0c" },
 
-{"id": "willowsports1",
+{"id": "willowsports",
 "m3u8":"https://tvplaytv.pages.dev/p16/?url=https://hls.ratanliton2.workers.dev/?url=https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"},
 
 {"id": "willowsports2",
