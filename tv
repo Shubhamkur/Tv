@@ -33,9 +33,9 @@
 
 
 {"id": "star1eng",
-"m3u8": "https://wapgo.pages.dev/?name=STAR%20SPORTS%201"}, 
+"m3u8": "https://wapgoo.pages.dev/?name=STAR%20SPORTS%201"}, 
 {"id": "star2eng",
-"m3u8": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%202%20HD&name=ayna"},
+"m3u8": "https://wapgoo.pages.dev/?name=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
 
@@ -170,7 +170,7 @@
 
 
 {"id": "tsports",
-"m3u8":"https://wapgo.pages.dev/?id=T%20Sports%20HD"},
+"m3u8":"https://wapgoo.pages.dev/?id=T%20Sports%20HD"},
  
 {"id": "tsports1",
 "m3u8": "https://tvplaytv.pages.dev/p16?url=https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"}, 
