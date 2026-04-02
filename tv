@@ -19,8 +19,7 @@
 
 
 
-{"id": "starhindi",
-"m3u8": "https://tvplaytv.pages.dev/p1/?url=https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8"}, 
+
 
 
 
@@ -75,11 +74,12 @@
 
 
 {"id": "willowsports",
- "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
- "key": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e" },
+ "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kksbtkclxn/out/v1/75ba74c3fa354297aa9327a31dfeb4d5/cenc.mpd",
+ "key": "4a3d50bef26a7b2acebfb719a2d02476:f94f4e94b57e18e48450231b20222c0c" },
+
 {"id": "willowsports1",
- "mpd": "https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd",
- "key": "4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e" },
+"m3u8":"https://tvplaytv.pages.dev/p1/?url=https://hls.ratanliton2.workers.dev/?url=https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"},
+
 {"id": "willowsports2",
 "m3u8":"https://tvplaytv.pages.dev/p1/?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"}, 
 
