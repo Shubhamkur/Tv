@@ -19,6 +19,12 @@
 
 
 
+{"id":"star1", 
+"m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/sonyten5/index.m3u8"},
+{"id":"star11", 
+"m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8"},
+{"id":"star2", 
+"m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
 
 
@@ -65,7 +71,7 @@
 
 
 {"id": "willowtv",
-"m3u8":"https://hls.ratanliton2.workers.dev/?url=http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8"}, 
+"m3u8":"https://tvplaytv.pages.dev/p16?url=https://hls.ratanliton2.workers.dev/?url=http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8"}, 
 
 
 
@@ -167,7 +173,7 @@
 "m3u8":"https://wapgo.pages.dev/?id=T%20Sports%20HD"},
  
 {"id": "tsports1",
-"m3u8": "https://billowing-disk-6f25.jannatulbusra000.workers.dev/?url=http://stvlive.net:8080/tsports1/index.m3u8"}, 
+"m3u8": "https://tvplaytv.pages.dev/p16?url=https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"}, 
 
 
 
