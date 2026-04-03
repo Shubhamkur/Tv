@@ -22,14 +22,31 @@
     "name": "STAR SPORTS 2 HINDI"
   },
 {
-    "id": "star1eng",
+    "id": "sts1",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
     "name": "STAR SPORTS 1"
   },
 {
-    "id": "star2eng",
+    "id": "sts11",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+{
+    "id": "sts2",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
     "name": "STAR SPORTS 2"
+  },
+
+{
+    "id": "stss1",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss1.jpg",
+    "name": "STAR SPORTS SELECT 1"
+  },
+
+  {
+    "id": "stss2",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/stss2.jpg",
+    "name": "STAR SPORTS SELECT 2"
   },
 
 
@@ -127,9 +144,9 @@
 
   
   {
-    "id": "pkten",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/pkten.jpeg",
-    "name": "TEN SPORTS PAK"
+    "id": "tencricket",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/tencricket.png",
+    "name": "TEN CRICKET"
   },
   
   {
