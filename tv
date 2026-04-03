@@ -38,11 +38,14 @@
 
 {"id":"sts2", 
 "m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
-
 {"id": "sts21",
 "m3u8": "https://wapgoo.pages.dev/?name=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
+{"id":"stss1", 
+"m3u8":"https://tvplaytv.pages.dev/p1?https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8"},
+{"id":"stss2", 
+"m3u8":"https://tvplaytv.pages.dev/p1?https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8"},
 
 
 
