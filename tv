@@ -19,22 +19,27 @@
 
 
 
-{"id":"star1", 
+
+
+
+
+
+
+
+
+
+{"id": "sts1",
+"m3u8": "https://tvplaytv.pages.dev/p1?url=https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8"}, 
+{"id":"sts11", 
 "m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/sonyten5/index.m3u8"},
-{"id":"star11", 
-"m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8"},
-{"id":"star2", 
+
+
+
+
+{"id":"sts2", 
 "m3u8":"https://tvplaytv.pages.dev/p16?https://hls.ratanliton2.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"},
 
-
-
-
-
-
-
-{"id": "star1eng",
-"m3u8": "https://wapgoo.pages.dev/?name=STAR%20SPORTS%201"}, 
-{"id": "star2eng",
+{"id": "sts21",
 "m3u8": "https://wapgoo.pages.dev/?name=STAR%20SPORTS%202%20HD&name=ayna"},
 
 
