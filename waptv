@@ -152,7 +152,7 @@
   { "id": "willowsports", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowsports.jpg", "name": "WILLOW SPORTS", "teams": ["India"], "link": "https://tvwap.pages.dev/?id=willowsports" },
   { "id": "willowsports2", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowsports.jpg", "name": "WILLOW SPORTS", "teams": ["PSL"], "link": "https://tvwap.pages.dev/?id=willowsports2" },
   { "id": "willowtv", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowtv.jpg", "name": "WILLOW TV", "teams": ["IPL"], "link": "https://tvwap.pages.dev/?id=willowtv" },
-  { "id": "willowtv1", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowtv.jpg", "name": "WILLOW TV", "teams": ["India"], "link": "https://tvwap.pages.dev/?id=willowtv1" },
+  { "id": "willowtv1", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowtv.jpg", "name": "WILLOW TV", "teams": ["IPL"], "link": "https://tvwap.pages.dev/?id=willowtv1" },
   { "id": "willowxtra", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowxtra.png", "name": "WILLOW XTRA", "teams": ["India"], "link": "https://tvwap.pages.dev/?id=willowxtra" },
   { "id": "willowxtra1", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowxtra.png", "name": "WILLOW XTRA", "teams": ["India"], "link": "https://tvwap.pages.dev/?id=willowxtra1" },
   { "id": "zap", "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/zap.jpg", "name": "ZAP TV", "teams": ["India"], "link": "https://tvwap.pages.dev/?id=zap" },
