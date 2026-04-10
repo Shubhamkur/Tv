@@ -11,6 +11,12 @@
     "name": "CRICLIFE"
   },
 
+{
+    "id": "sts1",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+
     {
     "id": "hotstar",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
