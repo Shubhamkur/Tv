@@ -3,12 +3,13 @@
 
 
 {"id":"sony12", 
-"m3u8":"https://tvwap.pages.dev?id=cricbuzz1"},
+"m3u8":"https://tvwap.pages.dev/?id=criclife"},
 
-{"id": "cricbuzz1", "mpd": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd", "key": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f"},
 {"id":"tamilgun", 
-"m3u8":"https://tvplaytv.pages.dev/p6?url=https://newcdn.tamils.click/live/index.m3u8"},
+"m3u8":"https://tvplaytv.pages.dev/p16?url=https://newcdn.tamils.click/live/index.m3u8"},
 
+
+{"id": "criclife", "mpd": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd", "key": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f"},
 
 {"id":"hotstar", 
 "m3u8":"https://tvgotk.wapka.fun/hotstar"},
