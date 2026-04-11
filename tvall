@@ -84,6 +84,12 @@
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
     "name": "HOTSTAR"
   },
+
+{
+    "id": "hub4",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hub4.png",
+    "name": "HUBSPORTS 4"
+  },
   {
     "id": "lemartv",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/lemartv.jpg",
