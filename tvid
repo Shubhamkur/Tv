@@ -12,7 +12,13 @@
   },
 
 {
-    "id": "sts1",
+    "id": "sts13",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+
+{
+    "id": "sts12",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
     "name": "STAR SPORTS 1"
   },
@@ -31,9 +37,9 @@
   },
 
   {
-    "id": "sts2h",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png",
-    "name": "STAR SPORTS 2 HINDI"
+    "id": "sony12",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.png",
+    "name": "STAR SPORTS 1 HINDI"
   },
 {
     "id": "sts1",
